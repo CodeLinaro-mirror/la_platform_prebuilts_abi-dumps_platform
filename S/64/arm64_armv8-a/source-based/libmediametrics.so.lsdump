@@ -8,7 +8,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIA19_c",
    "size" : 19,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }
  ],
  "builtin_types" :
@@ -26,6 +26,7 @@
   {
    "alignment" : 1,
    "is_integral" : true,
+   "is_unsigned" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
    "referenced_type" : "_ZTIc",
@@ -201,7 +202,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics11PrintFormatE",
    "self_type" : "_ZTIN7android12mediametrics11PrintFormatE",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "underlying_type" : "_ZTIj"
   },
   {
@@ -226,7 +227,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item22RecursiveWildcardCheckE",
    "self_type" : "_ZTIN7android12mediametrics4Item22RecursiveWildcardCheckE",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "underlying_type" : "_ZTIi"
   },
   {
@@ -263,7 +264,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4TypeE",
    "self_type" : "_ZTIN7android12mediametrics4TypeE",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "underlying_type" : "_ZTIj"
   }
  ],
@@ -286,7 +287,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_addInt32",
@@ -304,7 +305,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_addInt64",
@@ -322,7 +323,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_addRate",
@@ -343,7 +344,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_count",
@@ -355,7 +356,7 @@
     }
    ],
    "return_type" : "_ZTIi",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_create",
@@ -367,7 +368,7 @@
     }
    ],
    "return_type" : "_ZTIl",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_delete",
@@ -379,7 +380,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_freeCString",
@@ -391,7 +392,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_getAttributes",
@@ -409,7 +410,7 @@
     }
    ],
    "return_type" : "_ZTIb",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_getCString",
@@ -427,7 +428,7 @@
     }
    ],
    "return_type" : "_ZTIb",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_getDouble",
@@ -445,7 +446,7 @@
     }
    ],
    "return_type" : "_ZTIb",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_getInt32",
@@ -463,7 +464,7 @@
     }
    ],
    "return_type" : "_ZTIb",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_getInt64",
@@ -481,7 +482,7 @@
     }
    ],
    "return_type" : "_ZTIb",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_getKey",
@@ -493,7 +494,7 @@
     }
    ],
    "return_type" : "_ZTIPKc",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_getRate",
@@ -517,13 +518,13 @@
     }
    ],
    "return_type" : "_ZTIb",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_isEnabled",
    "linker_set_key" : "mediametrics_isEnabled",
    "return_type" : "_ZTIb",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_readable",
@@ -535,7 +536,7 @@
     }
    ],
    "return_type" : "_ZTIPKc",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_selfRecord",
@@ -547,7 +548,7 @@
     }
    ],
    "return_type" : "_ZTIb",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_setCString",
@@ -565,7 +566,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_setDouble",
@@ -583,7 +584,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_setInt32",
@@ -601,7 +602,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_setInt64",
@@ -619,7 +620,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_setRate",
@@ -640,7 +641,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "function_name" : "mediametrics_setUid",
@@ -655,7 +656,7 @@
     }
    ],
    "return_type" : "_ZTIv",
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   }
  ],
  "global_vars" : [],
@@ -668,7 +669,7 @@
    "referenced_type" : "_ZTIKN7android12mediametrics4Item4PropE",
    "self_type" : "_ZTIRKN7android12mediametrics4Item4PropE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -677,7 +678,7 @@
    "referenced_type" : "_ZTIKN7android12mediametrics4ItemE",
    "self_type" : "_ZTIRKN7android12mediametrics4ItemE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -686,7 +687,7 @@
    "referenced_type" : "_ZTIKN7android2spINS_7IBinderEEE",
    "self_type" : "_ZTIRKN7android2spINS_7IBinderEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -695,7 +696,7 @@
    "referenced_type" : "_ZTIKN7android6ParcelE",
    "self_type" : "_ZTIRKN7android6ParcelE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -704,7 +705,7 @@
    "referenced_type" : "_ZTIKN7android8String16E",
    "self_type" : "_ZTIRKN7android8String16E",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -713,7 +714,7 @@
    "referenced_type" : "_ZTIKNSt3__110unique_ptrIN7android20IMediaMetricsServiceENS_14default_deleteIS2_EEEE",
    "self_type" : "_ZTIRKNSt3__110unique_ptrIN7android20IMediaMetricsServiceENS_14default_deleteIS2_EEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -722,7 +723,7 @@
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -731,7 +732,7 @@
    "referenced_type" : "_ZTIKNSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEElEEEE",
    "self_type" : "_ZTIRKNSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEElEEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -740,7 +741,7 @@
    "referenced_type" : "_ZTIKNSt3__14pairIllEE",
    "self_type" : "_ZTIRKNSt3__14pairIllEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -749,7 +750,7 @@
    "referenced_type" : "_ZTIKNSt3__17variantIJNS_9monostateEildNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIllEEEEE",
    "self_type" : "_ZTIRKNSt3__17variantIJNS_9monostateEildNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIllEEEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -758,7 +759,7 @@
    "referenced_type" : "_ZTIKNSt3__19monostateE",
    "self_type" : "_ZTIRKNSt3__19monostateE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -767,7 +768,7 @@
    "referenced_type" : "_ZTIKPKc",
    "self_type" : "_ZTIRKPKc",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -776,7 +777,7 @@
    "referenced_type" : "_ZTIKd",
    "self_type" : "_ZTIRKd",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -785,7 +786,7 @@
    "referenced_type" : "_ZTIKh",
    "self_type" : "_ZTIRKh",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -794,7 +795,7 @@
    "referenced_type" : "_ZTIKi",
    "self_type" : "_ZTIRKi",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -803,7 +804,7 @@
    "referenced_type" : "_ZTIKj",
    "self_type" : "_ZTIRKj",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -812,7 +813,7 @@
    "referenced_type" : "_ZTIKl",
    "self_type" : "_ZTIRKl",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -821,7 +822,7 @@
    "referenced_type" : "_ZTIKt",
    "self_type" : "_ZTIRKt",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -830,7 +831,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics12BufferedItemE",
    "self_type" : "_ZTIRN7android12mediametrics12BufferedItemE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -839,7 +840,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
    "self_type" : "_ZTIRN7android12mediametrics4Item4PropE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -848,7 +849,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
    "self_type" : "_ZTIRN7android12mediametrics4Item8iteratorE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -857,7 +858,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
    "self_type" : "_ZTIRN7android12mediametrics4ItemE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }
  ],
  "pointer_types" :
@@ -869,7 +870,7 @@
    "referenced_type" : "_ZTIKN7android12mediametrics12BufferedItemE",
    "self_type" : "_ZTIPKN7android12mediametrics12BufferedItemE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -878,7 +879,7 @@
    "referenced_type" : "_ZTIKN7android12mediametrics4Item4PropE",
    "self_type" : "_ZTIPKN7android12mediametrics4Item4PropE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -887,7 +888,7 @@
    "referenced_type" : "_ZTIKN7android12mediametrics4Item8iteratorE",
    "self_type" : "_ZTIPKN7android12mediametrics4Item8iteratorE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -896,7 +897,7 @@
    "referenced_type" : "_ZTIKN7android12mediametrics4ItemE",
    "self_type" : "_ZTIPKN7android12mediametrics4ItemE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -905,7 +906,7 @@
    "referenced_type" : "_ZTIKN7android20IMediaMetricsServiceE",
    "self_type" : "_ZTIPKN7android20IMediaMetricsServiceE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -914,7 +915,7 @@
    "referenced_type" : "_ZTIKNSt3__17variantIJNS_9monostateEildNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIllEEEEE",
    "self_type" : "_ZTIPKNSt3__17variantIJNS_9monostateEildNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIllEEEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -923,7 +924,7 @@
    "referenced_type" : "_ZTIKc",
    "self_type" : "_ZTIPKc",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -932,7 +933,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics12BufferedItemE",
    "self_type" : "_ZTIPN7android12mediametrics12BufferedItemE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -941,7 +942,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
    "self_type" : "_ZTIPN7android12mediametrics4Item4PropE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -950,7 +951,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
    "self_type" : "_ZTIPN7android12mediametrics4Item8iteratorE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -959,7 +960,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
    "self_type" : "_ZTIPN7android12mediametrics4ItemE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -968,7 +969,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics5DeferE",
    "self_type" : "_ZTIPN7android12mediametrics5DeferE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -977,7 +978,7 @@
    "referenced_type" : "_ZTIN7android20IMediaMetricsServiceE",
    "self_type" : "_ZTIPN7android20IMediaMetricsServiceE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -986,7 +987,7 @@
    "referenced_type" : "_ZTIN7android21BnMediaMetricsServiceE",
    "self_type" : "_ZTIPN7android21BnMediaMetricsServiceE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -995,7 +996,7 @@
    "referenced_type" : "_ZTIN7android6ParcelE",
    "self_type" : "_ZTIPN7android6ParcelE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1004,7 +1005,7 @@
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1013,7 +1014,7 @@
    "referenced_type" : "_ZTINSt3__14pairIllEE",
    "self_type" : "_ZTIPNSt3__14pairIllEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1022,7 +1023,7 @@
    "referenced_type" : "_ZTINSt3__19monostateE",
    "self_type" : "_ZTIPNSt3__19monostateE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1031,7 +1032,7 @@
    "referenced_type" : "_ZTIPKc",
    "self_type" : "_ZTIPPKc",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1040,7 +1041,7 @@
    "referenced_type" : "_ZTIPc",
    "self_type" : "_ZTIPPc",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1049,7 +1050,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIPc",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1058,7 +1059,7 @@
    "referenced_type" : "_ZTId",
    "self_type" : "_ZTIPd",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1067,7 +1068,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIPh",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1076,7 +1077,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIPi",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1085,7 +1086,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIPj",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1094,7 +1095,7 @@
    "referenced_type" : "_ZTIl",
    "self_type" : "_ZTIPl",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1103,7 +1104,7 @@
    "referenced_type" : "_ZTIm",
    "self_type" : "_ZTIPm",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1112,7 +1113,7 @@
    "referenced_type" : "_ZTIt",
    "self_type" : "_ZTIPt",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }
  ],
  "qualified_types" :
@@ -1125,7 +1126,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics12BufferedItemE",
    "self_type" : "_ZTIKN7android12mediametrics12BufferedItemE",
    "size" : 56,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1135,7 +1136,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
    "self_type" : "_ZTIKN7android12mediametrics4Item4PropE",
    "size" : 56,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1145,7 +1146,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
    "self_type" : "_ZTIKN7android12mediametrics4Item8iteratorE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1155,7 +1156,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
    "self_type" : "_ZTIKN7android12mediametrics4ItemE",
    "size" : 96,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 4,
@@ -1165,7 +1166,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4TypeE",
    "self_type" : "_ZTIKN7android12mediametrics4TypeE",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1175,7 +1176,7 @@
    "referenced_type" : "_ZTIN7android20IMediaMetricsServiceE",
    "self_type" : "_ZTIKN7android20IMediaMetricsServiceE",
    "size" : 24,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -1185,7 +1186,7 @@
    "referenced_type" : "_ZTIN7android2spINS_7IBinderEEE",
    "self_type" : "_ZTIKN7android2spINS_7IBinderEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -1195,7 +1196,7 @@
    "referenced_type" : "_ZTIN7android6ParcelE",
    "self_type" : "_ZTIKN7android6ParcelE",
    "size" : 120,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -1205,7 +1206,7 @@
    "referenced_type" : "_ZTIN7android8String16E",
    "self_type" : "_ZTIKN7android8String16E",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -1215,7 +1216,7 @@
    "referenced_type" : "_ZTINSt3__110unique_ptrIN7android20IMediaMetricsServiceENS_14default_deleteIS2_EEEE",
    "self_type" : "_ZTIKNSt3__110unique_ptrIN7android20IMediaMetricsServiceENS_14default_deleteIS2_EEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h"
   },
   {
    "alignment" : 8,
@@ -1225,7 +1226,7 @@
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 24,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1235,7 +1236,7 @@
    "referenced_type" : "_ZTINSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEElEEEE",
    "self_type" : "_ZTIKNSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEElEEEE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1245,7 +1246,7 @@
    "referenced_type" : "_ZTINSt3__14pairIllEE",
    "self_type" : "_ZTIKNSt3__14pairIllEE",
    "size" : 16,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1255,7 +1256,7 @@
    "referenced_type" : "_ZTINSt3__17variantIJNS_9monostateEildNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIllEEEEE",
    "self_type" : "_ZTIKNSt3__17variantIJNS_9monostateEildNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIllEEEEE",
    "size" : 32,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 16,
@@ -1265,7 +1266,7 @@
    "referenced_type" : "_ZTINSt3__18functionIFvvEEE",
    "self_type" : "_ZTIKNSt3__18functionIFvvEEE",
    "size" : 48,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 1,
@@ -1275,7 +1276,7 @@
    "referenced_type" : "_ZTINSt3__19monostateE",
    "self_type" : "_ZTIKNSt3__19monostateE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1285,7 +1286,7 @@
    "referenced_type" : "_ZTIPKc",
    "self_type" : "_ZTIKPKc",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 1,
@@ -1295,7 +1296,7 @@
    "referenced_type" : "_ZTIb",
    "self_type" : "_ZTIKb",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 1,
@@ -1305,7 +1306,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1315,7 +1316,7 @@
    "referenced_type" : "_ZTId",
    "self_type" : "_ZTIKd",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 1,
@@ -1325,7 +1326,7 @@
    "referenced_type" : "_ZTIh",
    "self_type" : "_ZTIKh",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 4,
@@ -1335,7 +1336,7 @@
    "referenced_type" : "_ZTIi",
    "self_type" : "_ZTIKi",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 4,
@@ -1345,7 +1346,7 @@
    "referenced_type" : "_ZTIj",
    "self_type" : "_ZTIKj",
    "size" : 4,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1355,7 +1356,7 @@
    "referenced_type" : "_ZTIl",
    "self_type" : "_ZTIKl",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 2,
@@ -1365,7 +1366,7 @@
    "referenced_type" : "_ZTIt",
    "self_type" : "_ZTIKt",
    "size" : 2,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }
  ],
  "record_types" :
@@ -1429,7 +1430,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics12BufferedItemE",
    "self_type" : "_ZTIN7android12mediametrics12BufferedItemE",
    "size" : 56,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "vtable_components" :
    [
     {
@@ -1463,7 +1464,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics13time_string_tE",
    "self_type" : "_ZTIN7android12mediametrics13time_string_tE",
    "size" : 19,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1487,7 +1488,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
    "self_type" : "_ZTIN7android12mediametrics4Item4PropE",
    "size" : 56,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1505,7 +1506,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
    "self_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1565,7 +1566,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
    "self_type" : "_ZTIN7android12mediametrics4ItemE",
    "size" : 96,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 16,
@@ -1583,7 +1584,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics5DeferE",
    "self_type" : "_ZTIN7android12mediametrics5DeferE",
    "size" : 48,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 1,
@@ -1592,7 +1593,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE" ]
   },
   {
@@ -1602,7 +1603,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__14pairIllEEEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__14pairIllEEEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTINSt3__14pairIllEE" ]
   },
   {
@@ -1612,7 +1613,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__19monostateEEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__19monostateEEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTINSt3__19monostateE" ]
   },
   {
@@ -1622,7 +1623,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIdEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIdEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTId" ]
   },
   {
@@ -1632,7 +1633,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIiEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIiEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTIi" ]
   },
   {
@@ -1642,7 +1643,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIlEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIlEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTIl" ]
   },
   {
@@ -1652,7 +1653,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE" ]
   },
   {
@@ -1662,7 +1663,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__14pairIllEEEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__14pairIllEEEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTINSt3__14pairIllEE" ]
   },
   {
@@ -1672,7 +1673,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__19monostateEEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__19monostateEEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTINSt3__19monostateE" ]
   },
   {
@@ -1682,7 +1683,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIdEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIdEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTId" ]
   },
   {
@@ -1692,7 +1693,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIiEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIiEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTIi" ]
   },
   {
@@ -1702,7 +1703,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIlEE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIlEE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" : [ "_ZTIl" ]
   },
   {
@@ -1713,7 +1714,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics8BaseItemE",
    "self_type" : "_ZTIN7android12mediametrics8BaseItemE",
    "size" : 1,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -1729,7 +1730,7 @@
    "referenced_type" : "_ZTIN7android20IMediaMetricsServiceE",
    "self_type" : "_ZTIN7android20IMediaMetricsServiceE",
    "size" : 24,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h",
    "vtable_components" :
    [
     {
@@ -1826,7 +1827,7 @@
    "referenced_type" : "_ZTIN7android21BnMediaMetricsServiceE",
    "self_type" : "_ZTIN7android21BnMediaMetricsServiceE",
    "size" : 48,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h",
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/IMediaMetricsService.h",
    "vtable_components" :
    [
     {
@@ -1993,7 +1994,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
    "self_type" : "_ZTION7android12mediametrics4Item4PropE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
   {
    "alignment" : 8,
@@ -2002,7 +2003,7 @@
    "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
    "self_type" : "_ZTION7android12mediametrics4ItemE",
    "size" : 8,
-   "source_file" : "/frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }
  ]
 }
