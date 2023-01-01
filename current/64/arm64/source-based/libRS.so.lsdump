@@ -3349,6 +3349,31 @@
    "underlying_type" : "_ZTIj"
   },
   {
+   "alignment" : 8,
+   "enum_fields" :
+   [
+    {
+     "enum_field_value" : 18446744073709551615,
+     "name" : "BIONIC_MULTIBYTE_RESULT_ILLEGAL_SEQUENCE"
+    },
+    {
+     "enum_field_value" : 18446744073709551614,
+     "name" : "BIONIC_MULTIBYTE_RESULT_INCOMPLETE_SEQUENCE"
+    },
+    {
+     "enum_field_value" : 18446744073709551613,
+     "name" : "BIONIC_MULTIBYTE_RESULT_NO_BYTES_CONSUMED"
+    }
+   ],
+   "linker_set_key" : "_ZTI41$BIONIC_MULTIBYTE_RESULT_ILLEGAL_SEQUENCE",
+   "name" : "(unnamed)",
+   "referenced_type" : "_ZTI41$BIONIC_MULTIBYTE_RESULT_ILLEGAL_SEQUENCE",
+   "self_type" : "_ZTI41$BIONIC_MULTIBYTE_RESULT_ILLEGAL_SEQUENCE",
+   "size" : 8,
+   "source_file" : "bionic/libc/include/bits/bionic_multibyte_result.h",
+   "underlying_type" : "_ZTIm"
+  },
+  {
    "alignment" : 4,
    "enum_fields" :
    [
@@ -17553,7 +17578,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<void (*)(void *), 1, false> &",
+   "name" : "const std::__compressed_pair_elem<void (*)(void *), 1> &",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "self_type" : "_ZTIRKNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "size" : 8,
@@ -17589,7 +17614,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<char *, 0, false> &",
+   "name" : "const std::__compressed_pair_elem<char *, 0> &",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "self_type" : "_ZTIRKNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "size" : 8,
@@ -17598,7 +17623,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned char *, 0, false> &",
+   "name" : "const std::__compressed_pair_elem<unsigned char *, 0> &",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "self_type" : "_ZTIRKNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "size" : 8,
@@ -17607,7 +17632,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<int *, 0, false> &",
+   "name" : "const std::__compressed_pair_elem<int *, 0> &",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "self_type" : "_ZTIRKNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "size" : 8,
@@ -17616,7 +17641,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned int *, 0, false> &",
+   "name" : "const std::__compressed_pair_elem<unsigned int *, 0> &",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "self_type" : "_ZTIRKNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "size" : 8,
@@ -17625,7 +17650,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<long *, 0, false> &",
+   "name" : "const std::__compressed_pair_elem<long *, 0> &",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "self_type" : "_ZTIRKNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "size" : 8,
@@ -17634,7 +17659,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned long *, 0, false> &",
+   "name" : "const std::__compressed_pair_elem<unsigned long *, 0> &",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "self_type" : "_ZTIRKNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "size" : 8,
@@ -17643,7 +17668,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__122__compressed_pair_elemImLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned long, 0, false> &",
+   "name" : "const std::__compressed_pair_elem<unsigned long, 0> &",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "self_type" : "_ZTIRKNSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "size" : 8,
@@ -18969,7 +18994,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
-   "name" : "std::__compressed_pair_elem<void (*)(void *), 1, false> &",
+   "name" : "std::__compressed_pair_elem<void (*)(void *), 1> &",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "self_type" : "_ZTIRNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "size" : 8,
@@ -19005,7 +19030,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<char *, 0, false> &",
+   "name" : "std::__compressed_pair_elem<char *, 0> &",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "self_type" : "_ZTIRNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "size" : 8,
@@ -19014,7 +19039,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned char *, 0, false> &",
+   "name" : "std::__compressed_pair_elem<unsigned char *, 0> &",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "self_type" : "_ZTIRNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "size" : 8,
@@ -19023,7 +19048,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<int *, 0, false> &",
+   "name" : "std::__compressed_pair_elem<int *, 0> &",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "self_type" : "_ZTIRNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "size" : 8,
@@ -19032,7 +19057,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned int *, 0, false> &",
+   "name" : "std::__compressed_pair_elem<unsigned int *, 0> &",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "self_type" : "_ZTIRNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "size" : 8,
@@ -19041,7 +19066,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<long *, 0, false> &",
+   "name" : "std::__compressed_pair_elem<long *, 0> &",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "self_type" : "_ZTIRNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "size" : 8,
@@ -19050,7 +19075,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned long *, 0, false> &",
+   "name" : "std::__compressed_pair_elem<unsigned long *, 0> &",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "self_type" : "_ZTIRNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "size" : 8,
@@ -19059,7 +19084,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIRNSt3__122__compressed_pair_elemImLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned long, 0, false> &",
+   "name" : "std::__compressed_pair_elem<unsigned long, 0> &",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "self_type" : "_ZTIRNSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "size" : 8,
@@ -19588,7 +19613,7 @@
    "referenced_type" : "_ZTI10__locale_t",
    "self_type" : "_ZTIP10__locale_t",
    "size" : 8,
-   "source_file" : "bionic/libc/include/string.h"
+   "source_file" : "external/libcxx/include/__locale"
   },
   {
    "alignment" : 8,
@@ -22814,15 +22839,6 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIPK2tm",
-   "name" : "const tm *",
-   "referenced_type" : "_ZTIK2tm",
-   "self_type" : "_ZTIPK2tm",
-   "size" : 8,
-   "source_file" : "bionic/libc/include/time.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIPK6jvalue",
    "name" : "const jvalue *",
    "referenced_type" : "_ZTIK6jvalue",
@@ -23238,7 +23254,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__113__scalar_hashIdLm1EEE",
-   "name" : "const std::__scalar_hash<double, 1> *",
+   "name" : "const std::__scalar_hash<double> *",
    "referenced_type" : "_ZTIKNSt3__113__scalar_hashIdLm1EEE",
    "self_type" : "_ZTIPKNSt3__113__scalar_hashIdLm1EEE",
    "size" : 8,
@@ -23247,7 +23263,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__113__scalar_hashIeLm2EEE",
-   "name" : "const std::__scalar_hash<long double, 2> *",
+   "name" : "const std::__scalar_hash<long double> *",
    "referenced_type" : "_ZTIKNSt3__113__scalar_hashIeLm2EEE",
    "self_type" : "_ZTIPKNSt3__113__scalar_hashIeLm2EEE",
    "size" : 8,
@@ -23256,7 +23272,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__113__scalar_hashIfLm0EEE",
-   "name" : "const std::__scalar_hash<float, 0> *",
+   "name" : "const std::__scalar_hash<float> *",
    "referenced_type" : "_ZTIKNSt3__113__scalar_hashIfLm0EEE",
    "self_type" : "_ZTIPKNSt3__113__scalar_hashIfLm0EEE",
    "size" : 8,
@@ -23760,7 +23776,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<void (*)(void *), 1, false> *",
+   "name" : "const std::__compressed_pair_elem<void (*)(void *), 1> *",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "self_type" : "_ZTIPKNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "size" : 8,
@@ -23796,7 +23812,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<char *, 0, false> *",
+   "name" : "const std::__compressed_pair_elem<char *, 0> *",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "self_type" : "_ZTIPKNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "size" : 8,
@@ -23805,7 +23821,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned char *, 0, false> *",
+   "name" : "const std::__compressed_pair_elem<unsigned char *, 0> *",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "self_type" : "_ZTIPKNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "size" : 8,
@@ -23814,7 +23830,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<int *, 0, false> *",
+   "name" : "const std::__compressed_pair_elem<int *, 0> *",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "self_type" : "_ZTIPKNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "size" : 8,
@@ -23823,7 +23839,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned int *, 0, false> *",
+   "name" : "const std::__compressed_pair_elem<unsigned int *, 0> *",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "self_type" : "_ZTIPKNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "size" : 8,
@@ -23832,7 +23848,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<long *, 0, false> *",
+   "name" : "const std::__compressed_pair_elem<long *, 0> *",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "self_type" : "_ZTIPKNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "size" : 8,
@@ -23841,7 +23857,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned long *, 0, false> *",
+   "name" : "const std::__compressed_pair_elem<unsigned long *, 0> *",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "self_type" : "_ZTIPKNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "size" : 8,
@@ -23850,7 +23866,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKNSt3__122__compressed_pair_elemImLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned long, 0, false> *",
+   "name" : "const std::__compressed_pair_elem<unsigned long, 0> *",
    "referenced_type" : "_ZTIKNSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "self_type" : "_ZTIPKNSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "size" : 8,
@@ -25299,7 +25315,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__113__atomic_baseIiLb1EEE",
-   "name" : "std::__atomic_base<int, true> *",
+   "name" : "std::__atomic_base<int> *",
    "referenced_type" : "_ZTINSt3__113__atomic_baseIiLb1EEE",
    "self_type" : "_ZTIPNSt3__113__atomic_baseIiLb1EEE",
    "size" : 8,
@@ -25317,7 +25333,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__113__atomic_baseIjLb1EEE",
-   "name" : "std::__atomic_base<unsigned int, true> *",
+   "name" : "std::__atomic_base<unsigned int> *",
    "referenced_type" : "_ZTINSt3__113__atomic_baseIjLb1EEE",
    "self_type" : "_ZTIPNSt3__113__atomic_baseIjLb1EEE",
    "size" : 8,
@@ -25875,7 +25891,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__121__murmur2_or_cityhashImLm64EEE",
-   "name" : "std::__murmur2_or_cityhash<unsigned long, 64> *",
+   "name" : "std::__murmur2_or_cityhash<unsigned long> *",
    "referenced_type" : "_ZTINSt3__121__murmur2_or_cityhashImLm64EEE",
    "self_type" : "_ZTIPNSt3__121__murmur2_or_cityhashImLm64EEE",
    "size" : 8,
@@ -26091,7 +26107,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
-   "name" : "std::__compressed_pair_elem<void (*)(void *), 1, false> *",
+   "name" : "std::__compressed_pair_elem<void (*)(void *), 1> *",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "self_type" : "_ZTIPNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "size" : 8,
@@ -26127,7 +26143,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<char *, 0, false> *",
+   "name" : "std::__compressed_pair_elem<char *, 0> *",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "self_type" : "_ZTIPNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "size" : 8,
@@ -26136,7 +26152,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned char *, 0, false> *",
+   "name" : "std::__compressed_pair_elem<unsigned char *, 0> *",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "self_type" : "_ZTIPNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "size" : 8,
@@ -26145,7 +26161,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<int *, 0, false> *",
+   "name" : "std::__compressed_pair_elem<int *, 0> *",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "self_type" : "_ZTIPNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "size" : 8,
@@ -26154,7 +26170,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned int *, 0, false> *",
+   "name" : "std::__compressed_pair_elem<unsigned int *, 0> *",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "self_type" : "_ZTIPNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "size" : 8,
@@ -26163,7 +26179,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<long *, 0, false> *",
+   "name" : "std::__compressed_pair_elem<long *, 0> *",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "self_type" : "_ZTIPNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "size" : 8,
@@ -26172,7 +26188,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned long *, 0, false> *",
+   "name" : "std::__compressed_pair_elem<unsigned long *, 0> *",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "self_type" : "_ZTIPNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "size" : 8,
@@ -26181,7 +26197,7 @@
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIPNSt3__122__compressed_pair_elemImLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned long, 0, false> *",
+   "name" : "std::__compressed_pair_elem<unsigned long, 0> *",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "self_type" : "_ZTIPNSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "size" : 8,
@@ -27546,16 +27562,6 @@
   {
    "alignment" : 8,
    "is_const" : true,
-   "linker_set_key" : "_ZTIK2tm",
-   "name" : "const tm",
-   "referenced_type" : "_ZTI2tm",
-   "self_type" : "_ZTIK2tm",
-   "size" : 56,
-   "source_file" : "bionic/libc/include/time.h"
-  },
-  {
-   "alignment" : 8,
-   "is_const" : true,
    "linker_set_key" : "_ZTIK6jvalue",
    "name" : "const jvalue",
    "referenced_type" : "_ZTI6jvalue",
@@ -28375,7 +28381,7 @@
    "alignment" : 1,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__113__scalar_hashIdLm1EEE",
-   "name" : "const std::__scalar_hash<double, 1>",
+   "name" : "const std::__scalar_hash<double>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashIdLm1EEE",
    "self_type" : "_ZTIKNSt3__113__scalar_hashIdLm1EEE",
    "size" : 1,
@@ -28385,7 +28391,7 @@
    "alignment" : 1,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__113__scalar_hashIeLm2EEE",
-   "name" : "const std::__scalar_hash<long double, 2>",
+   "name" : "const std::__scalar_hash<long double>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashIeLm2EEE",
    "self_type" : "_ZTIKNSt3__113__scalar_hashIeLm2EEE",
    "size" : 1,
@@ -28395,7 +28401,7 @@
    "alignment" : 1,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__113__scalar_hashIfLm0EEE",
-   "name" : "const std::__scalar_hash<float, 0>",
+   "name" : "const std::__scalar_hash<float>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashIfLm0EEE",
    "self_type" : "_ZTIKNSt3__113__scalar_hashIfLm0EEE",
    "size" : 1,
@@ -29175,7 +29181,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<void (*)(void *), 1, false>",
+   "name" : "const std::__compressed_pair_elem<void (*)(void *), 1>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "self_type" : "_ZTIKNSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "size" : 8,
@@ -29215,7 +29221,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<char *, 0, false>",
+   "name" : "const std::__compressed_pair_elem<char *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "self_type" : "_ZTIKNSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "size" : 8,
@@ -29225,7 +29231,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned char *, 0, false>",
+   "name" : "const std::__compressed_pair_elem<unsigned char *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "self_type" : "_ZTIKNSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "size" : 8,
@@ -29235,7 +29241,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<int *, 0, false>",
+   "name" : "const std::__compressed_pair_elem<int *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "self_type" : "_ZTIKNSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "size" : 8,
@@ -29245,7 +29251,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned int *, 0, false>",
+   "name" : "const std::__compressed_pair_elem<unsigned int *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "self_type" : "_ZTIKNSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "size" : 8,
@@ -29255,7 +29261,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<long *, 0, false>",
+   "name" : "const std::__compressed_pair_elem<long *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "self_type" : "_ZTIKNSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "size" : 8,
@@ -29265,7 +29271,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned long *, 0, false>",
+   "name" : "const std::__compressed_pair_elem<unsigned long *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "self_type" : "_ZTIKNSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "size" : 8,
@@ -29275,7 +29281,7 @@
    "alignment" : 8,
    "is_const" : true,
    "linker_set_key" : "_ZTIKNSt3__122__compressed_pair_elemImLi0ELb0EEE",
-   "name" : "const std::__compressed_pair_elem<unsigned long, 0, false>",
+   "name" : "const std::__compressed_pair_elem<unsigned long, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "self_type" : "_ZTIKNSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "size" : 8,
@@ -40467,7 +40473,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__110less_equalIvEE",
-   "name" : "std::less_equal<>",
+   "name" : "std::less_equal<void>",
    "referenced_type" : "_ZTINSt3__110less_equalIvEE",
    "self_type" : "_ZTINSt3__110less_equalIvEE",
    "size" : 1,
@@ -40480,7 +40486,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__110logical_orIvEE",
-   "name" : "std::logical_or<>",
+   "name" : "std::logical_or<void>",
    "referenced_type" : "_ZTINSt3__110logical_orIvEE",
    "self_type" : "_ZTINSt3__110logical_orIvEE",
    "size" : 1,
@@ -40803,7 +40809,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__110multipliesIvEE",
-   "name" : "std::multiplies<>",
+   "name" : "std::multiplies<void>",
    "referenced_type" : "_ZTINSt3__110multipliesIvEE",
    "self_type" : "_ZTINSt3__110multipliesIvEE",
    "size" : 1,
@@ -40816,7 +40822,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__110owner_lessIvEE",
-   "name" : "std::owner_less<>",
+   "name" : "std::owner_less<void>",
    "referenced_type" : "_ZTINSt3__110owner_lessIvEE",
    "self_type" : "_ZTINSt3__110owner_lessIvEE",
    "size" : 1,
@@ -41077,7 +41083,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__111__add_constIKPvLb1EEE",
-   "name" : "std::__add_const<void *const, true>",
+   "name" : "std::__add_const<void *const>",
    "referenced_type" : "_ZTINSt3__111__add_constIKPvLb1EEE",
    "self_type" : "_ZTINSt3__111__add_constIKPvLb1EEE",
    "size" : 1,
@@ -41207,7 +41213,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__111__add_constIP16RsContextWrapperLb0EEE",
-   "name" : "std::__add_const<RsContextWrapper *, false>",
+   "name" : "std::__add_const<RsContextWrapper *>",
    "referenced_type" : "_ZTINSt3__111__add_constIP16RsContextWrapperLb0EEE",
    "self_type" : "_ZTINSt3__111__add_constIP16RsContextWrapperLb0EEE",
    "size" : 1,
@@ -41220,7 +41226,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__111__add_constIPvLb0EEE",
-   "name" : "std::__add_const<void *, false>",
+   "name" : "std::__add_const<void *>",
    "referenced_type" : "_ZTINSt3__111__add_constIPvLb0EEE",
    "self_type" : "_ZTINSt3__111__add_constIPvLb0EEE",
    "size" : 1,
@@ -41233,7 +41239,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__111__add_constIbLb0EEE",
-   "name" : "std::__add_const<bool, false>",
+   "name" : "std::__add_const<bool>",
    "referenced_type" : "_ZTINSt3__111__add_constIbLb0EEE",
    "self_type" : "_ZTINSt3__111__add_constIbLb0EEE",
    "size" : 1,
@@ -41246,7 +41252,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__111__add_constImLb0EEE",
-   "name" : "std::__add_const<unsigned long, false>",
+   "name" : "std::__add_const<unsigned long>",
    "referenced_type" : "_ZTINSt3__111__add_constImLb0EEE",
    "self_type" : "_ZTINSt3__111__add_constImLb0EEE",
    "size" : 1,
@@ -48889,7 +48895,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__111logical_andIvEE",
-   "name" : "std::logical_and<>",
+   "name" : "std::logical_and<void>",
    "referenced_type" : "_ZTINSt3__111logical_andIvEE",
    "self_type" : "_ZTINSt3__111logical_andIvEE",
    "size" : 1,
@@ -48902,7 +48908,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__111logical_notIvEE",
-   "name" : "std::logical_not<>",
+   "name" : "std::logical_not<void>",
    "referenced_type" : "_ZTINSt3__111logical_notIvEE",
    "self_type" : "_ZTINSt3__111logical_notIvEE",
    "size" : 1,
@@ -53319,7 +53325,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__112not_equal_toIvEE",
-   "name" : "std::not_equal_to<>",
+   "name" : "std::not_equal_to<void>",
    "referenced_type" : "_ZTINSt3__112not_equal_toIvEE",
    "self_type" : "_ZTINSt3__112not_equal_toIvEE",
    "size" : 1,
@@ -55867,7 +55873,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__113__atomic_baseIiLb1EEE",
-   "name" : "std::__atomic_base<int, true>",
+   "name" : "std::__atomic_base<int>",
    "referenced_type" : "_ZTINSt3__113__atomic_baseIiLb1EEE",
    "self_type" : "_ZTINSt3__113__atomic_baseIiLb1EEE",
    "size" : 4,
@@ -55906,7 +55912,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__113__atomic_baseIjLb1EEE",
-   "name" : "std::__atomic_base<unsigned int, true>",
+   "name" : "std::__atomic_base<unsigned int>",
    "referenced_type" : "_ZTINSt3__113__atomic_baseIjLb1EEE",
    "self_type" : "_ZTINSt3__113__atomic_baseIjLb1EEE",
    "size" : 4,
@@ -56235,7 +56241,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__113__scalar_hashIdLm1EEE",
-   "name" : "std::__scalar_hash<double, 1>",
+   "name" : "std::__scalar_hash<double>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashIdLm1EEE",
    "self_type" : "_ZTINSt3__113__scalar_hashIdLm1EEE",
    "size" : 1,
@@ -56254,7 +56260,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__113__scalar_hashIeLm2EEE",
-   "name" : "std::__scalar_hash<long double, 2>",
+   "name" : "std::__scalar_hash<long double>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashIeLm2EEE",
    "self_type" : "_ZTINSt3__113__scalar_hashIeLm2EEE",
    "size" : 1,
@@ -56273,7 +56279,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__113__scalar_hashIfLm0EEE",
-   "name" : "std::__scalar_hash<float, 0>",
+   "name" : "std::__scalar_hash<float>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashIfLm0EEE",
    "self_type" : "_ZTINSt3__113__scalar_hashIfLm0EEE",
    "size" : 1,
@@ -56292,7 +56298,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__113__scalar_hashInLm2EEE",
-   "name" : "std::__scalar_hash<__int128, 2>",
+   "name" : "std::__scalar_hash<__int128>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashInLm2EEE",
    "self_type" : "_ZTINSt3__113__scalar_hashInLm2EEE",
    "size" : 1,
@@ -56311,7 +56317,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__113__scalar_hashIoLm2EEE",
-   "name" : "std::__scalar_hash<unsigned __int128, 2>",
+   "name" : "std::__scalar_hash<unsigned __int128>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashIoLm2EEE",
    "self_type" : "_ZTINSt3__113__scalar_hashIoLm2EEE",
    "size" : 1,
@@ -56330,7 +56336,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__113__scalar_hashIxLm1EEE",
-   "name" : "std::__scalar_hash<long long, 1>",
+   "name" : "std::__scalar_hash<long long>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashIxLm1EEE",
    "self_type" : "_ZTINSt3__113__scalar_hashIxLm1EEE",
    "size" : 1,
@@ -56349,7 +56355,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__113__scalar_hashIyLm1EEE",
-   "name" : "std::__scalar_hash<unsigned long long, 1>",
+   "name" : "std::__scalar_hash<unsigned long long>",
    "referenced_type" : "_ZTINSt3__113__scalar_hashIyLm1EEE",
    "self_type" : "_ZTINSt3__113__scalar_hashIyLm1EEE",
    "size" : 1,
@@ -57098,7 +57104,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__113greater_equalIvEE",
-   "name" : "std::greater_equal<>",
+   "name" : "std::greater_equal<void>",
    "referenced_type" : "_ZTINSt3__113greater_equalIvEE",
    "self_type" : "_ZTINSt3__113greater_equalIvEE",
    "size" : 1,
@@ -66623,7 +66629,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__115aligned_storageILm24ELm16EE4typeE",
-   "name" : "std::aligned_storage<24, 16>::type",
+   "name" : "std::aligned_storage<24>::type",
    "referenced_type" : "_ZTINSt3__115aligned_storageILm24ELm16EE4typeE",
    "self_type" : "_ZTINSt3__115aligned_storageILm24ELm16EE4typeE",
    "size" : 32,
@@ -66632,7 +66638,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__115aligned_storageILm24ELm16EEE",
-   "name" : "std::aligned_storage<24, 16>",
+   "name" : "std::aligned_storage<24>",
    "referenced_type" : "_ZTINSt3__115aligned_storageILm24ELm16EEE",
    "self_type" : "_ZTINSt3__115aligned_storageILm24ELm16EEE",
    "size" : 1,
@@ -66648,7 +66654,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__115aligned_storageILm32ELm16EE4typeE",
-   "name" : "std::aligned_storage<32, 16>::type",
+   "name" : "std::aligned_storage<32>::type",
    "referenced_type" : "_ZTINSt3__115aligned_storageILm32ELm16EE4typeE",
    "self_type" : "_ZTINSt3__115aligned_storageILm32ELm16EE4typeE",
    "size" : 32,
@@ -66657,7 +66663,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__115aligned_storageILm32ELm16EEE",
-   "name" : "std::aligned_storage<32, 16>",
+   "name" : "std::aligned_storage<32>",
    "referenced_type" : "_ZTINSt3__115aligned_storageILm32ELm16EEE",
    "self_type" : "_ZTINSt3__115aligned_storageILm32ELm16EEE",
    "size" : 1,
@@ -79740,7 +79746,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__add_pointer_implIDnLb1EEE",
-   "name" : "std::__add_pointer_impl<std::nullptr_t, true>",
+   "name" : "std::__add_pointer_impl<std::nullptr_t>",
    "referenced_type" : "_ZTINSt3__118__add_pointer_implIDnLb1EEE",
    "self_type" : "_ZTINSt3__118__add_pointer_implIDnLb1EEE",
    "size" : 1,
@@ -80416,7 +80422,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__add_pointer_implIKPvLb1EEE",
-   "name" : "std::__add_pointer_impl<void *const, true>",
+   "name" : "std::__add_pointer_impl<void *const>",
    "referenced_type" : "_ZTINSt3__118__add_pointer_implIKPvLb1EEE",
    "self_type" : "_ZTINSt3__118__add_pointer_implIKPvLb1EEE",
    "size" : 1,
@@ -80962,7 +80968,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__add_pointer_implIP16RsContextWrapperLb1EEE",
-   "name" : "std::__add_pointer_impl<RsContextWrapper *, true>",
+   "name" : "std::__add_pointer_impl<RsContextWrapper *>",
    "referenced_type" : "_ZTINSt3__118__add_pointer_implIP16RsContextWrapperLb1EEE",
    "self_type" : "_ZTINSt3__118__add_pointer_implIP16RsContextWrapperLb1EEE",
    "size" : 1,
@@ -81014,7 +81020,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__add_pointer_implIPvLb1EEE",
-   "name" : "std::__add_pointer_impl<void *, true>",
+   "name" : "std::__add_pointer_impl<void *>",
    "referenced_type" : "_ZTINSt3__118__add_pointer_implIPvLb1EEE",
    "self_type" : "_ZTINSt3__118__add_pointer_implIPvLb1EEE",
    "size" : 1,
@@ -81027,7 +81033,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__add_pointer_implIeLb1EEE",
-   "name" : "std::__add_pointer_impl<long double, true>",
+   "name" : "std::__add_pointer_impl<long double>",
    "referenced_type" : "_ZTINSt3__118__add_pointer_implIeLb1EEE",
    "self_type" : "_ZTINSt3__118__add_pointer_implIeLb1EEE",
    "size" : 1,
@@ -81040,7 +81046,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__add_pointer_implIiLb1EEE",
-   "name" : "std::__add_pointer_impl<int, true>",
+   "name" : "std::__add_pointer_impl<int>",
    "referenced_type" : "_ZTINSt3__118__add_pointer_implIiLb1EEE",
    "self_type" : "_ZTINSt3__118__add_pointer_implIiLb1EEE",
    "size" : 1,
@@ -81053,7 +81059,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__add_pointer_implIlLb1EEE",
-   "name" : "std::__add_pointer_impl<long, true>",
+   "name" : "std::__add_pointer_impl<long>",
    "referenced_type" : "_ZTINSt3__118__add_pointer_implIlLb1EEE",
    "self_type" : "_ZTINSt3__118__add_pointer_implIlLb1EEE",
    "size" : 1,
@@ -81066,7 +81072,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__add_pointer_implInLb1EEE",
-   "name" : "std::__add_pointer_impl<__int128, true>",
+   "name" : "std::__add_pointer_impl<__int128>",
    "referenced_type" : "_ZTINSt3__118__add_pointer_implInLb1EEE",
    "self_type" : "_ZTINSt3__118__add_pointer_implInLb1EEE",
    "size" : 1,
@@ -81079,7 +81085,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__add_pointer_implIxLb1EEE",
-   "name" : "std::__add_pointer_impl<long long, true>",
+   "name" : "std::__add_pointer_impl<long long>",
    "referenced_type" : "_ZTINSt3__118__add_pointer_implIxLb1EEE",
    "self_type" : "_ZTINSt3__118__add_pointer_implIxLb1EEE",
    "size" : 1,
@@ -84887,7 +84893,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__pointer_type_imp14__pointer_typeIcPFvPvELb0EEE",
-   "name" : "std::__pointer_type_imp::__pointer_type<char, void (*)(void *), false>",
+   "name" : "std::__pointer_type_imp::__pointer_type<char, void (*)(void *)>",
    "referenced_type" : "_ZTINSt3__118__pointer_type_imp14__pointer_typeIcPFvPvELb0EEE",
    "self_type" : "_ZTINSt3__118__pointer_type_imp14__pointer_typeIcPFvPvELb0EEE",
    "size" : 1,
@@ -84901,7 +84907,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__pointer_type_imp14__pointer_typeIhPFvPvELb0EEE",
-   "name" : "std::__pointer_type_imp::__pointer_type<unsigned char, void (*)(void *), false>",
+   "name" : "std::__pointer_type_imp::__pointer_type<unsigned char, void (*)(void *)>",
    "referenced_type" : "_ZTINSt3__118__pointer_type_imp14__pointer_typeIhPFvPvELb0EEE",
    "self_type" : "_ZTINSt3__118__pointer_type_imp14__pointer_typeIhPFvPvELb0EEE",
    "size" : 1,
@@ -84929,7 +84935,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__118__pointer_type_imp14__pointer_typeIjPFvPvELb0EEE",
-   "name" : "std::__pointer_type_imp::__pointer_type<unsigned int, void (*)(void *), false>",
+   "name" : "std::__pointer_type_imp::__pointer_type<unsigned int, void (*)(void *)>",
    "referenced_type" : "_ZTINSt3__118__pointer_type_imp14__pointer_typeIjPFvPvELb0EEE",
    "self_type" : "_ZTINSt3__118__pointer_type_imp14__pointer_typeIjPFvPvELb0EEE",
    "size" : 1,
@@ -86376,7 +86382,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRKPvOS2_Lb0EEE",
-   "name" : "std::__is_assignable_imp<void *const &, void *const &&, false>",
+   "name" : "std::__is_assignable_imp<void *const &, void *const &&>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRKPvOS2_Lb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRKPvOS2_Lb0EEE",
    "size" : 1,
@@ -86396,7 +86402,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRKPvS3_Lb0EEE",
-   "name" : "std::__is_assignable_imp<void *const &, void *const &, false>",
+   "name" : "std::__is_assignable_imp<void *const &, void *const &>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRKPvS3_Lb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRKPvS3_Lb0EEE",
    "size" : 1,
@@ -86656,7 +86662,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRP16RsContextWrapperOS2_Lb0EEE",
-   "name" : "std::__is_assignable_imp<RsContextWrapper *&, RsContextWrapper *&&, false>",
+   "name" : "std::__is_assignable_imp<RsContextWrapper *&, RsContextWrapper *&&>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRP16RsContextWrapperOS2_Lb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRP16RsContextWrapperOS2_Lb0EEE",
    "size" : 1,
@@ -86676,7 +86682,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRP16RsContextWrapperRKS2_Lb0EEE",
-   "name" : "std::__is_assignable_imp<RsContextWrapper *&, RsContextWrapper *const &, false>",
+   "name" : "std::__is_assignable_imp<RsContextWrapper *&, RsContextWrapper *const &>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRP16RsContextWrapperRKS2_Lb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRP16RsContextWrapperRKS2_Lb0EEE",
    "size" : 1,
@@ -86696,7 +86702,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRPvOS1_Lb0EEE",
-   "name" : "std::__is_assignable_imp<void *&, void *&&, false>",
+   "name" : "std::__is_assignable_imp<void *&, void *&&>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRPvOS1_Lb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRPvOS1_Lb0EEE",
    "size" : 1,
@@ -86716,7 +86722,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRPvRKS1_Lb0EEE",
-   "name" : "std::__is_assignable_imp<void *&, void *const &, false>",
+   "name" : "std::__is_assignable_imp<void *&, void *const &>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRPvRKS1_Lb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRPvRKS1_Lb0EEE",
    "size" : 1,
@@ -86736,7 +86742,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRbObLb0EEE",
-   "name" : "std::__is_assignable_imp<bool &, bool &&, false>",
+   "name" : "std::__is_assignable_imp<bool &, bool &&>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRbObLb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRbObLb0EEE",
    "size" : 1,
@@ -86756,7 +86762,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRbRKbLb0EEE",
-   "name" : "std::__is_assignable_imp<bool &, const bool &, false>",
+   "name" : "std::__is_assignable_imp<bool &, const bool &>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRbRKbLb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRbRKbLb0EEE",
    "size" : 1,
@@ -86776,7 +86782,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRmOmLb0EEE",
-   "name" : "std::__is_assignable_imp<unsigned long &, unsigned long &&, false>",
+   "name" : "std::__is_assignable_imp<unsigned long &, unsigned long &&>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRmOmLb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRmOmLb0EEE",
    "size" : 1,
@@ -86796,7 +86802,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__119__is_assignable_impIRmRKmLb0EEE",
-   "name" : "std::__is_assignable_imp<unsigned long &, const unsigned long &, false>",
+   "name" : "std::__is_assignable_imp<unsigned long &, const unsigned long &>",
    "referenced_type" : "_ZTINSt3__119__is_assignable_impIRmRKmLb0EEE",
    "self_type" : "_ZTINSt3__119__is_assignable_impIRmRKmLb0EEE",
    "size" : 1,
@@ -89248,7 +89254,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionIDnLb1EEE",
-   "name" : "std::__libcpp_is_function<std::nullptr_t, true>",
+   "name" : "std::__libcpp_is_function<std::nullptr_t>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionIDnLb1EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionIDnLb1EEE",
    "size" : 1,
@@ -90198,7 +90204,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionIKPvLb0EEE",
-   "name" : "std::__libcpp_is_function<void *const, false>",
+   "name" : "std::__libcpp_is_function<void *const>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionIKPvLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionIKPvLb0EEE",
    "size" : 1,
@@ -91129,7 +91135,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionIP16RsContextWrapperLb0EEE",
-   "name" : "std::__libcpp_is_function<RsContextWrapper *, false>",
+   "name" : "std::__libcpp_is_function<RsContextWrapper *>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionIP16RsContextWrapperLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionIP16RsContextWrapperLb0EEE",
    "size" : 1,
@@ -91205,7 +91211,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionIPvLb0EEE",
-   "name" : "std::__libcpp_is_function<void *, false>",
+   "name" : "std::__libcpp_is_function<void *>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionIPvLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionIPvLb0EEE",
    "size" : 1,
@@ -91224,7 +91230,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionIbLb0EEE",
-   "name" : "std::__libcpp_is_function<bool, false>",
+   "name" : "std::__libcpp_is_function<bool>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionIbLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionIbLb0EEE",
    "size" : 1,
@@ -91243,7 +91249,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionIeLb0EEE",
-   "name" : "std::__libcpp_is_function<long double, false>",
+   "name" : "std::__libcpp_is_function<long double>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionIeLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionIeLb0EEE",
    "size" : 1,
@@ -91262,7 +91268,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionIiLb0EEE",
-   "name" : "std::__libcpp_is_function<int, false>",
+   "name" : "std::__libcpp_is_function<int>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionIiLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionIiLb0EEE",
    "size" : 1,
@@ -91281,7 +91287,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionIlLb0EEE",
-   "name" : "std::__libcpp_is_function<long, false>",
+   "name" : "std::__libcpp_is_function<long>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionIlLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionIlLb0EEE",
    "size" : 1,
@@ -91300,7 +91306,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionImLb0EEE",
-   "name" : "std::__libcpp_is_function<unsigned long, false>",
+   "name" : "std::__libcpp_is_function<unsigned long>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionImLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionImLb0EEE",
    "size" : 1,
@@ -91319,7 +91325,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionInLb0EEE",
-   "name" : "std::__libcpp_is_function<__int128, false>",
+   "name" : "std::__libcpp_is_function<__int128>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionInLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionInLb0EEE",
    "size" : 1,
@@ -91338,7 +91344,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__120__libcpp_is_functionIxLb0EEE",
-   "name" : "std::__libcpp_is_function<long long, false>",
+   "name" : "std::__libcpp_is_function<long long>",
    "referenced_type" : "_ZTINSt3__120__libcpp_is_functionIxLb0EEE",
    "self_type" : "_ZTINSt3__120__libcpp_is_functionIxLb0EEE",
    "size" : 1,
@@ -93378,7 +93384,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__121__murmur2_or_cityhashImLm64EEE",
-   "name" : "std::__murmur2_or_cityhash<unsigned long, 64>",
+   "name" : "std::__murmur2_or_cityhash<unsigned long>",
    "referenced_type" : "_ZTINSt3__121__murmur2_or_cityhashImLm64EEE",
    "self_type" : "_ZTINSt3__121__murmur2_or_cityhashImLm64EEE",
    "size" : 1,
@@ -94172,7 +94178,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
-   "name" : "std::__compressed_pair_elem<void (*)(void *), 1, false>",
+   "name" : "std::__compressed_pair_elem<void (*)(void *), 1>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "self_type" : "_ZTINSt3__122__compressed_pair_elemIPFvPvELi1ELb0EEE",
    "size" : 8,
@@ -94298,7 +94304,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<char *, 0, false>",
+   "name" : "std::__compressed_pair_elem<char *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "self_type" : "_ZTINSt3__122__compressed_pair_elemIPcLi0ELb0EEE",
    "size" : 8,
@@ -94319,7 +94325,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned char *, 0, false>",
+   "name" : "std::__compressed_pair_elem<unsigned char *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "self_type" : "_ZTINSt3__122__compressed_pair_elemIPhLi0ELb0EEE",
    "size" : 8,
@@ -94340,7 +94346,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<int *, 0, false>",
+   "name" : "std::__compressed_pair_elem<int *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "self_type" : "_ZTINSt3__122__compressed_pair_elemIPiLi0ELb0EEE",
    "size" : 8,
@@ -94361,7 +94367,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned int *, 0, false>",
+   "name" : "std::__compressed_pair_elem<unsigned int *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "self_type" : "_ZTINSt3__122__compressed_pair_elemIPjLi0ELb0EEE",
    "size" : 8,
@@ -94382,7 +94388,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<long *, 0, false>",
+   "name" : "std::__compressed_pair_elem<long *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "self_type" : "_ZTINSt3__122__compressed_pair_elemIPlLi0ELb0EEE",
    "size" : 8,
@@ -94403,7 +94409,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned long *, 0, false>",
+   "name" : "std::__compressed_pair_elem<unsigned long *, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "self_type" : "_ZTINSt3__122__compressed_pair_elemIPmLi0ELb0EEE",
    "size" : 8,
@@ -94424,7 +94430,7 @@
     }
    ],
    "linker_set_key" : "_ZTINSt3__122__compressed_pair_elemImLi0ELb0EEE",
-   "name" : "std::__compressed_pair_elem<unsigned long, 0, false>",
+   "name" : "std::__compressed_pair_elem<unsigned long, 0>",
    "referenced_type" : "_ZTINSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "self_type" : "_ZTINSt3__122__compressed_pair_elemImLi0ELb0EEE",
    "size" : 8,
@@ -95071,7 +95077,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__123__libcpp_numeric_limitsIcLb1EEE",
-   "name" : "std::__libcpp_numeric_limits<char, true>",
+   "name" : "std::__libcpp_numeric_limits<char>",
    "record_kind" : "class",
    "referenced_type" : "_ZTINSt3__123__libcpp_numeric_limitsIcLb1EEE",
    "self_type" : "_ZTINSt3__123__libcpp_numeric_limitsIcLb1EEE",
@@ -95127,7 +95133,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__123__libcpp_numeric_limitsIjLb1EEE",
-   "name" : "std::__libcpp_numeric_limits<unsigned int, true>",
+   "name" : "std::__libcpp_numeric_limits<unsigned int>",
    "record_kind" : "class",
    "referenced_type" : "_ZTINSt3__123__libcpp_numeric_limitsIjLb1EEE",
    "self_type" : "_ZTINSt3__123__libcpp_numeric_limitsIjLb1EEE",
@@ -95141,7 +95147,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__123__libcpp_numeric_limitsIlLb1EEE",
-   "name" : "std::__libcpp_numeric_limits<long, true>",
+   "name" : "std::__libcpp_numeric_limits<long>",
    "record_kind" : "class",
    "referenced_type" : "_ZTINSt3__123__libcpp_numeric_limitsIlLb1EEE",
    "self_type" : "_ZTINSt3__123__libcpp_numeric_limitsIlLb1EEE",
@@ -95155,7 +95161,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__123__libcpp_numeric_limitsImLb1EEE",
-   "name" : "std::__libcpp_numeric_limits<unsigned long, true>",
+   "name" : "std::__libcpp_numeric_limits<unsigned long>",
    "record_kind" : "class",
    "referenced_type" : "_ZTINSt3__123__libcpp_numeric_limitsImLb1EEE",
    "self_type" : "_ZTINSt3__123__libcpp_numeric_limitsImLb1EEE",
@@ -95169,7 +95175,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__123__libcpp_numeric_limitsIxLb1EEE",
-   "name" : "std::__libcpp_numeric_limits<long long, true>",
+   "name" : "std::__libcpp_numeric_limits<long long>",
    "record_kind" : "class",
    "referenced_type" : "_ZTINSt3__123__libcpp_numeric_limitsIxLb1EEE",
    "self_type" : "_ZTINSt3__123__libcpp_numeric_limitsIxLb1EEE",
@@ -95183,7 +95189,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__123__libcpp_numeric_limitsIyLb1EEE",
-   "name" : "std::__libcpp_numeric_limits<unsigned long long, true>",
+   "name" : "std::__libcpp_numeric_limits<unsigned long long>",
    "record_kind" : "class",
    "referenced_type" : "_ZTINSt3__123__libcpp_numeric_limitsIyLb1EEE",
    "self_type" : "_ZTINSt3__123__libcpp_numeric_limitsIyLb1EEE",
@@ -97820,7 +97826,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIKP16RsContextWrapperLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<RsContextWrapper *const, true>",
+   "name" : "std::__add_lvalue_reference_impl<RsContextWrapper *const>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIKP16RsContextWrapperLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIKP16RsContextWrapperLb1EEE",
    "size" : 1,
@@ -97833,7 +97839,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIKPvLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<void *const, true>",
+   "name" : "std::__add_lvalue_reference_impl<void *const>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIKPvLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIKPvLb1EEE",
    "size" : 1,
@@ -97846,7 +97852,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIKbLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<const bool, true>",
+   "name" : "std::__add_lvalue_reference_impl<const bool>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIKbLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIKbLb1EEE",
    "size" : 1,
@@ -97859,7 +97865,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIKmLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<const unsigned long, true>",
+   "name" : "std::__add_lvalue_reference_impl<const unsigned long>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIKmLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIKmLb1EEE",
    "size" : 1,
@@ -98080,7 +98086,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIP16RsContextWrapperLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<RsContextWrapper *, true>",
+   "name" : "std::__add_lvalue_reference_impl<RsContextWrapper *>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIP16RsContextWrapperLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIP16RsContextWrapperLb1EEE",
    "size" : 1,
@@ -98093,7 +98099,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIPvLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<void *, true>",
+   "name" : "std::__add_lvalue_reference_impl<void *>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIPvLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIPvLb1EEE",
    "size" : 1,
@@ -98106,7 +98112,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIbLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<bool, true>",
+   "name" : "std::__add_lvalue_reference_impl<bool>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIbLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIbLb1EEE",
    "size" : 1,
@@ -98119,7 +98125,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIcLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<char, true>",
+   "name" : "std::__add_lvalue_reference_impl<char>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIcLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIcLb1EEE",
    "size" : 1,
@@ -98132,7 +98138,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIhLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<unsigned char, true>",
+   "name" : "std::__add_lvalue_reference_impl<unsigned char>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIhLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIhLb1EEE",
    "size" : 1,
@@ -98145,7 +98151,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implIjLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<unsigned int, true>",
+   "name" : "std::__add_lvalue_reference_impl<unsigned int>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implIjLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implIjLb1EEE",
    "size" : 1,
@@ -98158,7 +98164,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_lvalue_reference_implImLb1EEE",
-   "name" : "std::__add_lvalue_reference_impl<unsigned long, true>",
+   "name" : "std::__add_lvalue_reference_impl<unsigned long>",
    "referenced_type" : "_ZTINSt3__127__add_lvalue_reference_implImLb1EEE",
    "self_type" : "_ZTINSt3__127__add_lvalue_reference_implImLb1EEE",
    "size" : 1,
@@ -98171,7 +98177,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_rvalue_reference_implIKPvLb1EEE",
-   "name" : "std::__add_rvalue_reference_impl<void *const, true>",
+   "name" : "std::__add_rvalue_reference_impl<void *const>",
    "referenced_type" : "_ZTINSt3__127__add_rvalue_reference_implIKPvLb1EEE",
    "self_type" : "_ZTINSt3__127__add_rvalue_reference_implIKPvLb1EEE",
    "size" : 1,
@@ -98262,7 +98268,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_rvalue_reference_implIP16RsContextWrapperLb1EEE",
-   "name" : "std::__add_rvalue_reference_impl<RsContextWrapper *, true>",
+   "name" : "std::__add_rvalue_reference_impl<RsContextWrapper *>",
    "referenced_type" : "_ZTINSt3__127__add_rvalue_reference_implIP16RsContextWrapperLb1EEE",
    "self_type" : "_ZTINSt3__127__add_rvalue_reference_implIP16RsContextWrapperLb1EEE",
    "size" : 1,
@@ -98275,7 +98281,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_rvalue_reference_implIPvLb1EEE",
-   "name" : "std::__add_rvalue_reference_impl<void *, true>",
+   "name" : "std::__add_rvalue_reference_impl<void *>",
    "referenced_type" : "_ZTINSt3__127__add_rvalue_reference_implIPvLb1EEE",
    "self_type" : "_ZTINSt3__127__add_rvalue_reference_implIPvLb1EEE",
    "size" : 1,
@@ -98288,7 +98294,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_rvalue_reference_implIbLb1EEE",
-   "name" : "std::__add_rvalue_reference_impl<bool, true>",
+   "name" : "std::__add_rvalue_reference_impl<bool>",
    "referenced_type" : "_ZTINSt3__127__add_rvalue_reference_implIbLb1EEE",
    "self_type" : "_ZTINSt3__127__add_rvalue_reference_implIbLb1EEE",
    "size" : 1,
@@ -98301,7 +98307,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__127__add_rvalue_reference_implImLb1EEE",
-   "name" : "std::__add_rvalue_reference_impl<unsigned long, true>",
+   "name" : "std::__add_rvalue_reference_impl<unsigned long>",
    "referenced_type" : "_ZTINSt3__127__add_rvalue_reference_implImLb1EEE",
    "self_type" : "_ZTINSt3__127__add_rvalue_reference_implImLb1EEE",
    "size" : 1,
@@ -102757,7 +102763,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__14lessIvEE",
-   "name" : "std::less<>",
+   "name" : "std::less<void>",
    "referenced_type" : "_ZTINSt3__14lessIvEE",
    "self_type" : "_ZTINSt3__14lessIvEE",
    "size" : 1,
@@ -103042,7 +103048,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__14plusIvEE",
-   "name" : "std::plus<>",
+   "name" : "std::plus<void>",
    "referenced_type" : "_ZTINSt3__14plusIvEE",
    "self_type" : "_ZTINSt3__14plusIvEE",
    "size" : 1,
@@ -104971,7 +104977,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__15minusIvEE",
-   "name" : "std::minus<>",
+   "name" : "std::minus<void>",
    "referenced_type" : "_ZTINSt3__15minusIvEE",
    "self_type" : "_ZTINSt3__15minusIvEE",
    "size" : 1,
@@ -105284,7 +105290,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__16bit_orIvEE",
-   "name" : "std::bit_or<>",
+   "name" : "std::bit_or<void>",
    "referenced_type" : "_ZTINSt3__16bit_orIvEE",
    "self_type" : "_ZTINSt3__16bit_orIvEE",
    "size" : 1,
@@ -106396,7 +106402,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__16negateIvEE",
-   "name" : "std::negate<>",
+   "name" : "std::negate<void>",
    "referenced_type" : "_ZTINSt3__16negateIvEE",
    "self_type" : "_ZTINSt3__16negateIvEE",
    "size" : 1,
@@ -107881,7 +107887,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__17bit_andIvEE",
-   "name" : "std::bit_and<>",
+   "name" : "std::bit_and<void>",
    "referenced_type" : "_ZTINSt3__17bit_andIvEE",
    "self_type" : "_ZTINSt3__17bit_andIvEE",
    "size" : 1,
@@ -107894,7 +107900,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__17bit_notIvEE",
-   "name" : "std::bit_not<>",
+   "name" : "std::bit_not<void>",
    "referenced_type" : "_ZTINSt3__17bit_notIvEE",
    "self_type" : "_ZTINSt3__17bit_notIvEE",
    "size" : 1,
@@ -107907,7 +107913,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__17bit_xorIvEE",
-   "name" : "std::bit_xor<>",
+   "name" : "std::bit_xor<void>",
    "referenced_type" : "_ZTINSt3__17bit_xorIvEE",
    "self_type" : "_ZTINSt3__17bit_xorIvEE",
    "size" : 1,
@@ -108297,7 +108303,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__17dividesIvEE",
-   "name" : "std::divides<>",
+   "name" : "std::divides<void>",
    "referenced_type" : "_ZTINSt3__17dividesIvEE",
    "self_type" : "_ZTINSt3__17dividesIvEE",
    "size" : 1,
@@ -108310,7 +108316,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__17greaterIvEE",
-   "name" : "std::greater<>",
+   "name" : "std::greater<void>",
    "referenced_type" : "_ZTINSt3__17greaterIvEE",
    "self_type" : "_ZTINSt3__17greaterIvEE",
    "size" : 1,
@@ -118129,7 +118135,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__17modulusIvEE",
-   "name" : "std::modulus<>",
+   "name" : "std::modulus<void>",
    "referenced_type" : "_ZTINSt3__17modulusIvEE",
    "self_type" : "_ZTINSt3__17modulusIvEE",
    "size" : 1,
@@ -119096,7 +119102,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTINSt3__18equal_toIvEE",
-   "name" : "std::equal_to<>",
+   "name" : "std::equal_to<void>",
    "referenced_type" : "_ZTINSt3__18equal_toIvEE",
    "self_type" : "_ZTINSt3__18equal_toIvEE",
    "size" : 1,

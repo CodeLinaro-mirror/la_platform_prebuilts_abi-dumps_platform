@@ -2644,6 +2644,10 @@
     {
      "enum_field_value" : 31,
      "name" : "art::EncodedArrayValueIterator::kBoolean"
+    },
+    {
+     "enum_field_value" : 255,
+     "name" : "art::EncodedArrayValueIterator::kEndOfInput"
     }
    ],
    "linker_set_key" : "_ZTIN3art25EncodedArrayValueIterator9ValueTypeE",
@@ -9299,6 +9303,15 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIRKNSt3__110shared_ptrIN3art16DexFileContainerEEE",
+   "name" : "const std::shared_ptr<art::DexFileContainer> &",
+   "referenced_type" : "_ZTIKNSt3__110shared_ptrIN3art16DexFileContainerEEE",
+   "self_type" : "_ZTIRKNSt3__110shared_ptrIN3art16DexFileContainerEEE",
+   "size" : 8,
+   "source_file" : "art/libdexfile/dex/dex_file.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
@@ -9475,7 +9488,7 @@
    "referenced_type" : "_ZTIKi",
    "self_type" : "_ZTIRKi",
    "size" : 8,
-   "source_file" : "system/libbase/include/android-base/logging.h"
+   "source_file" : "art/libartbase/base/hash_set.h"
   },
   {
    "alignment" : 8,
@@ -9728,6 +9741,15 @@
    "self_type" : "_ZTIRPKc",
    "size" : 8,
    "source_file" : "external/fmtlib/include/fmt/format.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIRPKh",
+   "name" : "const unsigned char *&",
+   "referenced_type" : "_ZTIPKh",
+   "self_type" : "_ZTIRPKh",
+   "size" : 8,
+   "source_file" : "system/libbase/include/android-base/logging.h"
   },
   {
    "alignment" : 8,
@@ -15283,7 +15305,7 @@
    "name" : "const art::DexFileLoader",
    "referenced_type" : "_ZTIN3art13DexFileLoaderE",
    "self_type" : "_ZTIKN3art13DexFileLoaderE",
-   "size" : 128,
+   "size" : 136,
    "source_file" : "art/libdexfile/dex/dex_file_loader.h"
   },
   {
@@ -15453,7 +15475,7 @@
    "name" : "const art::ArtDexFileLoader",
    "referenced_type" : "_ZTIN3art16ArtDexFileLoaderE",
    "self_type" : "_ZTIKN3art16ArtDexFileLoaderE",
-   "size" : 128,
+   "size" : 136,
    "source_file" : "art/libdexfile/dex/art_dex_file_loader.h"
   },
   {
@@ -16577,6 +16599,16 @@
    "self_type" : "_ZTIKN9unix_file6FdFileE",
    "size" : 48,
    "source_file" : "art/libartbase/base/unix_file/fd_file.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__110shared_ptrIN3art16DexFileContainerEEE",
+   "name" : "const std::shared_ptr<art::DexFileContainer>",
+   "referenced_type" : "_ZTINSt3__110shared_ptrIN3art16DexFileContainerEEE",
+   "self_type" : "_ZTIKNSt3__110shared_ptrIN3art16DexFileContainerEEE",
+   "size" : 16,
+   "source_file" : "art/libdexfile/dex/dex_file.h"
   },
   {
    "alignment" : 8,
@@ -19017,12 +19049,6 @@
   },
   {
    "alignment" : 8,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__18iteratorINS_20forward_iterator_tagEN3art13ClassAccessor5FieldElPS4_RS4_EE"
-    }
-   ],
    "fields" :
    [
     {
@@ -19063,12 +19089,6 @@
   },
   {
    "alignment" : 8,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__18iteratorINS_20forward_iterator_tagEN3art13ClassAccessor6MethodElPS4_RS4_EE"
-    }
-   ],
    "fields" :
    [
     {
@@ -19273,12 +19293,6 @@
   },
   {
    "alignment" : 8,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__18iteratorINS_20forward_iterator_tagEN3art17ClassIteratorDataElPS3_RS3_EE"
-    }
-   ],
    "fields" :
    [
     {
@@ -19309,18 +19323,24 @@
      "access" : "protected",
      "field_name" : "file_",
      "field_offset" : 256,
+     "referenced_type" : "_ZTIPKN9unix_file6FdFileE"
+    },
+    {
+     "access" : "protected",
+     "field_name" : "owned_file_",
+     "field_offset" : 320,
      "referenced_type" : "_ZTINSt3__18optionalIN9unix_file6FdFileEEE"
     },
     {
      "access" : "protected",
      "field_name" : "root_container_",
-     "field_offset" : 704,
+     "field_offset" : 768,
      "referenced_type" : "_ZTINSt3__110shared_ptrIN3art16DexFileContainerEEE"
     },
     {
      "access" : "protected",
      "field_name" : "location_",
-     "field_offset" : 832,
+     "field_offset" : 896,
      "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE"
     }
    ],
@@ -19329,7 +19349,7 @@
    "record_kind" : "class",
    "referenced_type" : "_ZTIN3art13DexFileLoaderE",
    "self_type" : "_ZTIN3art13DexFileLoaderE",
-   "size" : 128,
+   "size" : 136,
    "source_file" : "art/libdexfile/dex/dex_file_loader.h",
    "vtable_components" :
    [
@@ -19779,12 +19799,6 @@
   },
   {
    "alignment" : 8,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__18iteratorINS_20forward_iterator_tagENS_17basic_string_viewIcNS_11char_traitsIcEEEElPS5_RS5_EE"
-    }
-   ],
    "fields" :
    [
     {
@@ -20013,7 +20027,7 @@
    "record_kind" : "class",
    "referenced_type" : "_ZTIN3art16ArtDexFileLoaderE",
    "self_type" : "_ZTIN3art16ArtDexFileLoaderE",
-   "size" : 128,
+   "size" : 136,
    "source_file" : "art/libdexfile/dex/art_dex_file_loader.h",
    "vtable_components" :
    [
@@ -20773,12 +20787,6 @@
   },
   {
    "alignment" : 8,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__18iteratorINS_20forward_iterator_tagEN3art20DexInstructionPcPairElPS3_RS3_EE"
-    }
-   ],
    "fields" :
    [
     {
@@ -21758,7 +21766,7 @@
    [
     {
      "field_name" : "magic_",
-     "referenced_type" : "_ZTIA8_h"
+     "referenced_type" : "_ZTINSt3__15arrayIhLm8EEE"
     },
     {
      "field_name" : "checksum_",
@@ -21936,9 +21944,9 @@
     },
     {
      "access" : "protected",
-     "field_name" : "size_",
+     "field_name" : "unused_size_",
      "field_offset" : 128,
-     "referenced_type" : "_ZTIKm"
+     "referenced_type" : "_ZTIm"
     },
     {
      "access" : "protected",
@@ -22339,12 +22347,6 @@
   },
   {
    "alignment" : 8,
-   "base_specifiers" :
-   [
-    {
-     "referenced_type" : "_ZTINSt3__18iteratorINS_20forward_iterator_tagEmmmmEE"
-    }
-   ],
    "fields" :
    [
     {
@@ -22951,7 +22953,7 @@
   {
    "alignment" : 1,
    "linker_set_key" : "_ZTIN3fmt2v76detail10basic_dataIvEE",
-   "name" : "fmt::detail::basic_data<>",
+   "name" : "fmt::detail::basic_data<void>",
    "referenced_type" : "_ZTIN3fmt2v76detail10basic_dataIvEE",
    "self_type" : "_ZTIN3fmt2v76detail10basic_dataIvEE",
    "size" : 1,

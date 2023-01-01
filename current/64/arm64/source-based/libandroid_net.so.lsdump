@@ -764,6 +764,10 @@
     },
     {
      "enum_field_value" : 58,
+     "name" : "DEVCONF_ACCEPT_RA_MIN_LFT"
+    },
+    {
+     "enum_field_value" : 59,
      "name" : "DEVCONF_MAX"
     }
    ],
