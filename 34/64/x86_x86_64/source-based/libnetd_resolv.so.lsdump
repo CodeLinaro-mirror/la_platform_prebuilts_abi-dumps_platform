@@ -1,0 +1,1297 @@
+{
+ "array_types" : [],
+ "builtin_types" :
+ [
+  {
+   "alignment" : 1,
+   "is_integral" : true,
+   "is_unsigned" : true,
+   "linker_set_key" : "_ZTIb",
+   "name" : "bool",
+   "referenced_type" : "_ZTIb",
+   "self_type" : "_ZTIb",
+   "size" : 1
+  },
+  {
+   "alignment" : 1,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIc",
+   "name" : "char",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIc",
+   "size" : 1
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTId",
+   "name" : "double",
+   "referenced_type" : "_ZTId",
+   "self_type" : "_ZTId",
+   "size" : 8
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIe",
+   "name" : "long double",
+   "referenced_type" : "_ZTIe",
+   "self_type" : "_ZTIe",
+   "size" : 8
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIf",
+   "name" : "float",
+   "referenced_type" : "_ZTIf",
+   "self_type" : "_ZTIf",
+   "size" : 4
+  },
+  {
+   "alignment" : 1,
+   "is_integral" : true,
+   "is_unsigned" : true,
+   "linker_set_key" : "_ZTIh",
+   "name" : "unsigned char",
+   "referenced_type" : "_ZTIh",
+   "self_type" : "_ZTIh",
+   "size" : 1
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIi",
+   "name" : "int",
+   "referenced_type" : "_ZTIi",
+   "self_type" : "_ZTIi",
+   "size" : 4
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "is_unsigned" : true,
+   "linker_set_key" : "_ZTIj",
+   "name" : "unsigned int",
+   "referenced_type" : "_ZTIj",
+   "self_type" : "_ZTIj",
+   "size" : 4
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIl",
+   "name" : "long",
+   "referenced_type" : "_ZTIl",
+   "self_type" : "_ZTIl",
+   "size" : 4
+  },
+  {
+   "linker_set_key" : "_ZTIv",
+   "name" : "void",
+   "referenced_type" : "_ZTIv",
+   "self_type" : "_ZTIv"
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIw",
+   "name" : "wchar_t",
+   "referenced_type" : "_ZTIw",
+   "self_type" : "_ZTIw",
+   "size" : 4
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIx",
+   "name" : "long long",
+   "referenced_type" : "_ZTIx",
+   "self_type" : "_ZTIx",
+   "size" : 8
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "is_unsigned" : true,
+   "linker_set_key" : "_ZTIy",
+   "name" : "unsigned long long",
+   "referenced_type" : "_ZTIy",
+   "self_type" : "_ZTIy",
+   "size" : 8
+  }
+ ],
+ "elf_functions" :
+ [
+  {
+   "name" : "resolv_gethostbyaddr_from_cache"
+  },
+  {
+   "name" : "resolv_has_nameservers"
+  },
+  {
+   "name" : "resolv_init"
+  }
+ ],
+ "elf_objects" : [],
+ "enum_types" :
+ [
+  {
+   "alignment" : 4,
+   "enum_fields" :
+   [
+    {
+     "enum_field_value" : 116,
+     "name" : "android::net::stats::NETWORK_DNS_EVENT_REPORTED"
+    },
+    {
+     "enum_field_value" : 389,
+     "name" : "android::net::stats::NETWORK_DNS_HANDSHAKE_REPORTED"
+    },
+    {
+     "enum_field_value" : 504,
+     "name" : "android::net::stats::NETWORK_DNS_SERVER_SUPPORT_REPORTED"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android3net5stats27$NETWORK_DNS_EVENT_REPORTEDE",
+   "name" : "android::net::stats::(unnamed)",
+   "referenced_type" : "_ZTIN7android3net5stats27$NETWORK_DNS_EVENT_REPORTEDE",
+   "self_type" : "_ZTIN7android3net5stats27$NETWORK_DNS_EVENT_REPORTEDE",
+   "size" : 4,
+   "source_file" : "out/soong/.intermediates/packages/modules/DnsResolver/statslog_resolv.h/gen/statslog_resolv.h",
+   "underlying_type" : "_ZTIj"
+  }
+ ],
+ "function_types" :
+ [
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFP11AStatsEventvE",
+   "name" : "AStatsEvent *()",
+   "referenced_type" : "_ZTIFP11AStatsEventvE",
+   "return_type" : "_ZTIP11AStatsEvent",
+   "self_type" : "_ZTIFP11AStatsEventvE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFPvjE",
+   "name" : "void *(unsigned int)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "referenced_type" : "_ZTIFPvjE",
+   "return_type" : "_ZTIPv",
+   "self_type" : "_ZTIFPvjE",
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFiP11AStatsEventE",
+   "name" : "int (AStatsEvent *)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    }
+   ],
+   "referenced_type" : "_ZTIFiP11AStatsEventE",
+   "return_type" : "_ZTIi",
+   "self_type" : "_ZTIFiP11AStatsEventE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFiP5iovecjE",
+   "name" : "int (iovec *, unsigned int)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP5iovec"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "referenced_type" : "_ZTIFiP5iovecjE",
+   "return_type" : "_ZTIi",
+   "self_type" : "_ZTIFiP5iovecjE",
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventE",
+   "name" : "void (AStatsEvent *)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventPKcE",
+   "name" : "void (AStatsEvent *, const char *)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIPKc"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventPKcE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventPKcE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventPKhjE",
+   "name" : "void (AStatsEvent *, const unsigned char *, unsigned int)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIPKh"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventPKhjE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventPKhjE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventPKjPKPKchE",
+   "name" : "void (AStatsEvent *, const unsigned int *, const char *const *, unsigned char)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIPKj"
+    },
+    {
+     "referenced_type" : "_ZTIPKPKc"
+    },
+    {
+     "referenced_type" : "_ZTIh"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventPKjPKPKchE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventPKjPKPKchE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventbE",
+   "name" : "void (AStatsEvent *, bool)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIb"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventbE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventbE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventfE",
+   "name" : "void (AStatsEvent *, float)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIf"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventfE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventfE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventhbE",
+   "name" : "void (AStatsEvent *, unsigned char, bool)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIh"
+    },
+    {
+     "referenced_type" : "_ZTIb"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventhbE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventhbE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventhiE",
+   "name" : "void (AStatsEvent *, unsigned char, int)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIh"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventhiE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventhiE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventiE",
+   "name" : "void (AStatsEvent *, int)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIi"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventiE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventiE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventjE",
+   "name" : "void (AStatsEvent *, unsigned int)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventjE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventjE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvP11AStatsEventxE",
+   "name" : "void (AStatsEvent *, long long)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "referenced_type" : "_ZTIx"
+    }
+   ],
+   "referenced_type" : "_ZTIFvP11AStatsEventxE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvP11AStatsEventxE",
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvPvE",
+   "name" : "void (void *)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPv"
+    }
+   ],
+   "referenced_type" : "_ZTIFvPvE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvPvE",
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvPvS_E",
+   "name" : "void (void *, void *)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIPv"
+    }
+   ],
+   "referenced_type" : "_ZTIFvPvS_E",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvPvS_E",
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvPvjE",
+   "name" : "void (void *, unsigned int)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "referenced_type" : "_ZTIFvPvjE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvPvjE",
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  }
+ ],
+ "functions" : [],
+ "global_vars" : [],
+ "lvalue_reference_types" :
+ [
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIR16stats_event_list",
+   "name" : "stats_event_list &",
+   "referenced_type" : "_ZTI16stats_event_list",
+   "self_type" : "_ZTIR16stats_event_list",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKN7android3net5stats10BytesFieldE",
+   "name" : "const android::net::stats::BytesField &",
+   "referenced_type" : "_ZTIKN7android3net5stats10BytesFieldE",
+   "self_type" : "_ZTIRKN7android3net5stats10BytesFieldE",
+   "size" : 4,
+   "source_file" : "out/soong/.intermediates/packages/modules/DnsResolver/statslog_resolv.h/gen/statslog_resolv.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
+   "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__13mapIiPKcNS_4lessIiEENS_9allocatorINS_4pairIKiS2_EEEEEE",
+   "name" : "const std::map<int, const char *, std::less<int>, std::allocator<std::pair<const int, const char *>>> &",
+   "referenced_type" : "_ZTIKNSt3__13mapIiPKcNS_4lessIiEENS_9allocatorINS_4pairIKiS2_EEEEEE",
+   "self_type" : "_ZTIRKNSt3__13mapIiPKcNS_4lessIiEENS_9allocatorINS_4pairIKiS2_EEEEEE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__13mapIifNS_4lessIiEENS_9allocatorINS_4pairIKifEEEEEE",
+   "name" : "const std::map<int, float, std::less<int>, std::allocator<std::pair<const int, float>>> &",
+   "referenced_type" : "_ZTIKNSt3__13mapIifNS_4lessIiEENS_9allocatorINS_4pairIKifEEEEEE",
+   "self_type" : "_ZTIRKNSt3__13mapIifNS_4lessIiEENS_9allocatorINS_4pairIKifEEEEEE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__13mapIiiNS_4lessIiEENS_9allocatorINS_4pairIKiiEEEEEE",
+   "name" : "const std::map<int, int, std::less<int>, std::allocator<std::pair<const int, int>>> &",
+   "referenced_type" : "_ZTIKNSt3__13mapIiiNS_4lessIiEENS_9allocatorINS_4pairIKiiEEEEEE",
+   "self_type" : "_ZTIRKNSt3__13mapIiiNS_4lessIiEENS_9allocatorINS_4pairIKiiEEEEEE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__13mapIixNS_4lessIiEENS_9allocatorINS_4pairIKixEEEEEE",
+   "name" : "const std::map<int, long long, std::less<int>, std::allocator<std::pair<const int, long long>>> &",
+   "referenced_type" : "_ZTIKNSt3__13mapIixNS_4lessIiEENS_9allocatorINS_4pairIKixEEEEEE",
+   "self_type" : "_ZTIRKNSt3__13mapIixNS_4lessIiEENS_9allocatorINS_4pairIKixEEEEEE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIRKNSt3__16vectorIPKcNS_9allocatorIS2_EEEE",
+   "name" : "const std::vector<const char *, std::allocator<const char *>> &",
+   "referenced_type" : "_ZTIKNSt3__16vectorIPKcNS_9allocatorIS2_EEEE",
+   "self_type" : "_ZTIRKNSt3__16vectorIPKcNS_9allocatorIS2_EEEE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  }
+ ],
+ "pointer_types" :
+ [
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP10__locale_t",
+   "name" : "__locale_t *",
+   "referenced_type" : "_ZTI10__locale_t",
+   "self_type" : "_ZTIP10__locale_t",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP11AStatsEvent",
+   "name" : "AStatsEvent *",
+   "referenced_type" : "_ZTI11AStatsEvent",
+   "self_type" : "_ZTIP11AStatsEvent",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP16StatsEventCompat",
+   "name" : "StatsEventCompat *",
+   "referenced_type" : "_ZTI16StatsEventCompat",
+   "self_type" : "_ZTIP16StatsEventCompat",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP16stats_event_list",
+   "name" : "stats_event_list *",
+   "referenced_type" : "_ZTI16stats_event_list",
+   "self_type" : "_ZTIP16stats_event_list",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP28android_log_context_internal",
+   "name" : "android_log_context_internal *",
+   "referenced_type" : "_ZTI28android_log_context_internal",
+   "self_type" : "_ZTIP28android_log_context_internal",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP5iovec",
+   "name" : "iovec *",
+   "referenced_type" : "_ZTI5iovec",
+   "self_type" : "_ZTIP5iovec",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP5lconv",
+   "name" : "lconv *",
+   "referenced_type" : "_ZTI5lconv",
+   "self_type" : "_ZTIP5lconv",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP9mbstate_t",
+   "name" : "mbstate_t *",
+   "referenced_type" : "_ZTI9mbstate_t",
+   "self_type" : "_ZTIP9mbstate_t",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFP11AStatsEventvE",
+   "name" : "AStatsEvent *(*)()",
+   "referenced_type" : "_ZTIFP11AStatsEventvE",
+   "self_type" : "_ZTIPFP11AStatsEventvE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFPvjE",
+   "name" : "void *(*)(unsigned int)",
+   "referenced_type" : "_ZTIFPvjE",
+   "self_type" : "_ZTIPFPvjE",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFiP11AStatsEventE",
+   "name" : "int (*)(AStatsEvent *)",
+   "referenced_type" : "_ZTIFiP11AStatsEventE",
+   "self_type" : "_ZTIPFiP11AStatsEventE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFiP5iovecjE",
+   "name" : "int (*)(iovec *, unsigned int)",
+   "referenced_type" : "_ZTIFiP5iovecjE",
+   "self_type" : "_ZTIPFiP5iovecjE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventE",
+   "name" : "void (*)(AStatsEvent *)",
+   "referenced_type" : "_ZTIFvP11AStatsEventE",
+   "self_type" : "_ZTIPFvP11AStatsEventE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventPKcE",
+   "name" : "void (*)(AStatsEvent *, const char *)",
+   "referenced_type" : "_ZTIFvP11AStatsEventPKcE",
+   "self_type" : "_ZTIPFvP11AStatsEventPKcE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventPKhjE",
+   "name" : "void (*)(AStatsEvent *, const unsigned char *, unsigned int)",
+   "referenced_type" : "_ZTIFvP11AStatsEventPKhjE",
+   "self_type" : "_ZTIPFvP11AStatsEventPKhjE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventPKjPKPKchE",
+   "name" : "void (*)(AStatsEvent *, const unsigned int *, const char *const *, unsigned char)",
+   "referenced_type" : "_ZTIFvP11AStatsEventPKjPKPKchE",
+   "self_type" : "_ZTIPFvP11AStatsEventPKjPKPKchE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventbE",
+   "name" : "void (*)(AStatsEvent *, bool)",
+   "referenced_type" : "_ZTIFvP11AStatsEventbE",
+   "self_type" : "_ZTIPFvP11AStatsEventbE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventfE",
+   "name" : "void (*)(AStatsEvent *, float)",
+   "referenced_type" : "_ZTIFvP11AStatsEventfE",
+   "self_type" : "_ZTIPFvP11AStatsEventfE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventhbE",
+   "name" : "void (*)(AStatsEvent *, unsigned char, bool)",
+   "referenced_type" : "_ZTIFvP11AStatsEventhbE",
+   "self_type" : "_ZTIPFvP11AStatsEventhbE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventhiE",
+   "name" : "void (*)(AStatsEvent *, unsigned char, int)",
+   "referenced_type" : "_ZTIFvP11AStatsEventhiE",
+   "self_type" : "_ZTIPFvP11AStatsEventhiE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventiE",
+   "name" : "void (*)(AStatsEvent *, int)",
+   "referenced_type" : "_ZTIFvP11AStatsEventiE",
+   "self_type" : "_ZTIPFvP11AStatsEventiE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventjE",
+   "name" : "void (*)(AStatsEvent *, unsigned int)",
+   "referenced_type" : "_ZTIFvP11AStatsEventjE",
+   "self_type" : "_ZTIPFvP11AStatsEventjE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvP11AStatsEventxE",
+   "name" : "void (*)(AStatsEvent *, long long)",
+   "referenced_type" : "_ZTIFvP11AStatsEventxE",
+   "self_type" : "_ZTIPFvP11AStatsEventxE",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvPvE",
+   "name" : "void (*)(void *)",
+   "referenced_type" : "_ZTIFvPvE",
+   "self_type" : "_ZTIPFvPvE",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvPvS_E",
+   "name" : "void (*)(void *, void *)",
+   "referenced_type" : "_ZTIFvPvS_E",
+   "self_type" : "_ZTIPFvPvS_E",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvPvjE",
+   "name" : "void (*)(void *, unsigned int)",
+   "referenced_type" : "_ZTIFvPvjE",
+   "self_type" : "_ZTIPFvPvjE",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPK16stats_event_list",
+   "name" : "const stats_event_list *",
+   "referenced_type" : "_ZTIK16stats_event_list",
+   "self_type" : "_ZTIPK16stats_event_list",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKPKc",
+   "name" : "const char *const *",
+   "referenced_type" : "_ZTIKPKc",
+   "self_type" : "_ZTIPKPKc",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKc",
+   "name" : "const char *",
+   "referenced_type" : "_ZTIKc",
+   "self_type" : "_ZTIPKc",
+   "size" : 4,
+   "source_file" : "out/soong/.intermediates/packages/modules/DnsResolver/statslog_resolv.h/gen/statslog_resolv.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKh",
+   "name" : "const unsigned char *",
+   "referenced_type" : "_ZTIKh",
+   "self_type" : "_ZTIPKh",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKi",
+   "name" : "const int *",
+   "referenced_type" : "_ZTIKi",
+   "self_type" : "_ZTIPKi",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKj",
+   "name" : "const unsigned int *",
+   "referenced_type" : "_ZTIKj",
+   "self_type" : "_ZTIPKj",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKv",
+   "name" : "const void *",
+   "referenced_type" : "_ZTIKv",
+   "self_type" : "_ZTIPKv",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/string.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKw",
+   "name" : "const wchar_t *",
+   "referenced_type" : "_ZTIKw",
+   "self_type" : "_ZTIPKw",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/wchar.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPN7android3net5stats10BytesFieldE",
+   "name" : "android::net::stats::BytesField *",
+   "referenced_type" : "_ZTIN7android3net5stats10BytesFieldE",
+   "self_type" : "_ZTIPN7android3net5stats10BytesFieldE",
+   "size" : 4,
+   "source_file" : "out/soong/.intermediates/packages/modules/DnsResolver/statslog_resolv.h/gen/statslog_resolv.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPPKc",
+   "name" : "const char **",
+   "referenced_type" : "_ZTIPKc",
+   "self_type" : "_ZTIPPKc",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPPKw",
+   "name" : "const wchar_t **",
+   "referenced_type" : "_ZTIPKw",
+   "self_type" : "_ZTIPPKw",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPPc",
+   "name" : "char **",
+   "referenced_type" : "_ZTIPc",
+   "self_type" : "_ZTIPPc",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPSt9type_info",
+   "name" : "std::type_info *",
+   "referenced_type" : "_ZTISt9type_info",
+   "self_type" : "_ZTIPSt9type_info",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPc",
+   "name" : "char *",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIPc",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/string.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPe",
+   "name" : "long double *",
+   "referenced_type" : "_ZTIe",
+   "self_type" : "_ZTIPe",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/math.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPf",
+   "name" : "float *",
+   "referenced_type" : "_ZTIf",
+   "self_type" : "_ZTIPf",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/math.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPi",
+   "name" : "int *",
+   "referenced_type" : "_ZTIi",
+   "self_type" : "_ZTIPi",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/math.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPv",
+   "name" : "void *",
+   "referenced_type" : "_ZTIv",
+   "self_type" : "_ZTIPv",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPw",
+   "name" : "wchar_t *",
+   "referenced_type" : "_ZTIw",
+   "self_type" : "_ZTIPw",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/wchar.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPy",
+   "name" : "unsigned long long *",
+   "referenced_type" : "_ZTIy",
+   "self_type" : "_ZTIPy",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  }
+ ],
+ "qualified_types" :
+ [
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIK16stats_event_list",
+   "name" : "const stats_event_list",
+   "referenced_type" : "_ZTI16stats_event_list",
+   "self_type" : "_ZTIK16stats_event_list",
+   "size" : 8,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKN7android3net5stats10BytesFieldE",
+   "name" : "const android::net::stats::BytesField",
+   "referenced_type" : "_ZTIN7android3net5stats10BytesFieldE",
+   "self_type" : "_ZTIKN7android3net5stats10BytesFieldE",
+   "size" : 8,
+   "source_file" : "out/soong/.intermediates/packages/modules/DnsResolver/statslog_resolv.h/gen/statslog_resolv.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
+   "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
+   "size" : 12,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__13mapIiPKcNS_4lessIiEENS_9allocatorINS_4pairIKiS2_EEEEEE",
+   "name" : "const std::map<int, const char *, std::less<int>, std::allocator<std::pair<const int, const char *>>>",
+   "referenced_type" : "_ZTINSt3__13mapIiPKcNS_4lessIiEENS_9allocatorINS_4pairIKiS2_EEEEEE",
+   "self_type" : "_ZTIKNSt3__13mapIiPKcNS_4lessIiEENS_9allocatorINS_4pairIKiS2_EEEEEE",
+   "size" : 12,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__13mapIifNS_4lessIiEENS_9allocatorINS_4pairIKifEEEEEE",
+   "name" : "const std::map<int, float, std::less<int>, std::allocator<std::pair<const int, float>>>",
+   "referenced_type" : "_ZTINSt3__13mapIifNS_4lessIiEENS_9allocatorINS_4pairIKifEEEEEE",
+   "self_type" : "_ZTIKNSt3__13mapIifNS_4lessIiEENS_9allocatorINS_4pairIKifEEEEEE",
+   "size" : 12,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__13mapIiiNS_4lessIiEENS_9allocatorINS_4pairIKiiEEEEEE",
+   "name" : "const std::map<int, int, std::less<int>, std::allocator<std::pair<const int, int>>>",
+   "referenced_type" : "_ZTINSt3__13mapIiiNS_4lessIiEENS_9allocatorINS_4pairIKiiEEEEEE",
+   "self_type" : "_ZTIKNSt3__13mapIiiNS_4lessIiEENS_9allocatorINS_4pairIKiiEEEEEE",
+   "size" : 12,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__13mapIixNS_4lessIiEENS_9allocatorINS_4pairIKixEEEEEE",
+   "name" : "const std::map<int, long long, std::less<int>, std::allocator<std::pair<const int, long long>>>",
+   "referenced_type" : "_ZTINSt3__13mapIixNS_4lessIiEENS_9allocatorINS_4pairIKixEEEEEE",
+   "self_type" : "_ZTIKNSt3__13mapIixNS_4lessIiEENS_9allocatorINS_4pairIKixEEEEEE",
+   "size" : 12,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKNSt3__16vectorIPKcNS_9allocatorIS2_EEEE",
+   "name" : "const std::vector<const char *, std::allocator<const char *>>",
+   "referenced_type" : "_ZTINSt3__16vectorIPKcNS_9allocatorIS2_EEEE",
+   "self_type" : "_ZTIKNSt3__16vectorIPKcNS_9allocatorIS2_EEEE",
+   "size" : 12,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKPKc",
+   "name" : "const char *const",
+   "referenced_type" : "_ZTIPKc",
+   "self_type" : "_ZTIKPKc",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 1,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKb",
+   "name" : "const bool",
+   "referenced_type" : "_ZTIb",
+   "self_type" : "_ZTIKb",
+   "size" : 1,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 1,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKc",
+   "name" : "const char",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIKc",
+   "size" : 1,
+   "source_file" : "out/soong/.intermediates/packages/modules/DnsResolver/statslog_resolv.h/gen/statslog_resolv.h"
+  },
+  {
+   "alignment" : 1,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKh",
+   "name" : "const unsigned char",
+   "referenced_type" : "_ZTIh",
+   "self_type" : "_ZTIKh",
+   "size" : 1,
+   "source_file" : "out/soong/.intermediates/packages/modules/DnsResolver/statslog_resolv.h/gen/statslog_resolv.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKi",
+   "name" : "const int",
+   "referenced_type" : "_ZTIi",
+   "self_type" : "_ZTIKi",
+   "size" : 4,
+   "source_file" : "out/soong/.intermediates/packages/modules/DnsResolver/statslog_resolv.h/gen/statslog_resolv.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKj",
+   "name" : "const unsigned int",
+   "referenced_type" : "_ZTIj",
+   "self_type" : "_ZTIKj",
+   "size" : 4,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKv",
+   "name" : "const void",
+   "referenced_type" : "_ZTIv",
+   "self_type" : "_ZTIKv",
+   "source_file" : "external/libcxx/include/string.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKw",
+   "name" : "const wchar_t",
+   "referenced_type" : "_ZTIw",
+   "self_type" : "_ZTIKw",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/wchar.h"
+  }
+ ],
+ "record_types" :
+ [
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "initialized",
+     "referenced_type" : "_ZTIb"
+    },
+    {
+     "field_name" : "obtain",
+     "field_offset" : 32,
+     "referenced_type" : "_ZTIPFP11AStatsEventvE"
+    },
+    {
+     "field_name" : "build",
+     "field_offset" : 64,
+     "referenced_type" : "_ZTIPFvP11AStatsEventE"
+    },
+    {
+     "field_name" : "write",
+     "field_offset" : 96,
+     "referenced_type" : "_ZTIPFiP11AStatsEventE"
+    },
+    {
+     "field_name" : "release",
+     "field_offset" : 128,
+     "referenced_type" : "_ZTIPFvP11AStatsEventE"
+    },
+    {
+     "field_name" : "setAtomId",
+     "field_offset" : 160,
+     "referenced_type" : "_ZTIPFvP11AStatsEventjE"
+    },
+    {
+     "field_name" : "writeInt32",
+     "field_offset" : 192,
+     "referenced_type" : "_ZTIPFvP11AStatsEventiE"
+    },
+    {
+     "field_name" : "writeInt64",
+     "field_offset" : 224,
+     "referenced_type" : "_ZTIPFvP11AStatsEventxE"
+    },
+    {
+     "field_name" : "writeFloat",
+     "field_offset" : 256,
+     "referenced_type" : "_ZTIPFvP11AStatsEventfE"
+    },
+    {
+     "field_name" : "writeBool",
+     "field_offset" : 288,
+     "referenced_type" : "_ZTIPFvP11AStatsEventbE"
+    },
+    {
+     "field_name" : "writeByteArray",
+     "field_offset" : 320,
+     "referenced_type" : "_ZTIPFvP11AStatsEventPKhjE"
+    },
+    {
+     "field_name" : "writeString",
+     "field_offset" : 352,
+     "referenced_type" : "_ZTIPFvP11AStatsEventPKcE"
+    },
+    {
+     "field_name" : "writeAttributionChain",
+     "field_offset" : 384,
+     "referenced_type" : "_ZTIPFvP11AStatsEventPKjPKPKchE"
+    },
+    {
+     "field_name" : "addBoolAnnotation",
+     "field_offset" : 416,
+     "referenced_type" : "_ZTIPFvP11AStatsEventhbE"
+    },
+    {
+     "field_name" : "addInt32Annotation",
+     "field_offset" : 448,
+     "referenced_type" : "_ZTIPFvP11AStatsEventhiE"
+    }
+   ],
+   "linker_set_key" : "_ZTI14AStatsEventApi",
+   "name" : "AStatsEventApi",
+   "referenced_type" : "_ZTI14AStatsEventApi",
+   "self_type" : "_ZTI14AStatsEventApi",
+   "size" : 60,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "access" : "private",
+     "field_name" : "mEventR",
+     "referenced_type" : "_ZTIP11AStatsEvent"
+    },
+    {
+     "access" : "private",
+     "field_name" : "mEventQ",
+     "field_offset" : 32,
+     "referenced_type" : "_ZTI16stats_event_list"
+    }
+   ],
+   "linker_set_key" : "_ZTI16StatsEventCompat",
+   "name" : "StatsEventCompat",
+   "record_kind" : "class",
+   "referenced_type" : "_ZTI16StatsEventCompat",
+   "self_type" : "_ZTI16StatsEventCompat",
+   "size" : 12,
+   "source_file" : "system/core/libstats/push_compat/include/StatsEventCompat.h"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "access" : "private",
+     "field_name" : "ctx",
+     "referenced_type" : "_ZTIP28android_log_context_internal"
+    },
+    {
+     "access" : "private",
+     "field_name" : "ret",
+     "field_offset" : 32,
+     "referenced_type" : "_ZTIi"
+    }
+   ],
+   "linker_set_key" : "_ZTI16stats_event_list",
+   "name" : "stats_event_list",
+   "record_kind" : "class",
+   "referenced_type" : "_ZTI16stats_event_list",
+   "self_type" : "_ZTI16stats_event_list",
+   "size" : 8,
+   "source_file" : "system/core/libstats/push_compat/include/stats_event_list.h"
+  },
+  {
+   "alignment" : 4,
+   "fields" :
+   [
+    {
+     "field_name" : "arg",
+     "referenced_type" : "_ZTIPKc"
+    },
+    {
+     "field_name" : "arg_length",
+     "field_offset" : 32,
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "linker_set_key" : "_ZTIN7android3net5stats10BytesFieldE",
+   "name" : "android::net::stats::BytesField",
+   "referenced_type" : "_ZTIN7android3net5stats10BytesFieldE",
+   "self_type" : "_ZTIN7android3net5stats10BytesFieldE",
+   "size" : 8,
+   "source_file" : "out/soong/.intermediates/packages/modules/DnsResolver/statslog_resolv.h/gen/statslog_resolv.h"
+  }
+ ],
+ "rvalue_reference_types" : []
+}
