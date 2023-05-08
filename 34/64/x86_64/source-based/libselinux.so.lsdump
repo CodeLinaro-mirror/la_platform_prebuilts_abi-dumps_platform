@@ -1,0 +1,164 @@
+{
+ "array_types" : [],
+ "builtin_types" : [],
+ "elf_functions" :
+ [
+  {
+   "name" : "fgetfilecon"
+  },
+  {
+   "name" : "fgetfilecon_raw"
+  },
+  {
+   "name" : "freecon"
+  },
+  {
+   "name" : "fsetfilecon"
+  },
+  {
+   "name" : "getcon"
+  },
+  {
+   "name" : "getfilecon"
+  },
+  {
+   "name" : "getpeercon"
+  },
+  {
+   "name" : "getpidcon"
+  },
+  {
+   "name" : "is_selinux_enabled"
+  },
+  {
+   "name" : "lgetfilecon"
+  },
+  {
+   "name" : "lsetfilecon"
+  },
+  {
+   "name" : "security_compute_create"
+  },
+  {
+   "name" : "security_get_initial_context"
+  },
+  {
+   "name" : "security_getenforce"
+  },
+  {
+   "name" : "security_load_policy"
+  },
+  {
+   "name" : "security_policyvers"
+  },
+  {
+   "name" : "security_setenforce"
+  },
+  {
+   "name" : "selabel_close"
+  },
+  {
+   "name" : "selabel_lookup"
+  },
+  {
+   "name" : "selabel_lookup_best_match"
+  },
+  {
+   "name" : "selabel_open"
+  },
+  {
+   "name" : "selinux_android_context_with_level"
+  },
+  {
+   "name" : "selinux_android_file_context_handle"
+  },
+  {
+   "name" : "selinux_android_hw_service_context_handle"
+  },
+  {
+   "name" : "selinux_android_keystore2_key_context_handle"
+  },
+  {
+   "name" : "selinux_android_load_policy"
+  },
+  {
+   "name" : "selinux_android_load_policy_from_fd"
+  },
+  {
+   "name" : "selinux_android_restorecon"
+  },
+  {
+   "name" : "selinux_android_restorecon_pkgdir"
+  },
+  {
+   "name" : "selinux_android_seapp_context_init"
+  },
+  {
+   "name" : "selinux_android_service_context_handle"
+  },
+  {
+   "name" : "selinux_android_set_sehandle"
+  },
+  {
+   "name" : "selinux_android_setcon"
+  },
+  {
+   "name" : "selinux_android_setcontext"
+  },
+  {
+   "name" : "selinux_android_vendor_service_context_handle"
+  },
+  {
+   "name" : "selinux_check_access"
+  },
+  {
+   "name" : "selinux_log_callback"
+  },
+  {
+   "name" : "selinux_set_callback"
+  },
+  {
+   "name" : "selinux_status_open"
+  },
+  {
+   "name" : "selinux_status_updated"
+  },
+  {
+   "name" : "selinux_vendor_log_callback"
+  },
+  {
+   "name" : "set_selinuxmnt"
+  },
+  {
+   "name" : "setcon"
+  },
+  {
+   "name" : "setexeccon"
+  },
+  {
+   "name" : "setfilecon"
+  },
+  {
+   "name" : "setfscreatecon"
+  },
+  {
+   "name" : "setsockcreatecon"
+  },
+  {
+   "name" : "setsockcreatecon_raw"
+  },
+  {
+   "name" : "string_to_security_class"
+  }
+ ],
+ "elf_objects" : [],
+ "enum_types" : [],
+ "function_types" : [],
+ "functions" : [],
+ "global_vars" : [],
+ "lvalue_reference_types" : [],
+ "pointer_types" : [],
+ "qualified_types" : [],
+ "record_types" : [],
+ "rvalue_reference_types" : []
+}

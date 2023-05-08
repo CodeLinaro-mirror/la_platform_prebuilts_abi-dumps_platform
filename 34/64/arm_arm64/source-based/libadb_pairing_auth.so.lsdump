@@ -1,0 +1,435 @@
+{
+ "array_types" : [],
+ "builtin_types" :
+ [
+  {
+   "alignment" : 1,
+   "is_integral" : true,
+   "is_unsigned" : true,
+   "linker_set_key" : "_ZTIb",
+   "name" : "bool",
+   "referenced_type" : "_ZTIb",
+   "self_type" : "_ZTIb",
+   "size" : 1
+  },
+  {
+   "alignment" : 1,
+   "is_integral" : true,
+   "is_unsigned" : true,
+   "linker_set_key" : "_ZTIc",
+   "name" : "char",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIc",
+   "size" : 1
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTId",
+   "name" : "double",
+   "referenced_type" : "_ZTId",
+   "self_type" : "_ZTId",
+   "size" : 8
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIe",
+   "name" : "long double",
+   "referenced_type" : "_ZTIe",
+   "self_type" : "_ZTIe",
+   "size" : 8
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIf",
+   "name" : "float",
+   "referenced_type" : "_ZTIf",
+   "self_type" : "_ZTIf",
+   "size" : 4
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIi",
+   "name" : "int",
+   "referenced_type" : "_ZTIi",
+   "self_type" : "_ZTIi",
+   "size" : 4
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "is_unsigned" : true,
+   "linker_set_key" : "_ZTIj",
+   "name" : "unsigned int",
+   "referenced_type" : "_ZTIj",
+   "self_type" : "_ZTIj",
+   "size" : 4
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIl",
+   "name" : "long",
+   "referenced_type" : "_ZTIl",
+   "self_type" : "_ZTIl",
+   "size" : 4
+  },
+  {
+   "linker_set_key" : "_ZTIv",
+   "name" : "void",
+   "referenced_type" : "_ZTIv",
+   "self_type" : "_ZTIv"
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "is_unsigned" : true,
+   "linker_set_key" : "_ZTIw",
+   "name" : "wchar_t",
+   "referenced_type" : "_ZTIw",
+   "self_type" : "_ZTIw",
+   "size" : 4
+  },
+  {
+   "alignment" : 8,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIx",
+   "name" : "long long",
+   "referenced_type" : "_ZTIx",
+   "self_type" : "_ZTIx",
+   "size" : 8
+  }
+ ],
+ "elf_functions" :
+ [
+  {
+   "name" : "pairing_auth_client_new"
+  },
+  {
+   "name" : "pairing_auth_decrypt"
+  },
+  {
+   "name" : "pairing_auth_destroy"
+  },
+  {
+   "name" : "pairing_auth_encrypt"
+  },
+  {
+   "name" : "pairing_auth_get_spake2_msg"
+  },
+  {
+   "name" : "pairing_auth_init_cipher"
+  },
+  {
+   "name" : "pairing_auth_msg_size"
+  },
+  {
+   "name" : "pairing_auth_safe_decrypted_size"
+  },
+  {
+   "name" : "pairing_auth_safe_encrypted_size"
+  },
+  {
+   "name" : "pairing_auth_server_new"
+  }
+ ],
+ "elf_objects" : [],
+ "enum_types" : [],
+ "function_types" :
+ [
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFPvjE",
+   "name" : "void *(unsigned int)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "referenced_type" : "_ZTIFPvjE",
+   "return_type" : "_ZTIPv",
+   "self_type" : "_ZTIFPvjE",
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvPvE",
+   "name" : "void (void *)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPv"
+    }
+   ],
+   "referenced_type" : "_ZTIFvPvE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvPvE",
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvPvS_E",
+   "name" : "void (void *, void *)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIPv"
+    }
+   ],
+   "referenced_type" : "_ZTIFvPvS_E",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvPvS_E",
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFvPvjE",
+   "name" : "void (void *, unsigned int)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPv"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    }
+   ],
+   "referenced_type" : "_ZTIFvPvjE",
+   "return_type" : "_ZTIv",
+   "self_type" : "_ZTIFvPvjE",
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  }
+ ],
+ "functions" : [],
+ "global_vars" : [],
+ "lvalue_reference_types" : [],
+ "pointer_types" :
+ [
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP10__locale_t",
+   "name" : "__locale_t *",
+   "referenced_type" : "_ZTI10__locale_t",
+   "self_type" : "_ZTIP10__locale_t",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP5lconv",
+   "name" : "lconv *",
+   "referenced_type" : "_ZTI5lconv",
+   "self_type" : "_ZTIP5lconv",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIP9mbstate_t",
+   "name" : "mbstate_t *",
+   "referenced_type" : "_ZTI9mbstate_t",
+   "self_type" : "_ZTIP9mbstate_t",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFPvjE",
+   "name" : "void *(*)(unsigned int)",
+   "referenced_type" : "_ZTIFPvjE",
+   "self_type" : "_ZTIPFPvjE",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvPvE",
+   "name" : "void (*)(void *)",
+   "referenced_type" : "_ZTIFvPvE",
+   "self_type" : "_ZTIPFvPvE",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvPvS_E",
+   "name" : "void (*)(void *, void *)",
+   "referenced_type" : "_ZTIFvPvS_E",
+   "self_type" : "_ZTIPFvPvS_E",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFvPvjE",
+   "name" : "void (*)(void *, unsigned int)",
+   "referenced_type" : "_ZTIFvPvjE",
+   "self_type" : "_ZTIPFvPvjE",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKc",
+   "name" : "const char *",
+   "referenced_type" : "_ZTIKc",
+   "self_type" : "_ZTIPKc",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/string.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKv",
+   "name" : "const void *",
+   "referenced_type" : "_ZTIKv",
+   "self_type" : "_ZTIPKv",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/string.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKw",
+   "name" : "const wchar_t *",
+   "referenced_type" : "_ZTIKw",
+   "self_type" : "_ZTIPKw",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/wchar.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPPKc",
+   "name" : "const char **",
+   "referenced_type" : "_ZTIPKc",
+   "self_type" : "_ZTIPPKc",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPPKw",
+   "name" : "const wchar_t **",
+   "referenced_type" : "_ZTIPKw",
+   "self_type" : "_ZTIPPKw",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPPc",
+   "name" : "char **",
+   "referenced_type" : "_ZTIPc",
+   "self_type" : "_ZTIPPc",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/__bsd_locale_fallbacks.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPSt9type_info",
+   "name" : "std::type_info *",
+   "referenced_type" : "_ZTISt9type_info",
+   "self_type" : "_ZTIPSt9type_info",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPc",
+   "name" : "char *",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIPc",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/string.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPe",
+   "name" : "long double *",
+   "referenced_type" : "_ZTIe",
+   "self_type" : "_ZTIPe",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/math.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPf",
+   "name" : "float *",
+   "referenced_type" : "_ZTIf",
+   "self_type" : "_ZTIPf",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/math.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPi",
+   "name" : "int *",
+   "referenced_type" : "_ZTIi",
+   "self_type" : "_ZTIPi",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/math.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPj",
+   "name" : "unsigned int *",
+   "referenced_type" : "_ZTIj",
+   "self_type" : "_ZTIPj",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPv",
+   "name" : "void *",
+   "referenced_type" : "_ZTIv",
+   "self_type" : "_ZTIPv",
+   "size" : 4,
+   "source_file" : "external/libcxxabi/include/cxxabi.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPw",
+   "name" : "wchar_t *",
+   "referenced_type" : "_ZTIw",
+   "self_type" : "_ZTIPw",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/wchar.h"
+  }
+ ],
+ "qualified_types" :
+ [
+  {
+   "alignment" : 1,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKc",
+   "name" : "const char",
+   "referenced_type" : "_ZTIc",
+   "self_type" : "_ZTIKc",
+   "size" : 1,
+   "source_file" : "external/libcxx/include/string.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKv",
+   "name" : "const void",
+   "referenced_type" : "_ZTIv",
+   "self_type" : "_ZTIKv",
+   "source_file" : "external/libcxx/include/string.h"
+  },
+  {
+   "alignment" : 4,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKw",
+   "name" : "const wchar_t",
+   "referenced_type" : "_ZTIw",
+   "self_type" : "_ZTIKw",
+   "size" : 4,
+   "source_file" : "external/libcxx/include/wchar.h"
+  }
+ ],
+ "record_types" : [],
+ "rvalue_reference_types" : []
+}
