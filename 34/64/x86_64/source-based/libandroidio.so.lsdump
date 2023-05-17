@@ -362,6 +362,7 @@
    "source_file" : "bionic/libc/kernel/uapi/asm-x86/asm/sigcontext.h"
   },
   {
+   "is_of_unknown_bound" : true,
    "linker_set_key" : "_ZTIA_Pc",
    "name" : "char *[]",
    "referenced_type" : "_ZTIPc",

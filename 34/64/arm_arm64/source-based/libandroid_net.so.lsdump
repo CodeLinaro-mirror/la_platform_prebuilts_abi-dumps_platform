@@ -136,6 +136,7 @@
    "source_file" : "bionic/libc/kernel/uapi/linux/in6.h"
   },
   {
+   "is_of_unknown_bound" : true,
    "linker_set_key" : "_ZTIA_16sockaddr_storage",
    "name" : "sockaddr_storage[]",
    "referenced_type" : "_ZTI16sockaddr_storage",
