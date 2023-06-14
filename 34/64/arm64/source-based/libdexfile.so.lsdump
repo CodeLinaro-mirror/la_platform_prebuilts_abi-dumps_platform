@@ -9067,15 +9067,6 @@
   },
   {
    "alignment" : 8,
-   "linker_set_key" : "_ZTIRPKh",
-   "name" : "const unsigned char *&",
-   "referenced_type" : "_ZTIPKh",
-   "self_type" : "_ZTIRPKh",
-   "size" : 8,
-   "source_file" : "system/libbase/include/android-base/logging.h"
-  },
-  {
-   "alignment" : 8,
    "linker_set_key" : "_ZTIRb",
    "name" : "bool &",
    "referenced_type" : "_ZTIb",
@@ -11666,15 +11657,6 @@
    "name" : "const art::DexLayoutSection::Subsection *",
    "referenced_type" : "_ZTIKN3art16DexLayoutSection10SubsectionE",
    "self_type" : "_ZTIPKN3art16DexLayoutSection10SubsectionE",
-   "size" : 8,
-   "source_file" : "art/libdexfile/dex/dex_file_layout.h"
-  },
-  {
-   "alignment" : 8,
-   "linker_set_key" : "_ZTIPKN3art17DexLayoutSectionsE",
-   "name" : "const art::DexLayoutSections *",
-   "referenced_type" : "_ZTIKN3art17DexLayoutSectionsE",
-   "self_type" : "_ZTIPKN3art17DexLayoutSectionsE",
    "size" : 8,
    "source_file" : "art/libdexfile/dex/dex_file_layout.h"
   },
