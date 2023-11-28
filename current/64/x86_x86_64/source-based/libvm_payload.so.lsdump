@@ -4,6 +4,24 @@
  "elf_functions" :
  [
   {
+   "name" : "AVmAttestationResult_free"
+  },
+  {
+   "name" : "AVmAttestationResult_getCertificateAt"
+  },
+  {
+   "name" : "AVmAttestationResult_getCertificateCount"
+  },
+  {
+   "name" : "AVmAttestationResult_getPrivateKey"
+  },
+  {
+   "name" : "AVmAttestationResult_resultToString"
+  },
+  {
+   "name" : "AVmAttestationResult_sign"
+  },
+  {
    "name" : "AVmPayload_getApkContentsPath"
   },
   {
@@ -22,7 +40,7 @@
    "name" : "AVmPayload_notifyPayloadReady"
   },
   {
-   "name" : "AVmPayload_requestCertificate"
+   "name" : "AVmPayload_requestAttestation"
   },
   {
    "name" : "AVmPayload_runVsockRpcServer"
