@@ -35,7 +35,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIA126_c",
    "size" : 126,
-   "source_file" : "bionic/libc/include/sys/socket.h"
+   "source_file" : "bionic/libc/include/bits/sockaddr_storage.h"
   },
   {
    "alignment" : 4,
@@ -29211,7 +29211,7 @@
    "referenced_type" : "_ZTI16sockaddr_storage",
    "self_type" : "_ZTI16sockaddr_storage",
    "size" : 128,
-   "source_file" : "bionic/libc/include/sys/socket.h"
+   "source_file" : "bionic/libc/include/bits/sockaddr_storage.h"
   },
   {
    "alignment" : 8,
@@ -33299,7 +33299,7 @@
    "referenced_type" : "_ZTIN16sockaddr_storageUt_E",
    "self_type" : "_ZTIN16sockaddr_storageUt_E",
    "size" : 128,
-   "source_file" : "bionic/libc/include/sys/socket.h"
+   "source_file" : "bionic/libc/include/bits/sockaddr_storage.h"
   },
   {
    "alignment" : 2,
@@ -33321,7 +33321,7 @@
    "referenced_type" : "_ZTIN16sockaddr_storageUt_Ut_E",
    "self_type" : "_ZTIN16sockaddr_storageUt_Ut_E",
    "size" : 128,
-   "source_file" : "bionic/libc/include/sys/socket.h"
+   "source_file" : "bionic/libc/include/bits/sockaddr_storage.h"
   },
   {
    "alignment" : 4,
