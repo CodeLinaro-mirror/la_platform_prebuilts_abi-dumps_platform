@@ -17,7 +17,7 @@
    "referenced_type" : "_ZTIc",
    "self_type" : "_ZTIA126_c",
    "size" : 126,
-   "source_file" : "bionic/libc/include/sys/socket.h"
+   "source_file" : "bionic/libc/include/bits/sockaddr_storage.h"
   },
   {
    "alignment" : 4,
@@ -1978,7 +1978,7 @@
    "referenced_type" : "_ZTI16sockaddr_storage",
    "self_type" : "_ZTI16sockaddr_storage",
    "size" : 128,
-   "source_file" : "bionic/libc/include/sys/socket.h"
+   "source_file" : "bionic/libc/include/bits/sockaddr_storage.h"
   },
   {
    "alignment" : 4,
@@ -2108,21 +2108,6 @@
    "self_type" : "_ZTI19android_net_context",
    "size" : 32,
    "source_file" : "bionic/libc/dns/include/resolv_netid.h"
-  },
-  {
-   "alignment" : 8,
-   "fields" :
-   [
-    {
-     "referenced_type" : "_ZTIN25__kernel_sockaddr_storageUt_E"
-    }
-   ],
-   "linker_set_key" : "_ZTI25__kernel_sockaddr_storage",
-   "name" : "__kernel_sockaddr_storage",
-   "referenced_type" : "_ZTI25__kernel_sockaddr_storage",
-   "self_type" : "_ZTI25__kernel_sockaddr_storage",
-   "size" : 128,
-   "source_file" : "bionic/libc/kernel/uapi/linux/socket.h"
   },
   {
    "alignment" : 4,
@@ -3058,7 +3043,7 @@
    "referenced_type" : "_ZTIN16sockaddr_storageUt_E",
    "self_type" : "_ZTIN16sockaddr_storageUt_E",
    "size" : 128,
-   "source_file" : "bionic/libc/include/sys/socket.h"
+   "source_file" : "bionic/libc/include/bits/sockaddr_storage.h"
   },
   {
    "alignment" : 2,
@@ -3080,50 +3065,7 @@
    "referenced_type" : "_ZTIN16sockaddr_storageUt_Ut_E",
    "self_type" : "_ZTIN16sockaddr_storageUt_Ut_E",
    "size" : 128,
-   "source_file" : "bionic/libc/include/sys/socket.h"
-  },
-  {
-   "alignment" : 8,
-   "fields" :
-   [
-    {
-     "referenced_type" : "_ZTIN25__kernel_sockaddr_storageUt_Ut_E"
-    },
-    {
-     "field_name" : "__align",
-     "referenced_type" : "_ZTIPv"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "_ZTIN25__kernel_sockaddr_storageUt_E",
-   "name" : "__kernel_sockaddr_storage::(anonymous)",
-   "record_kind" : "union",
-   "referenced_type" : "_ZTIN25__kernel_sockaddr_storageUt_E",
-   "self_type" : "_ZTIN25__kernel_sockaddr_storageUt_E",
-   "size" : 128,
-   "source_file" : "bionic/libc/kernel/uapi/linux/socket.h"
-  },
-  {
-   "alignment" : 2,
-   "fields" :
-   [
-    {
-     "field_name" : "ss_family",
-     "referenced_type" : "_ZTIt"
-    },
-    {
-     "field_name" : "__data",
-     "field_offset" : 16,
-     "referenced_type" : "_ZTIA126_c"
-    }
-   ],
-   "is_anonymous" : true,
-   "linker_set_key" : "_ZTIN25__kernel_sockaddr_storageUt_Ut_E",
-   "name" : "__kernel_sockaddr_storage::(anonymous)::(anonymous)",
-   "referenced_type" : "_ZTIN25__kernel_sockaddr_storageUt_Ut_E",
-   "self_type" : "_ZTIN25__kernel_sockaddr_storageUt_Ut_E",
-   "size" : 128,
-   "source_file" : "bionic/libc/kernel/uapi/linux/socket.h"
+   "source_file" : "bionic/libc/include/bits/sockaddr_storage.h"
   },
   {
    "alignment" : 4,
