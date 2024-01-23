@@ -9321,6 +9321,15 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIRKN3art14ProtoReferenceE",
+   "name" : "const art::ProtoReference &",
+   "referenced_type" : "_ZTIKN3art14ProtoReferenceE",
+   "self_type" : "_ZTIRKN3art14ProtoReferenceE",
+   "size" : 8,
+   "source_file" : "art/libdexfile/dex/proto_reference.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIRKN3art15HashSetIteratorINSt3__14pairIjtEENS_7HashSetIS3_NS_3dex15DexFileVerifier20OffsetTypeMapEmptyFnENS_18HashMapHashWrapperIjtNS6_26OffsetTypeMapHashCompareFnEEENS_18HashMapPredWrapperIjtS9_EENS1_9allocatorIS3_EEEEEE",
    "name" : "const art::HashSetIterator<std::pair<unsigned int, unsigned short>, art::HashSet<std::pair<unsigned int, unsigned short>, art::dex::DexFileVerifier::OffsetTypeMapEmptyFn, art::HashMapHashWrapper<unsigned int, unsigned short, art::dex::DexFileVerifier::OffsetTypeMapHashCompareFn>, art::HashMapPredWrapper<unsigned int, unsigned short, art::dex::DexFileVerifier::OffsetTypeMapHashCompareFn>, std::allocator<std::pair<unsigned int, unsigned short>>>> &",
    "referenced_type" : "_ZTIKN3art15HashSetIteratorINSt3__14pairIjtEENS_7HashSetIS3_NS_3dex15DexFileVerifier20OffsetTypeMapEmptyFnENS_18HashMapHashWrapperIjtNS6_26OffsetTypeMapHashCompareFnEEENS_18HashMapPredWrapperIjtS9_EENS1_9allocatorIS3_EEEEEE",
@@ -12895,6 +12904,15 @@
   },
   {
    "alignment" : 8,
+   "linker_set_key" : "_ZTIPKN3art14ProtoReferenceE",
+   "name" : "const art::ProtoReference *",
+   "referenced_type" : "_ZTIKN3art14ProtoReferenceE",
+   "self_type" : "_ZTIPKN3art14ProtoReferenceE",
+   "size" : 8,
+   "source_file" : "art/libdexfile/dex/proto_reference.h"
+  },
+  {
+   "alignment" : 8,
    "linker_set_key" : "_ZTIPKN3art15HashSetIteratorINSt3__14pairIjtEENS_7HashSetIS3_NS_3dex15DexFileVerifier20OffsetTypeMapEmptyFnENS_18HashMapHashWrapperIjtNS6_26OffsetTypeMapHashCompareFnEEENS_18HashMapPredWrapperIjtS9_EENS1_9allocatorIS3_EEEEEE",
    "name" : "const art::HashSetIterator<std::pair<unsigned int, unsigned short>, art::HashSet<std::pair<unsigned int, unsigned short>, art::dex::DexFileVerifier::OffsetTypeMapEmptyFn, art::HashMapHashWrapper<unsigned int, unsigned short, art::dex::DexFileVerifier::OffsetTypeMapHashCompareFn>, art::HashMapPredWrapper<unsigned int, unsigned short, art::dex::DexFileVerifier::OffsetTypeMapHashCompareFn>, std::allocator<std::pair<unsigned int, unsigned short>>>> *",
    "referenced_type" : "_ZTIKN3art15HashSetIteratorINSt3__14pairIjtEENS_7HashSetIS3_NS_3dex15DexFileVerifier20OffsetTypeMapEmptyFnENS_18HashMapHashWrapperIjtNS6_26OffsetTypeMapHashCompareFnEEENS_18HashMapPredWrapperIjtS9_EENS1_9allocatorIS3_EEEEEE",
@@ -13153,6 +13171,15 @@
    "self_type" : "_ZTIPKN3art29NoReceiverInstructionOperandsE",
    "size" : 8,
    "source_file" : "art/libdexfile/dex/dex_instruction.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIPKN3art29ProtoReferenceValueComparatorE",
+   "name" : "const art::ProtoReferenceValueComparator *",
+   "referenced_type" : "_ZTIKN3art29ProtoReferenceValueComparatorE",
+   "self_type" : "_ZTIPKN3art29ProtoReferenceValueComparatorE",
+   "size" : 8,
+   "source_file" : "art/libdexfile/dex/proto_reference.h"
   },
   {
    "alignment" : 8,
@@ -14080,6 +14107,15 @@
    "self_type" : "_ZTIPN3art14IterationRangeIPKNS_3dex7TryItemEEE",
    "size" : 8,
    "source_file" : "art/libartbase/base/iteration_range.h"
+  },
+  {
+   "alignment" : 8,
+   "linker_set_key" : "_ZTIPN3art14ProtoReferenceE",
+   "name" : "art::ProtoReference *",
+   "referenced_type" : "_ZTIN3art14ProtoReferenceE",
+   "self_type" : "_ZTIPN3art14ProtoReferenceE",
+   "size" : 8,
+   "source_file" : "art/libdexfile/dex/proto_reference.h"
   },
   {
    "alignment" : 8,
@@ -16316,6 +16352,16 @@
   {
    "alignment" : 8,
    "is_const" : true,
+   "linker_set_key" : "_ZTIKN3art14ProtoReferenceE",
+   "name" : "const art::ProtoReference",
+   "referenced_type" : "_ZTIN3art14ProtoReferenceE",
+   "self_type" : "_ZTIKN3art14ProtoReferenceE",
+   "size" : 16,
+   "source_file" : "art/libdexfile/dex/proto_reference.h"
+  },
+  {
+   "alignment" : 8,
+   "is_const" : true,
    "linker_set_key" : "_ZTIKN3art15HashSetIteratorINSt3__14pairIjtEENS_7HashSetIS3_NS_3dex15DexFileVerifier20OffsetTypeMapEmptyFnENS_18HashMapHashWrapperIjtNS6_26OffsetTypeMapHashCompareFnEEENS_18HashMapPredWrapperIjtS9_EENS1_9allocatorIS3_EEEEEE",
    "name" : "const art::HashSetIterator<std::pair<unsigned int, unsigned short>, art::HashSet<std::pair<unsigned int, unsigned short>, art::dex::DexFileVerifier::OffsetTypeMapEmptyFn, art::HashMapHashWrapper<unsigned int, unsigned short, art::dex::DexFileVerifier::OffsetTypeMapHashCompareFn>, art::HashMapPredWrapper<unsigned int, unsigned short, art::dex::DexFileVerifier::OffsetTypeMapHashCompareFn>, std::allocator<std::pair<unsigned int, unsigned short>>>>",
    "referenced_type" : "_ZTIN3art15HashSetIteratorINSt3__14pairIjtEENS_7HashSetIS3_NS_3dex15DexFileVerifier20OffsetTypeMapEmptyFnENS_18HashMapHashWrapperIjtNS6_26OffsetTypeMapHashCompareFnEEENS_18HashMapPredWrapperIjtS9_EENS1_9allocatorIS3_EEEEEE",
@@ -16662,6 +16708,16 @@
    "self_type" : "_ZTIKN3art29NoReceiverInstructionOperandsE",
    "size" : 24,
    "source_file" : "art/libdexfile/dex/dex_instruction.h"
+  },
+  {
+   "alignment" : 1,
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKN3art29ProtoReferenceValueComparatorE",
+   "name" : "const art::ProtoReferenceValueComparator",
+   "referenced_type" : "_ZTIN3art29ProtoReferenceValueComparatorE",
+   "self_type" : "_ZTIKN3art29ProtoReferenceValueComparatorE",
+   "size" : 1,
+   "source_file" : "art/libdexfile/dex/proto_reference.h"
   },
   {
    "alignment" : 1,
@@ -20805,6 +20861,22 @@
   },
   {
    "alignment" : 8,
+   "base_specifiers" :
+   [
+    {
+     "referenced_type" : "_ZTIN3art16DexFileReferenceE"
+    }
+   ],
+   "linker_set_key" : "_ZTIN3art14ProtoReferenceE",
+   "name" : "art::ProtoReference",
+   "record_kind" : "class",
+   "referenced_type" : "_ZTIN3art14ProtoReferenceE",
+   "self_type" : "_ZTIN3art14ProtoReferenceE",
+   "size" : 16,
+   "source_file" : "art/libdexfile/dex/proto_reference.h"
+  },
+  {
+   "alignment" : 8,
    "fields" :
    [
     {
@@ -22000,6 +22072,15 @@
      "mangled_component_name" : "_ZNK3art29NoReceiverInstructionOperands10GetOperandEm"
     }
    ]
+  },
+  {
+   "alignment" : 1,
+   "linker_set_key" : "_ZTIN3art29ProtoReferenceValueComparatorE",
+   "name" : "art::ProtoReferenceValueComparator",
+   "referenced_type" : "_ZTIN3art29ProtoReferenceValueComparatorE",
+   "self_type" : "_ZTIN3art29ProtoReferenceValueComparatorE",
+   "size" : 1,
+   "source_file" : "art/libdexfile/dex/proto_reference.h"
   },
   {
    "alignment" : 1,
