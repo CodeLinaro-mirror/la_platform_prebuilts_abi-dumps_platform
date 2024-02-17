@@ -43,6 +43,9 @@
    "name" : "AVmPayload_requestAttestation"
   },
   {
+   "name" : "AVmPayload_requestAttestationForTesting"
+  },
+  {
    "name" : "AVmPayload_runVsockRpcServer"
   }
  ],
