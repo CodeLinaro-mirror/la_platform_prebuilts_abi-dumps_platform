@@ -9257,7 +9257,7 @@
    "referenced_type" : "_ZTIKN3art11VoidFunctorE",
    "self_type" : "_ZTIRKN3art11VoidFunctorE",
    "size" : 4,
-   "source_file" : "art/libdexfile/dex/dex_file.h"
+   "source_file" : "art/libdexfile/dex/class_accessor-inl.h"
   },
   {
    "alignment" : 4,
@@ -16099,7 +16099,7 @@
    "referenced_type" : "_ZTIN3art11VoidFunctorE",
    "self_type" : "_ZTIKN3art11VoidFunctorE",
    "size" : 1,
-   "source_file" : "art/libdexfile/dex/dex_file.h"
+   "source_file" : "art/libartbase/base/utils.h"
   },
   {
    "alignment" : 4,
@@ -28628,6 +28628,15 @@
    "self_type" : "_ZTION3art11ScopedTraceE",
    "size" : 4,
    "source_file" : "art/libartbase/base/systrace.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTION3art11VoidFunctorE",
+   "name" : "art::VoidFunctor &&",
+   "referenced_type" : "_ZTIN3art11VoidFunctorE",
+   "self_type" : "_ZTION3art11VoidFunctorE",
+   "size" : 4,
+   "source_file" : "art/libdexfile/dex/dex_file.h"
   },
   {
    "alignment" : 4,
