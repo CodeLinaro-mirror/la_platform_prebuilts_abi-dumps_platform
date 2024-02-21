@@ -834,6 +834,10 @@
      "name" : "art::SdkVersion::kT"
     },
     {
+     "enum_field_value" : 34,
+     "name" : "art::SdkVersion::kU"
+    },
+    {
      "enum_field_value" : 4294967295,
      "name" : "art::SdkVersion::kMax"
     }
