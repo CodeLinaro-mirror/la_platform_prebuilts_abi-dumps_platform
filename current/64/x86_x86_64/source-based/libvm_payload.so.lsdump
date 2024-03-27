@@ -16,10 +16,10 @@
    "name" : "AVmAttestationResult_getPrivateKey"
   },
   {
-   "name" : "AVmAttestationResult_resultToString"
+   "name" : "AVmAttestationResult_sign"
   },
   {
-   "name" : "AVmAttestationResult_sign"
+   "name" : "AVmAttestationStatus_toString"
   },
   {
    "name" : "AVmPayload_getApkContentsPath"
