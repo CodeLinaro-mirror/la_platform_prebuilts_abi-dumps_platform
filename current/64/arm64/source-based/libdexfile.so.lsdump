@@ -24666,6 +24666,15 @@
    "source_file" : "external/fmtlib/include/fmt/format.h"
   },
   {
+   "alignment" : 1,
+   "linker_set_key" : "_ZTIN3fmt3v106detail13width_checkerE",
+   "name" : "fmt::detail::width_checker",
+   "referenced_type" : "_ZTIN3fmt3v106detail13width_checkerE",
+   "self_type" : "_ZTIN3fmt3v106detail13width_checkerE",
+   "size" : 1,
+   "source_file" : "external/fmtlib/include/fmt/format.h"
+  },
+  {
    "alignment" : 8,
    "fields" :
    [
@@ -24888,6 +24897,15 @@
    "referenced_type" : "_ZTIN3fmt3v106detail17counting_iteratorE",
    "self_type" : "_ZTIN3fmt3v106detail17counting_iteratorE",
    "size" : 8,
+   "source_file" : "external/fmtlib/include/fmt/format.h"
+  },
+  {
+   "alignment" : 1,
+   "linker_set_key" : "_ZTIN3fmt3v106detail17precision_checkerE",
+   "name" : "fmt::detail::precision_checker",
+   "referenced_type" : "_ZTIN3fmt3v106detail17precision_checkerE",
+   "self_type" : "_ZTIN3fmt3v106detail17precision_checkerE",
+   "size" : 1,
    "source_file" : "external/fmtlib/include/fmt/format.h"
   },
   {
