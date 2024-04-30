@@ -6,7 +6,6 @@
    "linker_set_key" : "_ZTIA16_c",
    "name" : "char[16]",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA16_c",
    "size" : 16,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/process_info.h"
   }
@@ -19,16 +18,12 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDi",
    "name" : "char32_t",
-   "referenced_type" : "_ZTIDi",
-   "self_type" : "_ZTIDi",
    "size" : 4
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIDn",
    "name" : "std::nullptr_t",
-   "referenced_type" : "_ZTIDn",
-   "self_type" : "_ZTIDn",
    "size" : 4
   },
   {
@@ -37,8 +32,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDs",
    "name" : "char16_t",
-   "referenced_type" : "_ZTIDs",
-   "self_type" : "_ZTIDs",
    "size" : 2
   },
   {
@@ -47,8 +40,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDu",
    "name" : "char8_t",
-   "referenced_type" : "_ZTIDu",
-   "self_type" : "_ZTIDu",
    "size" : 1
   },
   {
@@ -56,8 +47,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIa",
    "name" : "signed char",
-   "referenced_type" : "_ZTIa",
-   "self_type" : "_ZTIa",
    "size" : 1
   },
   {
@@ -66,8 +55,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -75,32 +62,24 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTId",
    "name" : "double",
-   "referenced_type" : "_ZTId",
-   "self_type" : "_ZTId",
    "size" : 8
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIe",
    "name" : "long double",
-   "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIe",
    "size" : 8
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIf",
    "name" : "float",
-   "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIf",
    "size" : 4
   },
   {
@@ -109,8 +88,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -118,8 +95,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -128,8 +103,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -137,8 +110,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIl",
    "name" : "long",
-   "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIl",
    "size" : 4
   },
   {
@@ -147,8 +118,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIm",
    "name" : "unsigned long",
-   "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIm",
    "size" : 4
   },
   {
@@ -156,8 +125,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIs",
    "name" : "short",
-   "referenced_type" : "_ZTIs",
-   "self_type" : "_ZTIs",
    "size" : 2
   },
   {
@@ -166,23 +133,17 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIt",
    "name" : "unsigned short",
-   "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIt",
    "size" : 2
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
    "is_integral" : true,
    "linker_set_key" : "_ZTIw",
    "name" : "wchar_t",
-   "referenced_type" : "_ZTIw",
-   "self_type" : "_ZTIw",
    "size" : 4
   },
   {
@@ -190,8 +151,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   },
   {
@@ -200,8 +159,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIy",
    "name" : "unsigned long long",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIy",
    "size" : 8
   }
  ],
@@ -246,8 +203,6 @@
    ],
    "linker_set_key" : "_ZTI27AdbConnectionClientInfoType",
    "name" : "AdbConnectionClientInfoType",
-   "referenced_type" : "_ZTI27AdbConnectionClientInfoType",
-   "self_type" : "_ZTI27AdbConnectionClientInfoType",
    "size" : 4,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h",
    "underlying_type" : "_ZTIj"
@@ -316,7 +271,6 @@
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/process_info.h"
   }
@@ -328,7 +282,6 @@
    "linker_set_key" : "_ZTIP11ProcessInfo",
    "name" : "ProcessInfo *",
    "referenced_type" : "_ZTI11ProcessInfo",
-   "self_type" : "_ZTIP11ProcessInfo",
    "size" : 4,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/process_info.h"
   },
@@ -337,7 +290,6 @@
    "linker_set_key" : "_ZTIP26AdbConnectionClientContext",
    "name" : "AdbConnectionClientContext *",
    "referenced_type" : "_ZTI26AdbConnectionClientContext",
-   "self_type" : "_ZTIP26AdbConnectionClientContext",
    "size" : 4,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   },
@@ -346,7 +298,6 @@
    "linker_set_key" : "_ZTIPK23AdbConnectionClientInfo",
    "name" : "const AdbConnectionClientInfo *",
    "referenced_type" : "_ZTIK23AdbConnectionClientInfo",
-   "self_type" : "_ZTIPK23AdbConnectionClientInfo",
    "size" : 4,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   },
@@ -355,7 +306,6 @@
    "linker_set_key" : "_ZTIPKPK23AdbConnectionClientInfo",
    "name" : "const AdbConnectionClientInfo *const *",
    "referenced_type" : "_ZTIKPK23AdbConnectionClientInfo",
-   "self_type" : "_ZTIPKPK23AdbConnectionClientInfo",
    "size" : 4,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   },
@@ -364,7 +314,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 4,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   }
@@ -377,7 +326,6 @@
    "linker_set_key" : "_ZTIK23AdbConnectionClientInfo",
    "name" : "const AdbConnectionClientInfo",
    "referenced_type" : "_ZTI23AdbConnectionClientInfo",
-   "self_type" : "_ZTIK23AdbConnectionClientInfo",
    "size" : 12,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   },
@@ -387,7 +335,6 @@
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/process_info.h"
   },
@@ -397,7 +344,6 @@
    "linker_set_key" : "_ZTIKPK23AdbConnectionClientInfo",
    "name" : "const AdbConnectionClientInfo *const",
    "referenced_type" : "_ZTIPK23AdbConnectionClientInfo",
-   "self_type" : "_ZTIKPK23AdbConnectionClientInfo",
    "size" : 4,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   },
@@ -407,7 +353,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   },
@@ -417,7 +362,6 @@
    "linker_set_key" : "_ZTIKj",
    "name" : "const unsigned int",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIKj",
    "size" : 4,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/process_info.h"
   }
@@ -455,8 +399,6 @@
    ],
    "linker_set_key" : "_ZTI11ProcessInfo",
    "name" : "ProcessInfo",
-   "referenced_type" : "_ZTI11ProcessInfo",
-   "self_type" : "_ZTI11ProcessInfo",
    "size" : 32,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/process_info.h"
   },
@@ -476,8 +418,6 @@
    ],
    "linker_set_key" : "_ZTI23AdbConnectionClientInfo",
    "name" : "AdbConnectionClientInfo",
-   "referenced_type" : "_ZTI23AdbConnectionClientInfo",
-   "self_type" : "_ZTI23AdbConnectionClientInfo",
    "size" : 12,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   },
@@ -506,8 +446,6 @@
    "linker_set_key" : "_ZTIN23AdbConnectionClientInfoUt_E",
    "name" : "AdbConnectionClientInfo::(unnamed)",
    "record_kind" : "union",
-   "referenced_type" : "_ZTIN23AdbConnectionClientInfoUt_E",
-   "self_type" : "_ZTIN23AdbConnectionClientInfoUt_E",
    "size" : 8,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   },
@@ -528,8 +466,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN23AdbConnectionClientInfoUt_Ut_E",
    "name" : "AdbConnectionClientInfo::(unnamed)::(unnamed)",
-   "referenced_type" : "_ZTIN23AdbConnectionClientInfoUt_Ut_E",
-   "self_type" : "_ZTIN23AdbConnectionClientInfoUt_Ut_E",
    "size" : 8,
    "source_file" : "packages/modules/adb/libs/adbconnection/include/adbconnection/client.h"
   }

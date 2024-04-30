@@ -8,8 +8,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -17,8 +15,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
@@ -27,15 +23,11 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   }
  ],
  "elf_functions" :
@@ -89,7 +81,6 @@
    "linker_set_key" : "_ZTIP27ANeuralNetworks_PackageInfo",
    "name" : "ANeuralNetworks_PackageInfo *",
    "referenced_type" : "_ZTI27ANeuralNetworks_PackageInfo",
-   "self_type" : "_ZTIP27ANeuralNetworks_PackageInfo",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/packageinfo/include/PackageInfo.h"
   },
@@ -98,7 +89,6 @@
    "linker_set_key" : "_ZTIPc",
    "name" : "char *",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIPc",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/packageinfo/include/PackageInfo.h"
   }
@@ -132,8 +122,6 @@
    ],
    "linker_set_key" : "_ZTI27ANeuralNetworks_PackageInfo",
    "name" : "ANeuralNetworks_PackageInfo",
-   "referenced_type" : "_ZTI27ANeuralNetworks_PackageInfo",
-   "self_type" : "_ZTI27ANeuralNetworks_PackageInfo",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/packageinfo/include/PackageInfo.h"
   }

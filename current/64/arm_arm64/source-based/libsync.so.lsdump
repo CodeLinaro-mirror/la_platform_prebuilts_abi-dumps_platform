@@ -8,8 +8,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
@@ -17,15 +15,11 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   }
  ],
  "elf_functions" :
@@ -124,7 +118,6 @@
    "linker_set_key" : "_ZTIP14sync_file_info",
    "name" : "sync_file_info *",
    "referenced_type" : "_ZTI14sync_file_info",
-   "self_type" : "_ZTIP14sync_file_info",
    "size" : 4,
    "source_file" : "system/core/libsync/include/ndk/sync.h"
   },
@@ -133,7 +126,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 4,
    "source_file" : "system/core/libsync/include/ndk/sync.h"
   }
@@ -146,7 +138,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "system/core/libsync/include/ndk/sync.h"
   }

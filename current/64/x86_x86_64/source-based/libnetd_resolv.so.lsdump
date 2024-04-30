@@ -8,16 +8,12 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDi",
    "name" : "char32_t",
-   "referenced_type" : "_ZTIDi",
-   "self_type" : "_ZTIDi",
    "size" : 4
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIDn",
    "name" : "std::nullptr_t",
-   "referenced_type" : "_ZTIDn",
-   "self_type" : "_ZTIDn",
    "size" : 4
   },
   {
@@ -26,8 +22,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDs",
    "name" : "char16_t",
-   "referenced_type" : "_ZTIDs",
-   "self_type" : "_ZTIDs",
    "size" : 2
   },
   {
@@ -36,8 +30,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDu",
    "name" : "char8_t",
-   "referenced_type" : "_ZTIDu",
-   "self_type" : "_ZTIDu",
    "size" : 1
   },
   {
@@ -45,8 +37,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIa",
    "name" : "signed char",
-   "referenced_type" : "_ZTIa",
-   "self_type" : "_ZTIa",
    "size" : 1
   },
   {
@@ -55,8 +45,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -64,32 +52,24 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTId",
    "name" : "double",
-   "referenced_type" : "_ZTId",
-   "self_type" : "_ZTId",
    "size" : 8
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIe",
    "name" : "long double",
-   "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIe",
    "size" : 8
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIf",
    "name" : "float",
-   "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIf",
    "size" : 4
   },
   {
@@ -98,8 +78,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -107,8 +85,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -117,8 +93,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -126,8 +100,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIl",
    "name" : "long",
-   "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIl",
    "size" : 4
   },
   {
@@ -136,8 +108,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIm",
    "name" : "unsigned long",
-   "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIm",
    "size" : 4
   },
   {
@@ -145,8 +115,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIs",
    "name" : "short",
-   "referenced_type" : "_ZTIs",
-   "self_type" : "_ZTIs",
    "size" : 2
   },
   {
@@ -155,23 +123,17 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIt",
    "name" : "unsigned short",
-   "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIt",
    "size" : 2
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
    "is_integral" : true,
    "linker_set_key" : "_ZTIw",
    "name" : "wchar_t",
-   "referenced_type" : "_ZTIw",
-   "self_type" : "_ZTIw",
    "size" : 4
   },
   {
@@ -179,8 +141,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   },
   {
@@ -189,8 +149,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIy",
    "name" : "unsigned long long",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIy",
    "size" : 8
   }
  ],
@@ -220,9 +178,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFbPKcE",
    "return_type" : "_ZTIb",
-   "self_type" : "_ZTIFbPKcE",
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
   {
@@ -238,9 +194,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFbRK19android_net_contextPKcE",
    "return_type" : "_ZTIb",
-   "self_type" : "_ZTIFbRK19android_net_contextPKcE",
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
   {
@@ -262,9 +216,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFiijjiE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiijjiE",
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
   {
@@ -277,9 +229,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFvPKcE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvPKcE",
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
   {
@@ -298,9 +248,7 @@
      "referenced_type" : "_ZTIP19android_net_context"
     }
    ],
-   "referenced_type" : "_ZTIFvjjP19android_net_contextE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvjjP19android_net_contextE",
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   }
  ],
@@ -363,7 +311,6 @@
    "linker_set_key" : "_ZTIRK19android_net_context",
    "name" : "const android_net_context &",
    "referenced_type" : "_ZTIK19android_net_context",
-   "self_type" : "_ZTIRK19android_net_context",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   }
@@ -375,7 +322,6 @@
    "linker_set_key" : "_ZTIP19android_net_context",
    "name" : "android_net_context *",
    "referenced_type" : "_ZTI19android_net_context",
-   "self_type" : "_ZTIP19android_net_context",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -384,7 +330,6 @@
    "linker_set_key" : "_ZTIPFbPKcE",
    "name" : "bool (*)(const char *)",
    "referenced_type" : "_ZTIFbPKcE",
-   "self_type" : "_ZTIPFbPKcE",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -393,7 +338,6 @@
    "linker_set_key" : "_ZTIPFbRK19android_net_contextPKcE",
    "name" : "bool (*)(const android_net_context &, const char *)",
    "referenced_type" : "_ZTIFbRK19android_net_contextPKcE",
-   "self_type" : "_ZTIPFbRK19android_net_contextPKcE",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -402,7 +346,6 @@
    "linker_set_key" : "_ZTIPFiijjiE",
    "name" : "int (*)(int, unsigned int, unsigned int, int)",
    "referenced_type" : "_ZTIFiijjiE",
-   "self_type" : "_ZTIPFiijjiE",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -411,7 +354,6 @@
    "linker_set_key" : "_ZTIPFvPKcE",
    "name" : "void (*)(const char *)",
    "referenced_type" : "_ZTIFvPKcE",
-   "self_type" : "_ZTIPFvPKcE",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -420,7 +362,6 @@
    "linker_set_key" : "_ZTIPFvjjP19android_net_contextE",
    "name" : "void (*)(unsigned int, unsigned int, android_net_context *)",
    "referenced_type" : "_ZTIFvjjP19android_net_contextE",
-   "self_type" : "_ZTIPFvjjP19android_net_contextE",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -429,7 +370,6 @@
    "linker_set_key" : "_ZTIPK19android_net_context",
    "name" : "const android_net_context *",
    "referenced_type" : "_ZTIK19android_net_context",
-   "self_type" : "_ZTIPK19android_net_context",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -438,7 +378,6 @@
    "linker_set_key" : "_ZTIPK21ResolverNetdCallbacks",
    "name" : "const ResolverNetdCallbacks *",
    "referenced_type" : "_ZTIK21ResolverNetdCallbacks",
-   "self_type" : "_ZTIPK21ResolverNetdCallbacks",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -447,7 +386,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -456,7 +394,6 @@
    "linker_set_key" : "_ZTIPc",
    "name" : "char *",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIPc",
    "size" : 4,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   }
@@ -469,7 +406,6 @@
    "linker_set_key" : "_ZTIK19android_net_context",
    "name" : "const android_net_context",
    "referenced_type" : "_ZTI19android_net_context",
-   "self_type" : "_ZTIK19android_net_context",
    "size" : 28,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -479,7 +415,6 @@
    "linker_set_key" : "_ZTIK21ResolverNetdCallbacks",
    "name" : "const ResolverNetdCallbacks",
    "referenced_type" : "_ZTI21ResolverNetdCallbacks",
-   "self_type" : "_ZTIK21ResolverNetdCallbacks",
    "size" : 20,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -489,7 +424,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   }
@@ -537,8 +471,6 @@
    ],
    "linker_set_key" : "_ZTI19android_net_context",
    "name" : "android_net_context",
-   "referenced_type" : "_ZTI19android_net_context",
-   "self_type" : "_ZTI19android_net_context",
    "size" : 28,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   },
@@ -573,8 +505,6 @@
    ],
    "linker_set_key" : "_ZTI21ResolverNetdCallbacks",
    "name" : "ResolverNetdCallbacks",
-   "referenced_type" : "_ZTI21ResolverNetdCallbacks",
-   "self_type" : "_ZTI21ResolverNetdCallbacks",
    "size" : 20,
    "source_file" : "packages/modules/DnsResolver/include/netd_resolv/resolv.h"
   }

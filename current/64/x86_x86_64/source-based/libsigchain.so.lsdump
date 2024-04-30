@@ -8,8 +8,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -17,8 +15,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
@@ -26,8 +22,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -36,8 +30,13 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
+   "size" : 4
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIl",
+   "name" : "long",
    "size" : 4
   },
   {
@@ -46,15 +45,33 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIm",
    "name" : "unsigned long",
-   "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIm",
    "size" : 4
   },
   {
+   "alignment" : 2,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIs",
+   "name" : "short",
+   "size" : 2
+  },
+  {
+   "alignment" : 2,
+   "is_integral" : true,
+   "is_unsigned" : true,
+   "linker_set_key" : "_ZTIt",
+   "name" : "unsigned short",
+   "size" : 2
+  },
+  {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
+  },
+  {
+   "alignment" : 4,
+   "is_integral" : true,
+   "linker_set_key" : "_ZTIx",
+   "name" : "long long",
+   "size" : 8
   },
   {
    "alignment" : 4,
@@ -62,8 +79,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIy",
    "name" : "unsigned long long",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIy",
    "size" : 8
   }
  ],
@@ -88,9 +103,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "referenced_type" : "_ZTIFbiP7siginfoPvE",
    "return_type" : "_ZTIb",
-   "self_type" : "_ZTIFbiP7siginfoPvE",
    "source_file" : "art/sigchainlib/sigchain.h"
   }
  ],
@@ -104,7 +117,6 @@
    "linker_set_key" : "_ZTIP7siginfo",
    "name" : "siginfo *",
    "referenced_type" : "_ZTI7siginfo",
-   "self_type" : "_ZTIP7siginfo",
    "size" : 4,
    "source_file" : "art/sigchainlib/sigchain.h"
   },
@@ -113,7 +125,6 @@
    "linker_set_key" : "_ZTIPFbiP7siginfoPvE",
    "name" : "bool (*)(int, siginfo *, void *)",
    "referenced_type" : "_ZTIFbiP7siginfoPvE",
-   "self_type" : "_ZTIPFbiP7siginfoPvE",
    "size" : 4,
    "source_file" : "art/sigchainlib/sigchain.h"
   },
@@ -122,7 +133,6 @@
    "linker_set_key" : "_ZTIPN3art14SigchainActionE",
    "name" : "art::SigchainAction *",
    "referenced_type" : "_ZTIN3art14SigchainActionE",
-   "self_type" : "_ZTIPN3art14SigchainActionE",
    "size" : 4,
    "source_file" : "art/sigchainlib/sigchain.h"
   },
@@ -131,7 +141,6 @@
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIPv",
    "size" : 4,
    "source_file" : "art/sigchainlib/sigchain.h"
   }
@@ -144,7 +153,6 @@
    "linker_set_key" : "_ZTIKy",
    "name" : "const unsigned long long",
    "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIKy",
    "size" : 8,
    "source_file" : "art/sigchainlib/sigchain.h"
   }
@@ -172,8 +180,6 @@
    ],
    "linker_set_key" : "_ZTIN3art14SigchainActionE",
    "name" : "art::SigchainAction",
-   "referenced_type" : "_ZTIN3art14SigchainActionE",
-   "self_type" : "_ZTIN3art14SigchainActionE",
    "size" : 16,
    "source_file" : "art/sigchainlib/sigchain.h"
   }

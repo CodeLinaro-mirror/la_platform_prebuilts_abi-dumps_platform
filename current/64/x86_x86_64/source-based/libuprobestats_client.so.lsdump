@@ -8,23 +8,17 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   }
  ],
@@ -64,7 +58,6 @@
    "linker_set_key" : "_ZTIPKh",
    "name" : "const unsigned char *",
    "referenced_type" : "_ZTIKh",
-   "self_type" : "_ZTIPKh",
    "size" : 4,
    "source_file" : "packages/modules/UprobeStats/src/lib/include/android/uprobestats_client.h"
   }
@@ -77,7 +70,6 @@
    "linker_set_key" : "_ZTIKh",
    "name" : "const unsigned char",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIKh",
    "size" : 1,
    "source_file" : "packages/modules/UprobeStats/src/lib/include/android/uprobestats_client.h"
   }

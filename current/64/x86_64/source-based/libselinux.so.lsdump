@@ -6,7 +6,6 @@
    "linker_set_key" : "_ZTIA33_PKc",
    "name" : "const char *[33]",
    "referenced_type" : "_ZTIPKc",
-   "self_type" : "_ZTIA33_PKc",
    "size" : 264,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   }
@@ -19,8 +18,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "_Bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -28,8 +25,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
@@ -38,8 +33,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -47,8 +40,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -57,8 +48,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -67,8 +56,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIm",
    "name" : "unsigned long",
-   "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIm",
    "size" : 8
   },
   {
@@ -77,15 +64,11 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIt",
    "name" : "unsigned short",
-   "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIt",
    "size" : 2
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   }
  ],
  "elf_functions" :
@@ -264,8 +247,6 @@
    ],
    "linker_set_key" : "_ZTI18selabel_cmp_result",
    "name" : "selabel_cmp_result",
-   "referenced_type" : "_ZTI18selabel_cmp_result",
-   "self_type" : "_ZTI18selabel_cmp_result",
    "size" : 4,
    "source_file" : "external/selinux/libselinux/include/selinux/label.h",
    "underlying_type" : "_ZTIj"
@@ -283,9 +264,7 @@
      "referenced_type" : "_ZTIPFvvE"
     }
    ],
-   "referenced_type" : "_ZTIFPvPFvvEE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvPFvvEE",
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
   {
@@ -298,18 +277,14 @@
      "referenced_type" : "_ZTIm"
     }
    ],
-   "referenced_type" : "_ZTIFPvmE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvmE",
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIFPvvE",
    "name" : "void *(void)",
-   "referenced_type" : "_ZTIFPvvE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvvE",
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
   {
@@ -328,9 +303,7 @@
      "referenced_type" : "_ZTIPPc"
     }
    ],
-   "referenced_type" : "_ZTIFiPKcjPPcE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiPKcjPPcE",
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
@@ -349,9 +322,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFiPKcjPcE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiPKcjPcE",
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
@@ -364,9 +335,7 @@
      "referenced_type" : "_ZTIPPc"
     }
    ],
-   "referenced_type" : "_ZTIFiPPcE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiPPcE",
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
@@ -388,9 +357,7 @@
      "referenced_type" : "_ZTIm"
     }
    ],
-   "referenced_type" : "_ZTIFiPvtPcmE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiPvtPcmE",
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
@@ -403,9 +370,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFiiE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiiE",
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
@@ -421,9 +386,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFiiPKczE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiiPKczE",
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
   {
@@ -451,9 +414,7 @@
      "referenced_type" : "_ZTIPj"
     }
    ],
-   "referenced_type" : "_ZTIFijP11security_idS0_tjPjE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFijP11security_idS0_tjPjE",
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
   {
@@ -466,9 +427,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFvPKczE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvPKczE",
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
   {
@@ -481,9 +440,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "referenced_type" : "_ZTIFvPvE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvPvE",
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
   {
@@ -505,18 +462,14 @@
      "referenced_type" : "_ZTIm"
     }
    ],
-   "referenced_type" : "_ZTIFvPvtPcmE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvPvtPcmE",
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIFvvE",
    "name" : "void (void)",
-   "referenced_type" : "_ZTIFvvE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvvE",
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   }
  ],
@@ -1156,7 +1109,6 @@
    "linker_set_key" : "_ZTIP10SELboolean",
    "name" : "SELboolean *",
    "referenced_type" : "_ZTI10SELboolean",
-   "self_type" : "_ZTIP10SELboolean",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1165,7 +1117,6 @@
    "linker_set_key" : "_ZTIP11av_decision",
    "name" : "av_decision *",
    "referenced_type" : "_ZTI11av_decision",
-   "self_type" : "_ZTIP11av_decision",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1174,7 +1125,6 @@
    "linker_set_key" : "_ZTIP11context_s_t",
    "name" : "context_s_t *",
    "referenced_type" : "_ZTI11context_s_t",
-   "self_type" : "_ZTIP11context_s_t",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/context.h"
   },
@@ -1183,7 +1133,6 @@
    "linker_set_key" : "_ZTIP11security_id",
    "name" : "security_id *",
    "referenced_type" : "_ZTI11security_id",
-   "self_type" : "_ZTIP11security_id",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1192,7 +1141,6 @@
    "linker_set_key" : "_ZTIP11selinux_opt",
    "name" : "selinux_opt *",
    "referenced_type" : "_ZTI11selinux_opt",
-   "self_type" : "_ZTIP11selinux_opt",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1201,7 +1149,6 @@
    "linker_set_key" : "_ZTIP13avc_entry_ref",
    "name" : "avc_entry_ref *",
    "referenced_type" : "_ZTI13avc_entry_ref",
-   "self_type" : "_ZTIP13avc_entry_ref",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1210,7 +1157,6 @@
    "linker_set_key" : "_ZTIP14selabel_handle",
    "name" : "selabel_handle *",
    "referenced_type" : "_ZTI14selabel_handle",
-   "self_type" : "_ZTIP14selabel_handle",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/android.h"
   },
@@ -1219,7 +1165,6 @@
    "linker_set_key" : "_ZTIP15avc_cache_stats",
    "name" : "avc_cache_stats *",
    "referenced_type" : "_ZTI15avc_cache_stats",
-   "self_type" : "_ZTIP15avc_cache_stats",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1228,7 +1173,6 @@
    "linker_set_key" : "_ZTIP22security_class_mapping",
    "name" : "security_class_mapping *",
    "referenced_type" : "_ZTI22security_class_mapping",
-   "self_type" : "_ZTIP22security_class_mapping",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1237,7 +1181,6 @@
    "linker_set_key" : "_ZTIP9avc_entry",
    "name" : "avc_entry *",
    "referenced_type" : "_ZTI9avc_entry",
-   "self_type" : "_ZTIP9avc_entry",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1246,7 +1189,6 @@
    "linker_set_key" : "_ZTIPFPvPFvvEE",
    "name" : "void *(*)(void (*)(void))",
    "referenced_type" : "_ZTIFPvPFvvEE",
-   "self_type" : "_ZTIPFPvPFvvEE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1255,7 +1197,6 @@
    "linker_set_key" : "_ZTIPFPvmE",
    "name" : "void *(*)(unsigned long)",
    "referenced_type" : "_ZTIFPvmE",
-   "self_type" : "_ZTIPFPvmE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1264,7 +1205,6 @@
    "linker_set_key" : "_ZTIPFPvvE",
    "name" : "void *(*)(void)",
    "referenced_type" : "_ZTIFPvvE",
-   "self_type" : "_ZTIPFPvvE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1273,7 +1213,6 @@
    "linker_set_key" : "_ZTIPFiPKcjPPcE",
    "name" : "int (*)(const char *, unsigned int, char **)",
    "referenced_type" : "_ZTIFiPKcjPPcE",
-   "self_type" : "_ZTIPFiPKcjPPcE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1282,7 +1221,6 @@
    "linker_set_key" : "_ZTIPFiPKcjPcE",
    "name" : "int (*)(const char *, unsigned int, char *)",
    "referenced_type" : "_ZTIFiPKcjPcE",
-   "self_type" : "_ZTIPFiPKcjPcE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1291,7 +1229,6 @@
    "linker_set_key" : "_ZTIPFiPPcE",
    "name" : "int (*)(char **)",
    "referenced_type" : "_ZTIFiPPcE",
-   "self_type" : "_ZTIPFiPPcE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1300,7 +1237,6 @@
    "linker_set_key" : "_ZTIPFiPvtPcmE",
    "name" : "int (*)(void *, unsigned short, char *, unsigned long)",
    "referenced_type" : "_ZTIFiPvtPcmE",
-   "self_type" : "_ZTIPFiPvtPcmE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1309,7 +1245,6 @@
    "linker_set_key" : "_ZTIPFiiE",
    "name" : "int (*)(int)",
    "referenced_type" : "_ZTIFiiE",
-   "self_type" : "_ZTIPFiiE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1318,7 +1253,6 @@
    "linker_set_key" : "_ZTIPFiiPKczE",
    "name" : "int (*)(int, const char *, ...)",
    "referenced_type" : "_ZTIFiiPKczE",
-   "self_type" : "_ZTIPFiiPKczE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1327,7 +1261,6 @@
    "linker_set_key" : "_ZTIPFijP11security_idS0_tjPjE",
    "name" : "int (*)(unsigned int, security_id *, security_id *, unsigned short, unsigned int, unsigned int *)",
    "referenced_type" : "_ZTIFijP11security_idS0_tjPjE",
-   "self_type" : "_ZTIPFijP11security_idS0_tjPjE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1336,7 +1269,6 @@
    "linker_set_key" : "_ZTIPFvPKczE",
    "name" : "void (*)(const char *, ...)",
    "referenced_type" : "_ZTIFvPKczE",
-   "self_type" : "_ZTIPFvPKczE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1345,7 +1277,6 @@
    "linker_set_key" : "_ZTIPFvPvE",
    "name" : "void (*)(void *)",
    "referenced_type" : "_ZTIFvPvE",
-   "self_type" : "_ZTIPFvPvE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1354,7 +1285,6 @@
    "linker_set_key" : "_ZTIPFvPvtPcmE",
    "name" : "void (*)(void *, unsigned short, char *, unsigned long)",
    "referenced_type" : "_ZTIFvPvtPcmE",
-   "self_type" : "_ZTIPFvPvtPcmE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1363,7 +1293,6 @@
    "linker_set_key" : "_ZTIPFvvE",
    "name" : "void (*)(void)",
    "referenced_type" : "_ZTIFvvE",
-   "self_type" : "_ZTIPFvvE",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1372,7 +1301,6 @@
    "linker_set_key" : "_ZTIPK11selinux_opt",
    "name" : "const selinux_opt *",
    "referenced_type" : "_ZTIK11selinux_opt",
-   "self_type" : "_ZTIPK11selinux_opt",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/label.h"
   },
@@ -1381,7 +1309,6 @@
    "linker_set_key" : "_ZTIPK14selabel_handle",
    "name" : "const selabel_handle *",
    "referenced_type" : "_ZTIK14selabel_handle",
-   "self_type" : "_ZTIPK14selabel_handle",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/android.h"
   },
@@ -1390,7 +1317,6 @@
    "linker_set_key" : "_ZTIPK16avc_log_callback",
    "name" : "const avc_log_callback *",
    "referenced_type" : "_ZTIK16avc_log_callback",
-   "self_type" : "_ZTIPK16avc_log_callback",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1399,7 +1325,6 @@
    "linker_set_key" : "_ZTIPK17avc_lock_callback",
    "name" : "const avc_lock_callback *",
    "referenced_type" : "_ZTIK17avc_lock_callback",
-   "self_type" : "_ZTIPK17avc_lock_callback",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1408,7 +1333,6 @@
    "linker_set_key" : "_ZTIPK19avc_memory_callback",
    "name" : "const avc_memory_callback *",
    "referenced_type" : "_ZTIK19avc_memory_callback",
-   "self_type" : "_ZTIPK19avc_memory_callback",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1417,7 +1341,6 @@
    "linker_set_key" : "_ZTIPK19avc_thread_callback",
    "name" : "const avc_thread_callback *",
    "referenced_type" : "_ZTIK19avc_thread_callback",
-   "self_type" : "_ZTIPK19avc_thread_callback",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1426,7 +1349,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1435,7 +1357,6 @@
    "linker_set_key" : "_ZTIPKv",
    "name" : "const void *",
    "referenced_type" : "_ZTIKv",
-   "self_type" : "_ZTIPKv",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1444,7 +1365,6 @@
    "linker_set_key" : "_ZTIPP11security_id",
    "name" : "security_id **",
    "referenced_type" : "_ZTIP11security_id",
-   "self_type" : "_ZTIPP11security_id",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1453,7 +1373,6 @@
    "linker_set_key" : "_ZTIPPKc",
    "name" : "const char **",
    "referenced_type" : "_ZTIPKc",
-   "self_type" : "_ZTIPPKc",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/label.h"
   },
@@ -1462,7 +1381,6 @@
    "linker_set_key" : "_ZTIPPPc",
    "name" : "char ***",
    "referenced_type" : "_ZTIPPc",
-   "self_type" : "_ZTIPPPc",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1471,7 +1389,6 @@
    "linker_set_key" : "_ZTIPPc",
    "name" : "char **",
    "referenced_type" : "_ZTIPc",
-   "self_type" : "_ZTIPPc",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1480,7 +1397,6 @@
    "linker_set_key" : "_ZTIPPh",
    "name" : "unsigned char **",
    "referenced_type" : "_ZTIPh",
-   "self_type" : "_ZTIPPh",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/label.h"
   },
@@ -1489,7 +1405,6 @@
    "linker_set_key" : "_ZTIPc",
    "name" : "char *",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIPc",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1498,7 +1413,6 @@
    "linker_set_key" : "_ZTIPh",
    "name" : "unsigned char *",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIPh",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/label.h"
   },
@@ -1507,7 +1421,6 @@
    "linker_set_key" : "_ZTIPi",
    "name" : "int *",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIPi",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1516,7 +1429,6 @@
    "linker_set_key" : "_ZTIPj",
    "name" : "unsigned int *",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIPj",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1525,7 +1437,6 @@
    "linker_set_key" : "_ZTIPm",
    "name" : "unsigned long *",
    "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIPm",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/label.h"
   },
@@ -1534,7 +1445,6 @@
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIPv",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   }
@@ -1547,7 +1457,6 @@
    "linker_set_key" : "_ZTIK11selinux_opt",
    "name" : "const selinux_opt",
    "referenced_type" : "_ZTI11selinux_opt",
-   "self_type" : "_ZTIK11selinux_opt",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/label.h"
   },
@@ -1557,7 +1466,6 @@
    "linker_set_key" : "_ZTIK14selabel_handle",
    "name" : "const selabel_handle",
    "referenced_type" : "_ZTI14selabel_handle",
-   "self_type" : "_ZTIK14selabel_handle",
    "size" : 104,
    "source_file" : "external/selinux/libselinux/include/selinux/android.h"
   },
@@ -1567,7 +1475,6 @@
    "linker_set_key" : "_ZTIK16avc_log_callback",
    "name" : "const avc_log_callback",
    "referenced_type" : "_ZTI16avc_log_callback",
-   "self_type" : "_ZTIK16avc_log_callback",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1577,7 +1484,6 @@
    "linker_set_key" : "_ZTIK17avc_lock_callback",
    "name" : "const avc_lock_callback",
    "referenced_type" : "_ZTI17avc_lock_callback",
-   "self_type" : "_ZTIK17avc_lock_callback",
    "size" : 32,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1587,7 +1493,6 @@
    "linker_set_key" : "_ZTIK19avc_memory_callback",
    "name" : "const avc_memory_callback",
    "referenced_type" : "_ZTI19avc_memory_callback",
-   "self_type" : "_ZTIK19avc_memory_callback",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1597,7 +1502,6 @@
    "linker_set_key" : "_ZTIK19avc_thread_callback",
    "name" : "const avc_thread_callback",
    "referenced_type" : "_ZTI19avc_thread_callback",
-   "self_type" : "_ZTIK19avc_thread_callback",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1607,7 +1511,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1616,7 +1519,6 @@
    "linker_set_key" : "_ZTIKv",
    "name" : "const void",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIKv",
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   }
  ],
@@ -1638,8 +1540,6 @@
    ],
    "linker_set_key" : "_ZTI10SELboolean",
    "name" : "SELboolean",
-   "referenced_type" : "_ZTI10SELboolean",
-   "self_type" : "_ZTI10SELboolean",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1679,8 +1579,6 @@
    ],
    "linker_set_key" : "_ZTI11av_decision",
    "name" : "av_decision",
-   "referenced_type" : "_ZTI11av_decision",
-   "self_type" : "_ZTI11av_decision",
    "size" : 24,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1695,8 +1593,6 @@
    ],
    "linker_set_key" : "_ZTI11context_s_t",
    "name" : "context_s_t",
-   "referenced_type" : "_ZTI11context_s_t",
-   "self_type" : "_ZTI11context_s_t",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/context.h"
   },
@@ -1716,8 +1612,6 @@
    ],
    "linker_set_key" : "_ZTI11security_id",
    "name" : "security_id",
-   "referenced_type" : "_ZTI11security_id",
-   "self_type" : "_ZTI11security_id",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1737,8 +1631,6 @@
    ],
    "linker_set_key" : "_ZTI11selinux_opt",
    "name" : "selinux_opt",
-   "referenced_type" : "_ZTI11selinux_opt",
-   "self_type" : "_ZTI11selinux_opt",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1753,8 +1645,6 @@
    ],
    "linker_set_key" : "_ZTI13avc_entry_ref",
    "name" : "avc_entry_ref",
-   "referenced_type" : "_ZTI13avc_entry_ref",
-   "self_type" : "_ZTI13avc_entry_ref",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1804,8 +1694,6 @@
    ],
    "linker_set_key" : "_ZTI15avc_cache_stats",
    "name" : "avc_cache_stats",
-   "referenced_type" : "_ZTI15avc_cache_stats",
-   "self_type" : "_ZTI15avc_cache_stats",
    "size" : 32,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1825,8 +1713,6 @@
    ],
    "linker_set_key" : "_ZTI16avc_log_callback",
    "name" : "avc_log_callback",
-   "referenced_type" : "_ZTI16avc_log_callback",
-   "self_type" : "_ZTI16avc_log_callback",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1858,8 +1744,6 @@
    "linker_set_key" : "_ZTI16selinux_callback",
    "name" : "selinux_callback",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI16selinux_callback",
-   "self_type" : "_ZTI16selinux_callback",
    "size" : 8,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   },
@@ -1889,8 +1773,6 @@
    ],
    "linker_set_key" : "_ZTI17avc_lock_callback",
    "name" : "avc_lock_callback",
-   "referenced_type" : "_ZTI17avc_lock_callback",
-   "self_type" : "_ZTI17avc_lock_callback",
    "size" : 32,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1910,8 +1792,6 @@
    ],
    "linker_set_key" : "_ZTI19avc_memory_callback",
    "name" : "avc_memory_callback",
-   "referenced_type" : "_ZTI19avc_memory_callback",
-   "self_type" : "_ZTI19avc_memory_callback",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1931,8 +1811,6 @@
    ],
    "linker_set_key" : "_ZTI19avc_thread_callback",
    "name" : "avc_thread_callback",
-   "referenced_type" : "_ZTI19avc_thread_callback",
-   "self_type" : "_ZTI19avc_thread_callback",
    "size" : 16,
    "source_file" : "external/selinux/libselinux/include/selinux/avc.h"
   },
@@ -1952,8 +1830,6 @@
    ],
    "linker_set_key" : "_ZTI22security_class_mapping",
    "name" : "security_class_mapping",
-   "referenced_type" : "_ZTI22security_class_mapping",
-   "self_type" : "_ZTI22security_class_mapping",
    "size" : 272,
    "source_file" : "external/selinux/libselinux/include/selinux/selinux.h"
   }

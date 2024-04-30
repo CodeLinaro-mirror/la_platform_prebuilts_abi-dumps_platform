@@ -8,16 +8,12 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDi",
    "name" : "char32_t",
-   "referenced_type" : "_ZTIDi",
-   "self_type" : "_ZTIDi",
    "size" : 4
   },
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIDn",
    "name" : "std::nullptr_t",
-   "referenced_type" : "_ZTIDn",
-   "self_type" : "_ZTIDn",
    "size" : 8
   },
   {
@@ -26,8 +22,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDs",
    "name" : "char16_t",
-   "referenced_type" : "_ZTIDs",
-   "self_type" : "_ZTIDs",
    "size" : 2
   },
   {
@@ -36,8 +30,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDu",
    "name" : "char8_t",
-   "referenced_type" : "_ZTIDu",
-   "self_type" : "_ZTIDu",
    "size" : 1
   },
   {
@@ -45,8 +37,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIa",
    "name" : "signed char",
-   "referenced_type" : "_ZTIa",
-   "self_type" : "_ZTIa",
    "size" : 1
   },
   {
@@ -55,8 +45,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -64,32 +52,24 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTId",
    "name" : "double",
-   "referenced_type" : "_ZTId",
-   "self_type" : "_ZTId",
    "size" : 8
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIf",
    "name" : "float",
-   "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIf",
    "size" : 4
   },
   {
    "alignment" : 16,
    "linker_set_key" : "_ZTIg",
    "name" : "long double",
-   "referenced_type" : "_ZTIg",
-   "self_type" : "_ZTIg",
    "size" : 16
   },
   {
@@ -98,8 +78,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -107,8 +85,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -117,8 +93,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -126,8 +100,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIl",
    "name" : "long",
-   "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIl",
    "size" : 8
   },
   {
@@ -136,8 +108,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIm",
    "name" : "unsigned long",
-   "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIm",
    "size" : 8
   },
   {
@@ -145,8 +115,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIn",
    "name" : "__int128",
-   "referenced_type" : "_ZTIn",
-   "self_type" : "_ZTIn",
    "size" : 16
   },
   {
@@ -155,8 +123,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIo",
    "name" : "unsigned __int128",
-   "referenced_type" : "_ZTIo",
-   "self_type" : "_ZTIo",
    "size" : 16
   },
   {
@@ -164,8 +130,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIs",
    "name" : "short",
-   "referenced_type" : "_ZTIs",
-   "self_type" : "_ZTIs",
    "size" : 2
   },
   {
@@ -174,23 +138,17 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIt",
    "name" : "unsigned short",
-   "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIt",
    "size" : 2
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
    "is_integral" : true,
    "linker_set_key" : "_ZTIw",
    "name" : "wchar_t",
-   "referenced_type" : "_ZTIw",
-   "self_type" : "_ZTIw",
    "size" : 4
   },
   {
@@ -198,8 +156,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   },
   {
@@ -208,8 +164,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIy",
    "name" : "unsigned long long",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIy",
    "size" : 8
   }
  ],
@@ -429,7 +383,6 @@
    "linker_set_key" : "_ZTIP14PairingAuthCtx",
    "name" : "PairingAuthCtx *",
    "referenced_type" : "_ZTI14PairingAuthCtx",
-   "self_type" : "_ZTIP14PairingAuthCtx",
    "size" : 8,
    "source_file" : "packages/modules/adb/pairing_auth/include/adb/pairing/pairing_auth.h"
   },
@@ -438,7 +391,6 @@
    "linker_set_key" : "_ZTIPKh",
    "name" : "const unsigned char *",
    "referenced_type" : "_ZTIKh",
-   "self_type" : "_ZTIPKh",
    "size" : 8,
    "source_file" : "packages/modules/adb/pairing_auth/include/adb/pairing/aes_128_gcm.h"
   },
@@ -447,7 +399,6 @@
    "linker_set_key" : "_ZTIPN3adb7pairing9Aes128GcmE",
    "name" : "adb::pairing::Aes128Gcm *",
    "referenced_type" : "_ZTIN3adb7pairing9Aes128GcmE",
-   "self_type" : "_ZTIPN3adb7pairing9Aes128GcmE",
    "size" : 8,
    "source_file" : "packages/modules/adb/pairing_auth/include/adb/pairing/aes_128_gcm.h"
   },
@@ -456,7 +407,6 @@
    "linker_set_key" : "_ZTIPh",
    "name" : "unsigned char *",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIPh",
    "size" : 8,
    "source_file" : "packages/modules/adb/pairing_auth/include/adb/pairing/aes_128_gcm.h"
   },
@@ -465,7 +415,6 @@
    "linker_set_key" : "_ZTIPm",
    "name" : "unsigned long *",
    "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIPm",
    "size" : 8,
    "source_file" : "packages/modules/adb/pairing_auth/include/adb/pairing/pairing_auth.h"
   }
@@ -478,7 +427,6 @@
    "linker_set_key" : "_ZTIKh",
    "name" : "const unsigned char",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIKh",
    "size" : 1,
    "source_file" : "packages/modules/adb/pairing_auth/include/adb/pairing/aes_128_gcm.h"
   }
@@ -510,8 +458,6 @@
    "linker_set_key" : "_ZTIN3adb7pairing9Aes128GcmE",
    "name" : "adb::pairing::Aes128Gcm",
    "record_kind" : "class",
-   "referenced_type" : "_ZTIN3adb7pairing9Aes128GcmE",
-   "self_type" : "_ZTIN3adb7pairing9Aes128GcmE",
    "size" : 600,
    "source_file" : "packages/modules/adb/pairing_auth/include/adb/pairing/aes_128_gcm.h"
   }
