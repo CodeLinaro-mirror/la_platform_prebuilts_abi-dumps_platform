@@ -10925,7 +10925,7 @@
    "linker_set_key" : "_ZTIN7android3gui10FrameEventE",
    "name" : "android::gui::FrameEvent",
    "size" : 4,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/c8d34641185f6d08c8fdcfaa6cb93a5e/gen/aidl_library/android/gui/FrameEvent.h",
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/a7ec4cedd350a9f16160166d32d1dd66/gen/aidl_library/android/gui/FrameEvent.h",
    "underlying_type" : "_ZTIi"
   },
   {
@@ -10940,7 +10940,7 @@
    "linker_set_key" : "_ZTIN7android3gui17FrameTimelineInfo17$INVALID_VSYNC_IDE",
    "name" : "android::gui::FrameTimelineInfo::(unnamed)",
    "size" : 8,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/c8d34641185f6d08c8fdcfaa6cb93a5e/gen/aidl_library/android/gui/FrameTimelineInfo.h",
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/a7ec4cedd350a9f16160166d32d1dd66/gen/aidl_library/android/gui/FrameTimelineInfo.h",
    "underlying_type" : "_ZTIl"
   },
   {
@@ -17568,7 +17568,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIPv",
@@ -17716,7 +17716,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIPv",
@@ -18097,7 +18097,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIa",
@@ -18182,7 +18182,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIa",
@@ -18487,7 +18487,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTId",
@@ -18572,7 +18572,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTId",
@@ -18877,7 +18877,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIf",
@@ -18962,7 +18962,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIf",
@@ -19350,7 +19350,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIh",
@@ -19454,7 +19454,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIh",
@@ -20729,7 +20729,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -20855,7 +20855,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIi",
@@ -21221,7 +21221,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIl",
@@ -21306,7 +21306,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIl",
@@ -21662,7 +21662,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIs",
@@ -21747,7 +21747,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIs",
@@ -22052,7 +22052,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIt",
@@ -22137,7 +22137,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIt",
@@ -23850,7 +23850,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -24328,7 +24328,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     },
     {
-     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "return_type" : "_ZTIv",
@@ -29239,7 +29239,7 @@
    "name" : "const android::gui::FrameTimelineInfo &",
    "referenced_type" : "_ZTIKN7android3gui17FrameTimelineInfoE",
    "size" : 8,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/c8d34641185f6d08c8fdcfaa6cb93a5e/gen/aidl_library/android/gui/FrameTimelineInfo.h"
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/a7ec4cedd350a9f16160166d32d1dd66/gen/aidl_library/android/gui/FrameTimelineInfo.h"
   },
   {
    "alignment" : 8,
@@ -34862,8 +34862,8 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIPK18JNIInvokeInterface",
    "name" : "const JNIInvokeInterface *",
-   "referenced_type" : "_ZTIK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
-   "self_type" : "_ZTIPK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "referenced_type" : "_ZTIK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTIPK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -34879,8 +34879,8 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIPK18JNINativeInterface",
    "name" : "const JNINativeInterface *",
-   "referenced_type" : "_ZTIK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
-   "self_type" : "_ZTIPK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "referenced_type" : "_ZTIK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTIPK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -34928,8 +34928,8 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIPK6jvalue",
    "name" : "const jvalue *",
-   "referenced_type" : "_ZTIK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
-   "self_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "referenced_type" : "_ZTIK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTIPK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -35827,7 +35827,7 @@
    "name" : "const android::gui::FrameTimelineInfo *",
    "referenced_type" : "_ZTIKN7android3gui17FrameTimelineInfoE",
    "size" : 8,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/c8d34641185f6d08c8fdcfaa6cb93a5e/gen/aidl_library/android/gui/FrameTimelineInfo.h"
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/a7ec4cedd350a9f16160166d32d1dd66/gen/aidl_library/android/gui/FrameTimelineInfo.h"
   },
   {
    "alignment" : 8,
@@ -36619,7 +36619,7 @@
    "name" : "com::android::graphics::libgui::flags::flag_provider_interface *",
    "referenced_type" : "_ZTIN3com7android8graphics6libgui5flags23flag_provider_interfaceE",
    "size" : 8,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libguiflags/android_arm64_armv8-a-branchprot_static/0e7aadb4ccf134e3003f27a606ef3a68/gen/include/com_android_graphics_libgui_flags.h"
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libguiflags/android_arm64_armv8-a-branchprot_static/582736703e6423fcea154bd3703d3915/gen/include/com_android_graphics_libgui_flags.h"
   },
   {
    "alignment" : 8,
@@ -39457,7 +39457,7 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIPPK18JNIInvokeInterface",
    "name" : "const JNIInvokeInterface **",
-   "referenced_type" : "_ZTIPK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "referenced_type" : "_ZTIPK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -39465,7 +39465,7 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIPPK18JNINativeInterface",
    "name" : "const JNINativeInterface **",
-   "referenced_type" : "_ZTIPK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "referenced_type" : "_ZTIPK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -40107,8 +40107,8 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIK18JNIInvokeInterface",
    "name" : "const JNIInvokeInterface",
-   "referenced_type" : "_ZTI18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
-   "self_type" : "_ZTIK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "referenced_type" : "_ZTI18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTIK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 64,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -40126,8 +40126,8 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIK18JNINativeInterface",
    "name" : "const JNINativeInterface",
-   "referenced_type" : "_ZTI18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
-   "self_type" : "_ZTIK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "referenced_type" : "_ZTI18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTIK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 1864,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -40271,8 +40271,8 @@
    "is_const" : true,
    "linker_set_key" : "_ZTIK6jvalue",
    "name" : "const jvalue",
-   "referenced_type" : "_ZTI6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
-   "self_type" : "_ZTIK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "referenced_type" : "_ZTI6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTIK6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -40808,7 +40808,7 @@
    "name" : "const android::StaticString16<30>",
    "referenced_type" : "_ZTIN7android14StaticString16ILm30EEE",
    "size" : 72,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/c8d34641185f6d08c8fdcfaa6cb93a5e/gen/aidl_library/android/gui/FrameTimelineInfo.h"
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/a7ec4cedd350a9f16160166d32d1dd66/gen/aidl_library/android/gui/FrameTimelineInfo.h"
   },
   {
    "alignment" : 8,
@@ -41501,7 +41501,7 @@
    "name" : "const android::gui::FrameTimelineInfo",
    "referenced_type" : "_ZTIN7android3gui17FrameTimelineInfoE",
    "size" : 56,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/c8d34641185f6d08c8fdcfaa6cb93a5e/gen/aidl_library/android/gui/FrameTimelineInfo.h"
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/a7ec4cedd350a9f16160166d32d1dd66/gen/aidl_library/android/gui/FrameTimelineInfo.h"
   },
   {
    "alignment" : 8,
@@ -42876,7 +42876,7 @@
    "name" : "const std::array<android::gui::FrameEvent, 11>",
    "referenced_type" : "_ZTINSt3__15arrayIN7android3gui10FrameEventELm11EEE",
    "size" : 44,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/c8d34641185f6d08c8fdcfaa6cb93a5e/gen/aidl_library/android/gui/FrameEvent.h"
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/a7ec4cedd350a9f16160166d32d1dd66/gen/aidl_library/android/gui/FrameEvent.h"
   },
   {
    "alignment" : 4,
@@ -44612,7 +44612,7 @@
    ],
    "linker_set_key" : "_ZTI16JavaVMAttachArgs",
    "name" : "JavaVMAttachArgs",
-   "self_type" : "_ZTI16JavaVMAttachArgs#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTI16JavaVMAttachArgs#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 24,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -44988,7 +44988,7 @@
    ],
    "linker_set_key" : "_ZTI18JNIInvokeInterface",
    "name" : "JNIInvokeInterface",
-   "self_type" : "_ZTI18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTI18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 64,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -47337,7 +47337,7 @@
    ],
    "linker_set_key" : "_ZTI18JNINativeInterface",
    "name" : "JNINativeInterface",
-   "self_type" : "_ZTI18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTI18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 1864,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -48866,7 +48866,7 @@
    "linker_set_key" : "_ZTI6jvalue",
    "name" : "jvalue",
    "record_kind" : "union",
-   "self_type" : "_ZTI6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTI6jvalue#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -48890,12 +48890,12 @@
    [
     {
      "field_name" : "functions",
-     "referenced_type" : "_ZTIPK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK18JNINativeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "linker_set_key" : "_ZTI7_JNIEnv",
    "name" : "_JNIEnv",
-   "self_type" : "_ZTI7_JNIEnv#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTI7_JNIEnv#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -48919,12 +48919,12 @@
    [
     {
      "field_name" : "functions",
-     "referenced_type" : "_ZTIPK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump"
+     "referenced_type" : "_ZTIPK18JNIInvokeInterface#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump"
     }
    ],
    "linker_set_key" : "_ZTI7_JavaVM",
    "name" : "_JavaVM",
-   "self_type" : "_ZTI7_JavaVM#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/0e7aadb4ccf134e3003f27a606ef3a68/obj/libnativehelper/libnativehelper_lazy.sdump",
+   "self_type" : "_ZTI7_JavaVM#ODR:out/soong/.intermediates/libnativehelper/libnativehelper_lazy/android_arm64_armv8-a-branchprot_static_cfi/582736703e6423fcea154bd3703d3915/obj/libnativehelper/libnativehelper_lazy.sdump",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -49156,7 +49156,7 @@
    "name" : "com::android::graphics::libgui::flags::flag_provider_interface",
    "record_kind" : "class",
    "size" : 8,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libguiflags/android_arm64_armv8-a-branchprot_static/0e7aadb4ccf134e3003f27a606ef3a68/gen/include/com_android_graphics_libgui_flags.h",
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libguiflags/android_arm64_armv8-a-branchprot_static/582736703e6423fcea154bd3703d3915/gen/include/com_android_graphics_libgui_flags.h",
    "vtable_components" :
    [
     {
@@ -64685,7 +64685,7 @@
    "name" : "android::gui::FrameTimelineInfo",
    "record_kind" : "class",
    "size" : 56,
-   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/c8d34641185f6d08c8fdcfaa6cb93a5e/gen/aidl_library/android/gui/FrameTimelineInfo.h",
+   "source_file" : "out/soong/.intermediates/frameworks/native/libs/gui/libgui_aidl_static/android_arm64_armv8-a-branchprot_static/a7ec4cedd350a9f16160166d32d1dd66/gen/aidl_library/android/gui/FrameTimelineInfo.h",
    "vtable_components" :
    [
     {
@@ -64926,7 +64926,7 @@
    [
     {
      "field_name" : "mpNode",
-     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/b02942eee99fb7a92ac8cab173338e64/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/ab868392971d4e18e33fafe1a483ee23/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListIP6AImageE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
@@ -64964,13 +64964,13 @@
      "access" : "private",
      "field_name" : "mpPrev",
      "field_offset" : 64,
-     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/b02942eee99fb7a92ac8cab173338e64/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/ab868392971d4e18e33fafe1a483ee23/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "access" : "private",
      "field_name" : "mpNext",
      "field_offset" : 128,
-     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/b02942eee99fb7a92ac8cab173338e64/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIP6AImageE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/ab868392971d4e18e33fafe1a483ee23/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListIP6AImageE5_NodeE",
@@ -65024,7 +65024,7 @@
    [
     {
      "field_name" : "mpNode",
-     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/b02942eee99fb7a92ac8cab173338e64/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/ab868392971d4e18e33fafe1a483ee23/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListIPNS_10BufferItemEE13_ListIteratorIS2_NS3_18NON_CONST_ITERATOREEE",
@@ -65062,13 +65062,13 @@
      "access" : "private",
      "field_name" : "mpPrev",
      "field_offset" : 64,
-     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/b02942eee99fb7a92ac8cab173338e64/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/ab868392971d4e18e33fafe1a483ee23/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     },
     {
      "access" : "private",
      "field_name" : "mpNext",
      "field_offset" : 128,
-     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/b02942eee99fb7a92ac8cab173338e64/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
+     "referenced_type" : "_ZTIPN7android4ListIPNS_10BufferItemEE5_NodeE#ODR:out/soong/.intermediates/frameworks/av/media/ndk/libmediandk/android_arm64_armv8-a-branchprot_shared_cfi/ab868392971d4e18e33fafe1a483ee23/obj/frameworks/av/media/ndk/NdkImageReader.sdump"
     }
    ],
    "linker_set_key" : "_ZTIN7android4ListIPNS_10BufferItemEE5_NodeE",
