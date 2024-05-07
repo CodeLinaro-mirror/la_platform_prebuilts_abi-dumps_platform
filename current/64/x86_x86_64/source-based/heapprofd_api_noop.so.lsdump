@@ -8,8 +8,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -17,8 +15,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
@@ -27,15 +23,11 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
@@ -43,8 +35,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIy",
    "name" : "unsigned long long",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIy",
    "size" : 8
   }
  ],
@@ -95,9 +85,7 @@
      "referenced_type" : "_ZTIPK30AHeapProfileEnableCallbackInfo"
     }
    ],
-   "referenced_type" : "_ZTIFvPvPK30AHeapProfileEnableCallbackInfoE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvPvPK30AHeapProfileEnableCallbackInfoE",
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   },
   {
@@ -113,9 +101,7 @@
      "referenced_type" : "_ZTIPK31AHeapProfileDisableCallbackInfo"
     }
    ],
-   "referenced_type" : "_ZTIFvPvPK31AHeapProfileDisableCallbackInfoE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvPvPK31AHeapProfileDisableCallbackInfoE",
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   }
  ],
@@ -254,7 +240,6 @@
    "linker_set_key" : "_ZTIP9AHeapInfo",
    "name" : "AHeapInfo *",
    "referenced_type" : "_ZTI9AHeapInfo",
-   "self_type" : "_ZTIP9AHeapInfo",
    "size" : 4,
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   },
@@ -263,7 +248,6 @@
    "linker_set_key" : "_ZTIPFvPvPK30AHeapProfileEnableCallbackInfoE",
    "name" : "void (*)(void *, const AHeapProfileEnableCallbackInfo *)",
    "referenced_type" : "_ZTIFvPvPK30AHeapProfileEnableCallbackInfoE",
-   "self_type" : "_ZTIPFvPvPK30AHeapProfileEnableCallbackInfoE",
    "size" : 4,
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   },
@@ -272,7 +256,6 @@
    "linker_set_key" : "_ZTIPFvPvPK31AHeapProfileDisableCallbackInfoE",
    "name" : "void (*)(void *, const AHeapProfileDisableCallbackInfo *)",
    "referenced_type" : "_ZTIFvPvPK31AHeapProfileDisableCallbackInfoE",
-   "self_type" : "_ZTIPFvPvPK31AHeapProfileDisableCallbackInfoE",
    "size" : 4,
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   },
@@ -281,7 +264,6 @@
    "linker_set_key" : "_ZTIPK30AHeapProfileEnableCallbackInfo",
    "name" : "const AHeapProfileEnableCallbackInfo *",
    "referenced_type" : "_ZTIK30AHeapProfileEnableCallbackInfo",
-   "self_type" : "_ZTIPK30AHeapProfileEnableCallbackInfo",
    "size" : 4,
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   },
@@ -290,7 +272,6 @@
    "linker_set_key" : "_ZTIPK31AHeapProfileDisableCallbackInfo",
    "name" : "const AHeapProfileDisableCallbackInfo *",
    "referenced_type" : "_ZTIK31AHeapProfileDisableCallbackInfo",
-   "self_type" : "_ZTIPK31AHeapProfileDisableCallbackInfo",
    "size" : 4,
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   },
@@ -299,7 +280,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 4,
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   },
@@ -308,7 +288,6 @@
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIPv",
    "size" : 4,
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   }
@@ -320,7 +299,6 @@
    "linker_set_key" : "_ZTIK30AHeapProfileEnableCallbackInfo",
    "name" : "const AHeapProfileEnableCallbackInfo",
    "referenced_type" : "_ZTI30AHeapProfileEnableCallbackInfo",
-   "self_type" : "_ZTIK30AHeapProfileEnableCallbackInfo",
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   },
   {
@@ -328,7 +306,6 @@
    "linker_set_key" : "_ZTIK31AHeapProfileDisableCallbackInfo",
    "name" : "const AHeapProfileDisableCallbackInfo",
    "referenced_type" : "_ZTI31AHeapProfileDisableCallbackInfo",
-   "self_type" : "_ZTIK31AHeapProfileDisableCallbackInfo",
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   },
   {
@@ -337,7 +314,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "external/perfetto/src/profiling/memory/include/perfetto/heap_profile.h"
   }

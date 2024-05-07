@@ -6,7 +6,6 @@
    "linker_set_key" : "_ZTIA10_c",
    "name" : "char[10]",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA10_c",
    "size" : 10,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/s_modf.c"
   },
@@ -15,7 +14,6 @@
    "linker_set_key" : "_ZTIA10_d",
    "name" : "double[10]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA10_d",
    "size" : 80,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -24,7 +22,6 @@
    "linker_set_key" : "_ZTIA10_i",
    "name" : "int[10]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA10_i",
    "size" : 40,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -33,7 +30,6 @@
    "linker_set_key" : "_ZTIA11_d",
    "name" : "double[11]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA11_d",
    "size" : 88,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/s_atan.c"
   },
@@ -42,7 +38,6 @@
    "linker_set_key" : "_ZTIA128_3$_0",
    "name" : "(unnamed)[128]",
    "referenced_type" : "_ZTI3$_0",
-   "self_type" : "_ZTIA128_3$_0",
    "size" : 4096,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/k_expl.h"
   },
@@ -51,7 +46,6 @@
    "linker_set_key" : "_ZTIA128_N12pow_log_dataUt_E",
    "name" : "pow_log_data::(unnamed)[128]",
    "referenced_type" : "_ZTIN12pow_log_dataUt_E",
-   "self_type" : "_ZTIA128_N12pow_log_dataUt_E",
    "size" : 4096,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -60,7 +54,6 @@
    "linker_set_key" : "_ZTIA128_N8log_dataUt_E",
    "name" : "log_data::(unnamed)[128]",
    "referenced_type" : "_ZTIN8log_dataUt_E",
-   "self_type" : "_ZTIA128_N8log_dataUt_E",
    "size" : 2048,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -69,7 +62,6 @@
    "linker_set_key" : "_ZTIA128_e",
    "name" : "long double[128]",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIA128_e",
    "size" : 2048,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_exp2l.c"
   },
@@ -78,7 +70,6 @@
    "linker_set_key" : "_ZTIA128_f",
    "name" : "float[128]",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIA128_f",
    "size" : 512,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_exp2l.c"
   },
@@ -87,7 +78,6 @@
    "linker_set_key" : "_ZTIA129_3$_0",
    "name" : "(unnamed)[129]",
    "referenced_type" : "_ZTI3$_0#ODR:out/soong/.intermediates/bionic/libm/libm/android_arm64_armv8-a-branchprot_static_apex10000/582736703e6423fcea154bd3703d3915/obj/bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.sdump",
-   "self_type" : "_ZTIA129_3$_0",
    "size" : 4128,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.c"
   },
@@ -96,7 +86,6 @@
    "linker_set_key" : "_ZTIA129_3$_1",
    "name" : "(unnamed)[129]",
    "referenced_type" : "_ZTI3$_1",
-   "self_type" : "_ZTIA129_3$_1",
    "size" : 1032,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.c"
   },
@@ -105,7 +94,6 @@
    "linker_set_key" : "_ZTIA129_d",
    "name" : "double[129]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA129_d",
    "size" : 1032,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/bsdsrc/b_log.c"
   },
@@ -114,7 +102,6 @@
    "linker_set_key" : "_ZTIA12_i",
    "name" : "int[12]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA12_i",
    "size" : 48,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -123,7 +110,6 @@
    "linker_set_key" : "_ZTIA14_d",
    "name" : "double[14]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA14_d",
    "size" : 112,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -132,7 +118,6 @@
    "linker_set_key" : "_ZTIA14_i",
    "name" : "int[14]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA14_i",
    "size" : 56,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -141,7 +126,6 @@
    "linker_set_key" : "_ZTIA16_N10log2f_dataUt_E",
    "name" : "log2f_data::(unnamed)[16]",
    "referenced_type" : "_ZTIN10log2f_dataUt_E",
-   "self_type" : "_ZTIA16_N10log2f_dataUt_E",
    "size" : 256,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -150,7 +134,6 @@
    "linker_set_key" : "_ZTIA16_N14powf_log2_dataUt_E",
    "name" : "powf_log2_data::(unnamed)[16]",
    "referenced_type" : "_ZTIN14powf_log2_dataUt_E",
-   "self_type" : "_ZTIA16_N14powf_log2_dataUt_E",
    "size" : 256,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -159,7 +142,6 @@
    "linker_set_key" : "_ZTIA16_N9logf_dataUt_E",
    "name" : "logf_data::(unnamed)[16]",
    "referenced_type" : "_ZTIN9logf_dataUt_E",
-   "self_type" : "_ZTIA16_N9logf_dataUt_E",
    "size" : 256,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -168,7 +150,6 @@
    "linker_set_key" : "_ZTIA16_c",
    "name" : "char[16]",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA16_c",
    "size" : 16,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -177,7 +158,6 @@
    "linker_set_key" : "_ZTIA16_d",
    "name" : "double[16]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA16_d",
    "size" : 128,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/k_tan.c"
   },
@@ -186,7 +166,6 @@
    "linker_set_key" : "_ZTIA16_m",
    "name" : "unsigned long[16]",
    "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIA16_m",
    "size" : 128,
    "source_file" : "bionic/libc/kernel/uapi/linux/posix_types.h"
   },
@@ -195,7 +174,6 @@
    "linker_set_key" : "_ZTIA17_d",
    "name" : "double[17]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA17_d",
    "size" : 136,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -204,7 +182,6 @@
    "linker_set_key" : "_ZTIA18_d",
    "name" : "double[18]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA18_d",
    "size" : 144,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -213,7 +190,6 @@
    "linker_set_key" : "_ZTIA24_e",
    "name" : "long double[24]",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIA24_e",
    "size" : 384,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/invtrig.c"
   },
@@ -222,7 +198,6 @@
    "linker_set_key" : "_ZTIA24_j",
    "name" : "unsigned int[24]",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIA24_j",
    "size" : 96,
    "source_file" : "external/arm-optimized-routines/math/sincosf_data.c"
   },
@@ -231,7 +206,6 @@
    "linker_set_key" : "_ZTIA256_m",
    "name" : "unsigned long[256]",
    "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIA256_m",
    "size" : 2048,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -240,7 +214,6 @@
    "linker_set_key" : "_ZTIA2_8sincos_t",
    "name" : "sincos_t[2]",
    "referenced_type" : "_ZTI8sincos_t",
-   "self_type" : "_ZTIA2_8sincos_t",
    "size" : 224,
    "source_file" : "external/arm-optimized-routines/math/sincosf.h"
   },
@@ -249,7 +222,6 @@
    "linker_set_key" : "_ZTIA2_d",
    "name" : "double[2]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA2_d",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -258,7 +230,6 @@
    "linker_set_key" : "_ZTIA2_e",
    "name" : "long double[2]",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIA2_e",
    "size" : 32,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -267,7 +238,6 @@
    "linker_set_key" : "_ZTIA2_f",
    "name" : "float[2]",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIA2_f",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -276,7 +246,6 @@
    "linker_set_key" : "_ZTIA2_i",
    "name" : "int[2]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA2_i",
    "size" : 8,
    "source_file" : "bionic/libc/kernel/uapi/asm-generic/posix_types.h"
   },
@@ -285,7 +254,6 @@
    "linker_set_key" : "_ZTIA32_m",
    "name" : "unsigned long[32]",
    "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIA32_m",
    "size" : 256,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -294,7 +262,6 @@
    "linker_set_key" : "_ZTIA3_d",
    "name" : "double[3]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA3_d",
    "size" : 24,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -303,7 +270,6 @@
    "linker_set_key" : "_ZTIA4_d",
    "name" : "double[4]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA4_d",
    "size" : 32,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/s_atan.c"
   },
@@ -312,7 +278,6 @@
    "linker_set_key" : "_ZTIA4_e",
    "name" : "long double[4]",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIA4_e",
    "size" : 64,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/invtrig.c"
   },
@@ -321,7 +286,6 @@
    "linker_set_key" : "_ZTIA4_f",
    "name" : "float[4]",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIA4_f",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/s_atanf.c"
   },
@@ -330,7 +294,6 @@
    "linker_set_key" : "_ZTIA4_i",
    "name" : "int[4]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA4_i",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -339,7 +302,6 @@
    "linker_set_key" : "_ZTIA4_l",
    "name" : "long[4]",
    "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIA4_l",
    "size" : 32,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -348,7 +310,6 @@
    "linker_set_key" : "_ZTIA5_d",
    "name" : "double[5]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA5_d",
    "size" : 40,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_j0.c"
   },
@@ -357,7 +318,6 @@
    "linker_set_key" : "_ZTIA5_e",
    "name" : "long double[5]",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIA5_e",
    "size" : 80,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/e_powl.c"
   },
@@ -366,7 +326,6 @@
    "linker_set_key" : "_ZTIA5_f",
    "name" : "float[5]",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIA5_f",
    "size" : 20,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_j0f.c"
   },
@@ -375,7 +334,6 @@
    "linker_set_key" : "_ZTIA64_N9log2_dataUt_E",
    "name" : "log2_data::(unnamed)[64]",
    "referenced_type" : "_ZTIN9log2_dataUt_E",
-   "self_type" : "_ZTIA64_N9log2_dataUt_E",
    "size" : 1024,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -384,7 +342,6 @@
    "linker_set_key" : "_ZTIA690_i",
    "name" : "int[690]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA690_i",
    "size" : 2760,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -393,7 +350,6 @@
    "linker_set_key" : "_ZTIA6_d",
    "name" : "double[6]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA6_d",
    "size" : 48,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_j0.c"
   },
@@ -402,7 +358,6 @@
    "linker_set_key" : "_ZTIA6_f",
    "name" : "float[6]",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIA6_f",
    "size" : 24,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_j0f.c"
   },
@@ -411,7 +366,6 @@
    "linker_set_key" : "_ZTIA7_d",
    "name" : "double[7]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA7_d",
    "size" : 56,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -420,7 +374,6 @@
    "linker_set_key" : "_ZTIA7_f",
    "name" : "float[7]",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIA7_f",
    "size" : 28,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -429,7 +382,6 @@
    "linker_set_key" : "_ZTIA8_d",
    "name" : "double[8]",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIA8_d",
    "size" : 64,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -438,7 +390,6 @@
    "linker_set_key" : "_ZTIA_e",
    "name" : "long double[]",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIA_e",
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/invtrig.h"
   },
   {
@@ -446,7 +397,6 @@
    "linker_set_key" : "_ZTIA_j",
    "name" : "unsigned int[]",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIA_j",
    "source_file" : "external/arm-optimized-routines/math/sincosf.h"
   }
  ],
@@ -458,32 +408,24 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTId",
    "name" : "double",
-   "referenced_type" : "_ZTId",
-   "self_type" : "_ZTId",
    "size" : 8
   },
   {
    "alignment" : 16,
    "linker_set_key" : "_ZTIe",
    "name" : "long double",
-   "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIe",
    "size" : 16
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIf",
    "name" : "float",
-   "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIf",
    "size" : 4
   },
   {
@@ -491,8 +433,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -501,8 +441,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -510,8 +448,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIl",
    "name" : "long",
-   "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIl",
    "size" : 8
   },
   {
@@ -520,23 +456,17 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIm",
    "name" : "unsigned long",
-   "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIm",
    "size" : 8
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 8,
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   }
  ],
@@ -5077,7 +5007,6 @@
    "linker_set_key" : "_ZTIP6fenv_t",
    "name" : "fenv_t *",
    "referenced_type" : "_ZTI6fenv_t",
-   "self_type" : "_ZTIP6fenv_t",
    "size" : 8,
    "source_file" : "bionic/libc/include/fenv.h"
   },
@@ -5086,7 +5015,6 @@
    "linker_set_key" : "_ZTIPK6fenv_t",
    "name" : "const fenv_t *",
    "referenced_type" : "_ZTIK6fenv_t",
-   "self_type" : "_ZTIPK6fenv_t",
    "size" : 8,
    "source_file" : "bionic/libc/include/fenv.h"
   },
@@ -5095,7 +5023,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 8,
    "source_file" : "bionic/libc/include/math.h"
   },
@@ -5104,7 +5031,6 @@
    "linker_set_key" : "_ZTIPKj",
    "name" : "const unsigned int *",
    "referenced_type" : "_ZTIKj",
-   "self_type" : "_ZTIPKj",
    "size" : 8,
    "source_file" : "bionic/libc/include/fenv.h"
   },
@@ -5113,7 +5039,6 @@
    "linker_set_key" : "_ZTIPd",
    "name" : "double *",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIPd",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -5122,7 +5047,6 @@
    "linker_set_key" : "_ZTIPe",
    "name" : "long double *",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIPe",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-netbsd/lib/libm/complex/cephes_subrl.h"
   },
@@ -5131,7 +5055,6 @@
    "linker_set_key" : "_ZTIPf",
    "name" : "float *",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIPf",
    "size" : 8,
    "source_file" : "bionic/libc/include/math.h"
   },
@@ -5140,7 +5063,6 @@
    "linker_set_key" : "_ZTIPi",
    "name" : "int *",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIPi",
    "size" : 8,
    "source_file" : "bionic/libc/include/math.h"
   },
@@ -5149,7 +5071,6 @@
    "linker_set_key" : "_ZTIPj",
    "name" : "unsigned int *",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIPj",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -5158,7 +5079,6 @@
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIPv",
    "size" : 8,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   }
@@ -5171,7 +5091,6 @@
    "linker_set_key" : "_ZTIA10_Kc",
    "name" : "const char[10]",
    "referenced_type" : "_ZTIA10_c",
-   "self_type" : "_ZTIA10_Kc",
    "size" : 10,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/w_cabsf.c"
   },
@@ -5181,7 +5100,6 @@
    "linker_set_key" : "_ZTIA11_Kd",
    "name" : "const double[11]",
    "referenced_type" : "_ZTIA11_d",
-   "self_type" : "_ZTIA11_Kd",
    "size" : 88,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/s_atan.c"
   },
@@ -5191,7 +5109,6 @@
    "linker_set_key" : "_ZTIA128_K3$_0",
    "name" : "const (unnamed)[128]",
    "referenced_type" : "_ZTIA128_3$_0",
-   "self_type" : "_ZTIA128_K3$_0",
    "size" : 4096,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/k_expl.h"
   },
@@ -5201,7 +5118,6 @@
    "linker_set_key" : "_ZTIA128_Ke",
    "name" : "const long double[128]",
    "referenced_type" : "_ZTIA128_e",
-   "self_type" : "_ZTIA128_Ke",
    "size" : 2048,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_exp2l.c"
   },
@@ -5211,7 +5127,6 @@
    "linker_set_key" : "_ZTIA128_Kf",
    "name" : "const float[128]",
    "referenced_type" : "_ZTIA128_f",
-   "self_type" : "_ZTIA128_Kf",
    "size" : 512,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_exp2l.c"
   },
@@ -5221,7 +5136,6 @@
    "linker_set_key" : "_ZTIA129_K3$_0",
    "name" : "const (unnamed)[129]",
    "referenced_type" : "_ZTIA129_3$_0",
-   "self_type" : "_ZTIA129_K3$_0",
    "size" : 4128,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.c"
   },
@@ -5231,7 +5145,6 @@
    "linker_set_key" : "_ZTIA129_K3$_1",
    "name" : "const (unnamed)[129]",
    "referenced_type" : "_ZTIA129_3$_1",
-   "self_type" : "_ZTIA129_K3$_1",
    "size" : 1032,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.c"
   },
@@ -5241,7 +5154,6 @@
    "linker_set_key" : "_ZTIA16_Kd",
    "name" : "const double[16]",
    "referenced_type" : "_ZTIA16_d",
-   "self_type" : "_ZTIA16_Kd",
    "size" : 128,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/k_tan.c"
   },
@@ -5251,7 +5163,6 @@
    "linker_set_key" : "_ZTIA24_Ke",
    "name" : "const long double[24]",
    "referenced_type" : "_ZTIA24_e",
-   "self_type" : "_ZTIA24_Ke",
    "size" : 384,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/invtrig.c"
   },
@@ -5261,7 +5172,6 @@
    "linker_set_key" : "_ZTIA24_Kj",
    "name" : "const unsigned int[24]",
    "referenced_type" : "_ZTIA24_j",
-   "self_type" : "_ZTIA24_Kj",
    "size" : 96,
    "source_file" : "external/arm-optimized-routines/math/sincosf_data.c"
   },
@@ -5271,7 +5181,6 @@
    "linker_set_key" : "_ZTIA2_K8sincos_t",
    "name" : "const sincos_t[2]",
    "referenced_type" : "_ZTIA2_8sincos_t",
-   "self_type" : "_ZTIA2_K8sincos_t",
    "size" : 224,
    "source_file" : "external/arm-optimized-routines/math/sincosf.h"
   },
@@ -5281,7 +5190,6 @@
    "linker_set_key" : "_ZTIA2_Kd",
    "name" : "const double[2]",
    "referenced_type" : "_ZTIA2_d",
-   "self_type" : "_ZTIA2_Kd",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_fmod.c"
   },
@@ -5291,7 +5199,6 @@
    "linker_set_key" : "_ZTIA2_Ke",
    "name" : "const long double[2]",
    "referenced_type" : "_ZTIA2_e",
-   "self_type" : "_ZTIA2_Ke",
    "size" : 32,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_fmodl.c"
   },
@@ -5301,7 +5208,6 @@
    "linker_set_key" : "_ZTIA2_Kf",
    "name" : "const float[2]",
    "referenced_type" : "_ZTIA2_f",
-   "self_type" : "_ZTIA2_Kf",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_fmodf.c"
   },
@@ -5311,7 +5217,6 @@
    "linker_set_key" : "_ZTIA4_Kd",
    "name" : "const double[4]",
    "referenced_type" : "_ZTIA4_d",
-   "self_type" : "_ZTIA4_Kd",
    "size" : 32,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/s_atan.c"
   },
@@ -5321,7 +5226,6 @@
    "linker_set_key" : "_ZTIA4_Ke",
    "name" : "const long double[4]",
    "referenced_type" : "_ZTIA4_e",
-   "self_type" : "_ZTIA4_Ke",
    "size" : 64,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/invtrig.c"
   },
@@ -5331,7 +5235,6 @@
    "linker_set_key" : "_ZTIA4_Kf",
    "name" : "const float[4]",
    "referenced_type" : "_ZTIA4_f",
-   "self_type" : "_ZTIA4_Kf",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/s_atanf.c"
   },
@@ -5341,7 +5244,6 @@
    "linker_set_key" : "_ZTIA4_Ki",
    "name" : "const int[4]",
    "referenced_type" : "_ZTIA4_i",
-   "self_type" : "_ZTIA4_Ki",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -5351,7 +5253,6 @@
    "linker_set_key" : "_ZTIA5_Kd",
    "name" : "const double[5]",
    "referenced_type" : "_ZTIA5_d",
-   "self_type" : "_ZTIA5_Kd",
    "size" : 40,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_j0.c"
   },
@@ -5361,7 +5262,6 @@
    "linker_set_key" : "_ZTIA5_Ke",
    "name" : "const long double[5]",
    "referenced_type" : "_ZTIA5_e",
-   "self_type" : "_ZTIA5_Ke",
    "size" : 80,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/e_powl.c"
   },
@@ -5371,7 +5271,6 @@
    "linker_set_key" : "_ZTIA5_Kf",
    "name" : "const float[5]",
    "referenced_type" : "_ZTIA5_f",
-   "self_type" : "_ZTIA5_Kf",
    "size" : 20,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_j0f.c"
   },
@@ -5381,7 +5280,6 @@
    "linker_set_key" : "_ZTIA690_Ki",
    "name" : "const int[690]",
    "referenced_type" : "_ZTIA690_i",
-   "self_type" : "_ZTIA690_Ki",
    "size" : 2760,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -5391,7 +5289,6 @@
    "linker_set_key" : "_ZTIA6_Kd",
    "name" : "const double[6]",
    "referenced_type" : "_ZTIA6_d",
-   "self_type" : "_ZTIA6_Kd",
    "size" : 48,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_j0.c"
   },
@@ -5401,7 +5298,6 @@
    "linker_set_key" : "_ZTIA6_Kf",
    "name" : "const float[6]",
    "referenced_type" : "_ZTIA6_f",
-   "self_type" : "_ZTIA6_Kf",
    "size" : 24,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_j0f.c"
   },
@@ -5411,7 +5307,6 @@
    "linker_set_key" : "_ZTIA8_Kd",
    "name" : "const double[8]",
    "referenced_type" : "_ZTIA8_d",
-   "self_type" : "_ZTIA8_Kd",
    "size" : 64,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/k_rem_pio2.c"
   },
@@ -5420,7 +5315,6 @@
    "linker_set_key" : "_ZTIA_Ke",
    "name" : "const long double[]",
    "referenced_type" : "_ZTIA_e",
-   "self_type" : "_ZTIA_Ke",
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/invtrig.h"
   },
   {
@@ -5428,7 +5322,6 @@
    "linker_set_key" : "_ZTIA_Kj",
    "name" : "const unsigned int[]",
    "referenced_type" : "_ZTIA_j",
-   "self_type" : "_ZTIA_Kj",
    "source_file" : "external/arm-optimized-routines/math/sincosf.h"
   },
   {
@@ -5437,7 +5330,6 @@
    "linker_set_key" : "_ZTIK10exp2f_data",
    "name" : "const exp2f_data",
    "referenced_type" : "_ZTI10exp2f_data",
-   "self_type" : "_ZTIK10exp2f_data",
    "size" : 328,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5447,7 +5339,6 @@
    "linker_set_key" : "_ZTIK10log2f_data",
    "name" : "const log2f_data",
    "referenced_type" : "_ZTI10log2f_data",
-   "self_type" : "_ZTIK10log2f_data",
    "size" : 288,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5457,7 +5348,6 @@
    "linker_set_key" : "_ZTIK12pow_log_data",
    "name" : "const pow_log_data",
    "referenced_type" : "_ZTI12pow_log_data",
-   "self_type" : "_ZTIK12pow_log_data",
    "size" : 4168,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5467,7 +5357,6 @@
    "linker_set_key" : "_ZTIK14powf_log2_data",
    "name" : "const powf_log2_data",
    "referenced_type" : "_ZTI14powf_log2_data",
-   "self_type" : "_ZTIK14powf_log2_data",
    "size" : 296,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5477,7 +5366,6 @@
    "linker_set_key" : "_ZTIK6fenv_t",
    "name" : "const fenv_t",
    "referenced_type" : "_ZTI6fenv_t",
-   "self_type" : "_ZTIK6fenv_t",
    "size" : 8,
    "source_file" : "bionic/libc/include/fenv.h"
   },
@@ -5487,7 +5375,6 @@
    "linker_set_key" : "_ZTIK8erf_data",
    "name" : "const erf_data",
    "referenced_type" : "_ZTI8erf_data",
-   "self_type" : "_ZTIK8erf_data",
    "size" : 784,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5497,7 +5384,6 @@
    "linker_set_key" : "_ZTIK8exp_data",
    "name" : "const exp_data",
    "referenced_type" : "_ZTI8exp_data",
-   "self_type" : "_ZTIK8exp_data",
    "size" : 2160,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5507,7 +5393,6 @@
    "linker_set_key" : "_ZTIK8log_data",
    "name" : "const log_data",
    "referenced_type" : "_ZTI8log_data",
-   "self_type" : "_ZTIK8log_data",
    "size" : 2192,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5517,7 +5402,6 @@
    "linker_set_key" : "_ZTIK9erff_data",
    "name" : "const erff_data",
    "referenced_type" : "_ZTI9erff_data",
-   "self_type" : "_ZTIK9erff_data",
    "size" : 52,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5527,7 +5411,6 @@
    "linker_set_key" : "_ZTIK9log2_data",
    "name" : "const log2_data",
    "referenced_type" : "_ZTI9log2_data",
-   "self_type" : "_ZTIK9log2_data",
    "size" : 1168,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5537,7 +5420,6 @@
    "linker_set_key" : "_ZTIK9logf_data",
    "name" : "const logf_data",
    "referenced_type" : "_ZTI9logf_data",
-   "self_type" : "_ZTIK9logf_data",
    "size" : 288,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5547,7 +5429,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "bionic/libc/include/math.h"
   },
@@ -5557,7 +5438,6 @@
    "linker_set_key" : "_ZTIKd",
    "name" : "const double",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIKd",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/bsdsrc/b_log.c"
   },
@@ -5567,7 +5447,6 @@
    "linker_set_key" : "_ZTIKe",
    "name" : "const long double",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIKe",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-netbsd/lib/libm/complex/cephes_subrl.c"
   },
@@ -5577,7 +5456,6 @@
    "linker_set_key" : "_ZTIKf",
    "name" : "const float",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIKf",
    "size" : 4,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/catrigf.c"
   },
@@ -5587,7 +5465,6 @@
    "linker_set_key" : "_ZTIKj",
    "name" : "const unsigned int",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIKj",
    "size" : 4,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/k_exp.c"
   },
@@ -5598,7 +5475,6 @@
    "linker_set_key" : "_ZTIVKd",
    "name" : "const volatile double",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIVKd",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/bsdsrc/b_tgamma.c"
   },
@@ -5609,7 +5485,6 @@
    "linker_set_key" : "_ZTIVKe",
    "name" : "const volatile long double",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIVKe",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_coshl.c"
   },
@@ -5620,7 +5495,6 @@
    "linker_set_key" : "_ZTIVKf",
    "name" : "const volatile float",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIVKf",
    "size" : 4,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/catrig.c"
   },
@@ -5630,7 +5504,6 @@
    "linker_set_key" : "_ZTIVd",
    "name" : "volatile double",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIVd",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_acos.c"
   },
@@ -5640,7 +5513,6 @@
    "linker_set_key" : "_ZTIVe",
    "name" : "volatile long double",
    "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIVe",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_atan2l.c"
   },
@@ -5650,7 +5522,6 @@
    "linker_set_key" : "_ZTIVf",
    "name" : "volatile float",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIVf",
    "size" : 4,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/e_acosf.c"
   }
@@ -5673,8 +5544,6 @@
    "linker_set_key" : "_ZTI10IEEEd2bits",
    "name" : "IEEEd2bits",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI10IEEEd2bits",
-   "self_type" : "_ZTI10IEEEd2bits",
    "size" : 8,
    "source_file" : "bionic/libm/fpmath.h"
   },
@@ -5694,8 +5563,6 @@
    "linker_set_key" : "_ZTI10IEEEf2bits",
    "name" : "IEEEf2bits",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI10IEEEf2bits",
-   "self_type" : "_ZTI10IEEEf2bits",
    "size" : 4,
    "source_file" : "bionic/libm/fpmath.h"
   },
@@ -5719,8 +5586,6 @@
    "linker_set_key" : "_ZTI10IEEEl2bits",
    "name" : "IEEEl2bits",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI10IEEEl2bits",
-   "self_type" : "_ZTI10IEEEl2bits",
    "size" : 16,
    "source_file" : "bionic/libm/fpmath.h"
   },
@@ -5744,7 +5609,6 @@
    "linker_set_key" : "_ZTI10IEEEl2bits",
    "name" : "IEEEl2bits",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI10IEEEl2bits#ODR:out/soong/.intermediates/bionic/libm/libm/android_arm64_armv8-a-branchprot_static_apex10000/582736703e6423fcea154bd3703d3915/obj/bionic/libm/builtins.sdump",
    "self_type" : "_ZTI10IEEEl2bits#ODR:out/soong/.intermediates/bionic/libm/libm/android_arm64_armv8-a-branchprot_static_apex10000/582736703e6423fcea154bd3703d3915/obj/bionic/libm/builtins.sdump",
    "size" : 16,
    "source_file" : "bionic/libm/fpmath.h"
@@ -5785,8 +5649,6 @@
    ],
    "linker_set_key" : "_ZTI10exp2f_data",
    "name" : "exp2f_data",
-   "referenced_type" : "_ZTI10exp2f_data",
-   "self_type" : "_ZTI10exp2f_data",
    "size" : 328,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5806,8 +5668,6 @@
    ],
    "linker_set_key" : "_ZTI10log2f_data",
    "name" : "log2f_data",
-   "referenced_type" : "_ZTI10log2f_data",
-   "self_type" : "_ZTI10log2f_data",
    "size" : 288,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5827,8 +5687,6 @@
    ],
    "linker_set_key" : "_ZTI11max_align_t",
    "name" : "max_align_t",
-   "referenced_type" : "_ZTI11max_align_t",
-   "self_type" : "_ZTI11max_align_t",
    "size" : 32,
    "source_file" : "prebuilts/clang-tools/linux-x86/clang-headers/__stddef_max_align_t.h"
   },
@@ -5858,8 +5716,6 @@
    ],
    "linker_set_key" : "_ZTI12pow_log_data",
    "name" : "pow_log_data",
-   "referenced_type" : "_ZTI12pow_log_data",
-   "self_type" : "_ZTI12pow_log_data",
    "size" : 4168,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5879,8 +5735,6 @@
    "linker_set_key" : "_ZTI13float_complex",
    "name" : "float_complex",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI13float_complex",
-   "self_type" : "_ZTI13float_complex",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -5900,8 +5754,6 @@
    "linker_set_key" : "_ZTI14double_complex",
    "name" : "double_complex",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI14double_complex",
-   "self_type" : "_ZTI14double_complex",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -5921,8 +5773,6 @@
    ],
    "linker_set_key" : "_ZTI14powf_log2_data",
    "name" : "powf_log2_data",
-   "referenced_type" : "_ZTI14powf_log2_data",
-   "self_type" : "_ZTI14powf_log2_data",
    "size" : 296,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -5967,8 +5817,6 @@
    ],
    "linker_set_key" : "_ZTI14pthread_attr_t",
    "name" : "pthread_attr_t",
-   "referenced_type" : "_ZTI14pthread_attr_t",
-   "self_type" : "_ZTI14pthread_attr_t",
    "size" : 56,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -5983,8 +5831,6 @@
    ],
    "linker_set_key" : "_ZTI14pthread_cond_t",
    "name" : "pthread_cond_t",
-   "referenced_type" : "_ZTI14pthread_cond_t",
-   "self_type" : "_ZTI14pthread_cond_t",
    "size" : 48,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -5999,8 +5845,6 @@
    ],
    "linker_set_key" : "_ZTI15__kernel_fd_set",
    "name" : "__kernel_fd_set",
-   "referenced_type" : "_ZTI15__kernel_fd_set",
-   "self_type" : "_ZTI15__kernel_fd_set",
    "size" : 128,
    "source_file" : "bionic/libc/kernel/uapi/linux/posix_types.h"
   },
@@ -6015,8 +5859,6 @@
    ],
    "linker_set_key" : "_ZTI15__kernel_fsid_t",
    "name" : "__kernel_fsid_t",
-   "referenced_type" : "_ZTI15__kernel_fsid_t",
-   "self_type" : "_ZTI15__kernel_fsid_t",
    "size" : 8,
    "source_file" : "bionic/libc/kernel/uapi/asm-generic/posix_types.h"
   },
@@ -6031,8 +5873,6 @@
    ],
    "linker_set_key" : "_ZTI15pthread_mutex_t",
    "name" : "pthread_mutex_t",
-   "referenced_type" : "_ZTI15pthread_mutex_t",
-   "self_type" : "_ZTI15pthread_mutex_t",
    "size" : 40,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -6047,8 +5887,6 @@
    ],
    "linker_set_key" : "_ZTI16pthread_rwlock_t",
    "name" : "pthread_rwlock_t",
-   "referenced_type" : "_ZTI16pthread_rwlock_t",
-   "self_type" : "_ZTI16pthread_rwlock_t",
    "size" : 56,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -6063,8 +5901,6 @@
    ],
    "linker_set_key" : "_ZTI17pthread_barrier_t",
    "name" : "pthread_barrier_t",
-   "referenced_type" : "_ZTI17pthread_barrier_t",
-   "self_type" : "_ZTI17pthread_barrier_t",
    "size" : 32,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -6079,8 +5915,6 @@
    ],
    "linker_set_key" : "_ZTI18pthread_spinlock_t",
    "name" : "pthread_spinlock_t",
-   "referenced_type" : "_ZTI18pthread_spinlock_t",
-   "self_type" : "_ZTI18pthread_spinlock_t",
    "size" : 8,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -6100,8 +5934,6 @@
    "linker_set_key" : "_ZTI19long_double_complex",
    "name" : "long_double_complex",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI19long_double_complex",
-   "self_type" : "_ZTI19long_double_complex",
    "size" : 32,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -6125,8 +5957,6 @@
    "linker_set_key" : "_ZTI20ieee_quad_shape_type",
    "name" : "ieee_quad_shape_type",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI20ieee_quad_shape_type",
-   "self_type" : "_ZTI20ieee_quad_shape_type",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -6146,8 +5976,6 @@
    "linker_set_key" : "_ZTI21ieee_float_shape_type",
    "name" : "ieee_float_shape_type",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI21ieee_float_shape_type",
-   "self_type" : "_ZTI21ieee_float_shape_type",
    "size" : 4,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -6171,8 +5999,6 @@
    "linker_set_key" : "_ZTI22ieee_double_shape_type",
    "name" : "ieee_double_shape_type",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI22ieee_double_shape_type",
-   "self_type" : "_ZTI22ieee_double_shape_type",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -6192,8 +6018,6 @@
    ],
    "linker_set_key" : "_ZTI2dd",
    "name" : "dd",
-   "referenced_type" : "_ZTI2dd",
-   "self_type" : "_ZTI2dd",
    "size" : 32,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/s_fmal.c"
   },
@@ -6218,8 +6042,6 @@
    ],
    "linker_set_key" : "_ZTI2ld",
    "name" : "ld",
-   "referenced_type" : "_ZTI2ld",
-   "self_type" : "_ZTI2ld",
    "size" : 48,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.c"
   },
@@ -6240,8 +6062,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTI3$_0",
    "name" : "(unnamed)",
-   "referenced_type" : "_ZTI3$_0",
-   "self_type" : "_ZTI3$_0",
    "size" : 32,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/k_expl.h"
   },
@@ -6267,7 +6087,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTI3$_0",
    "name" : "(unnamed)",
-   "referenced_type" : "_ZTI3$_0#ODR:out/soong/.intermediates/bionic/libm/libm/android_arm64_armv8-a-branchprot_static_apex10000/582736703e6423fcea154bd3703d3915/obj/bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.sdump",
    "self_type" : "_ZTI3$_0#ODR:out/soong/.intermediates/bionic/libm/libm/android_arm64_armv8-a-branchprot_static_apex10000/582736703e6423fcea154bd3703d3915/obj/bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.sdump",
    "size" : 32,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.c"
@@ -6289,8 +6108,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTI3$_1",
    "name" : "(unnamed)",
-   "referenced_type" : "_ZTI3$_1",
-   "self_type" : "_ZTI3$_1",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/ld128/s_logl.c"
   },
@@ -6310,8 +6127,6 @@
    ],
    "linker_set_key" : "_ZTI6Double",
    "name" : "Double",
-   "referenced_type" : "_ZTI6Double",
-   "self_type" : "_ZTI6Double",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/bsdsrc/b_tgamma.c"
   },
@@ -6331,8 +6146,6 @@
    ],
    "linker_set_key" : "_ZTI6fenv_t",
    "name" : "fenv_t",
-   "referenced_type" : "_ZTI6fenv_t",
-   "self_type" : "_ZTI6fenv_t",
    "size" : 8,
    "source_file" : "bionic/libc/include/bits/fenv_arm.h"
   },
@@ -6387,8 +6200,6 @@
    ],
    "linker_set_key" : "_ZTI8erf_data",
    "name" : "erf_data",
-   "referenced_type" : "_ZTI8erf_data",
-   "self_type" : "_ZTI8erf_data",
    "size" : 784,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6438,8 +6249,6 @@
    ],
    "linker_set_key" : "_ZTI8exp_data",
    "name" : "exp_data",
-   "referenced_type" : "_ZTI8exp_data",
-   "self_type" : "_ZTI8exp_data",
    "size" : 2160,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6474,8 +6283,6 @@
    ],
    "linker_set_key" : "_ZTI8log_data",
    "name" : "log_data",
-   "referenced_type" : "_ZTI8log_data",
-   "self_type" : "_ZTI8log_data",
    "size" : 2192,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6540,8 +6347,6 @@
    ],
    "linker_set_key" : "_ZTI8sincos_t",
    "name" : "sincos_t",
-   "referenced_type" : "_ZTI8sincos_t",
-   "self_type" : "_ZTI8sincos_t",
    "size" : 112,
    "source_file" : "external/arm-optimized-routines/math/sincosf.h"
   },
@@ -6561,8 +6366,6 @@
    ],
    "linker_set_key" : "_ZTI9erff_data",
    "name" : "erff_data",
-   "referenced_type" : "_ZTI9erff_data",
-   "self_type" : "_ZTI9erff_data",
    "size" : 52,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6597,8 +6400,6 @@
    ],
    "linker_set_key" : "_ZTI9log2_data",
    "name" : "log2_data",
-   "referenced_type" : "_ZTI9log2_data",
-   "self_type" : "_ZTI9log2_data",
    "size" : 1168,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6623,8 +6424,6 @@
    ],
    "linker_set_key" : "_ZTI9logf_data",
    "name" : "logf_data",
-   "referenced_type" : "_ZTI9logf_data",
-   "self_type" : "_ZTI9logf_data",
    "size" : 288,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6633,30 +6432,36 @@
    "fields" :
    [
     {
+     "bit_width" : 32,
      "field_name" : "manl",
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     },
     {
+     "bit_width" : 20,
      "field_name" : "manh",
      "field_offset" : 32,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     },
     {
+     "bit_width" : 11,
      "field_name" : "exp",
      "field_offset" : 52,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     },
     {
+     "bit_width" : 1,
      "field_name" : "sign",
      "field_offset" : 63,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     }
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN10IEEEd2bitsUt_E",
    "name" : "IEEEd2bits::(unnamed)",
-   "referenced_type" : "_ZTIN10IEEEd2bitsUt_E",
-   "self_type" : "_ZTIN10IEEEd2bitsUt_E",
    "size" : 8,
    "source_file" : "bionic/libm/fpmath.h"
   },
@@ -6665,25 +6470,29 @@
    "fields" :
    [
     {
+     "bit_width" : 23,
      "field_name" : "man",
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     },
     {
+     "bit_width" : 8,
      "field_name" : "exp",
      "field_offset" : 23,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     },
     {
+     "bit_width" : 1,
      "field_name" : "sign",
      "field_offset" : 31,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     }
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN10IEEEf2bitsUt_E",
    "name" : "IEEEf2bits::(unnamed)",
-   "referenced_type" : "_ZTIN10IEEEf2bitsUt_E",
-   "self_type" : "_ZTIN10IEEEf2bitsUt_E",
    "size" : 4,
    "source_file" : "bionic/libm/fpmath.h"
   },
@@ -6692,25 +6501,29 @@
    "fields" :
    [
     {
+     "bit_width" : 64,
      "field_name" : "manl",
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIm"
     },
     {
+     "bit_width" : 48,
      "field_name" : "manh",
      "field_offset" : 64,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIm"
     },
     {
+     "bit_width" : 16,
      "field_name" : "expsign",
      "field_offset" : 112,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     }
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN10IEEEl2bitsUt0_E",
    "name" : "IEEEl2bits::(unnamed)",
-   "referenced_type" : "_ZTIN10IEEEl2bitsUt0_E",
-   "self_type" : "_ZTIN10IEEEl2bitsUt0_E",
    "size" : 16,
    "source_file" : "bionic/libm/fpmath.h"
   },
@@ -6719,30 +6532,36 @@
    "fields" :
    [
     {
+     "bit_width" : 64,
      "field_name" : "manl",
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIm"
     },
     {
+     "bit_width" : 48,
      "field_name" : "manh",
      "field_offset" : 64,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIm"
     },
     {
+     "bit_width" : 15,
      "field_name" : "exp",
      "field_offset" : 112,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     },
     {
+     "bit_width" : 1,
      "field_name" : "sign",
      "field_offset" : 127,
+     "is_bit_field" : true,
      "referenced_type" : "_ZTIj"
     }
    ],
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN10IEEEl2bitsUt_E",
    "name" : "IEEEl2bits::(unnamed)",
-   "referenced_type" : "_ZTIN10IEEEl2bitsUt_E",
-   "self_type" : "_ZTIN10IEEEl2bitsUt_E",
    "size" : 16,
    "source_file" : "bionic/libm/fpmath.h"
   },
@@ -6763,8 +6582,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN10log2f_dataUt_E",
    "name" : "log2f_data::(unnamed)",
-   "referenced_type" : "_ZTIN10log2f_dataUt_E",
-   "self_type" : "_ZTIN10log2f_dataUt_E",
    "size" : 16,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6795,8 +6612,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN12pow_log_dataUt_E",
    "name" : "pow_log_data::(unnamed)",
-   "referenced_type" : "_ZTIN12pow_log_dataUt_E",
-   "self_type" : "_ZTIN12pow_log_dataUt_E",
    "size" : 32,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6817,8 +6632,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN14powf_log2_dataUt_E",
    "name" : "powf_log2_data::(unnamed)",
-   "referenced_type" : "_ZTIN14powf_log2_dataUt_E",
-   "self_type" : "_ZTIN14powf_log2_dataUt_E",
    "size" : 16,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6849,8 +6662,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN20ieee_quad_shape_typeUt_E",
    "name" : "ieee_quad_shape_type::(unnamed)",
-   "referenced_type" : "_ZTIN20ieee_quad_shape_typeUt_E",
-   "self_type" : "_ZTIN20ieee_quad_shape_typeUt_E",
    "size" : 16,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -6871,8 +6682,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN22ieee_double_shape_typeUt_E",
    "name" : "ieee_double_shape_type::(unnamed)",
-   "referenced_type" : "_ZTIN22ieee_double_shape_typeUt_E",
-   "self_type" : "_ZTIN22ieee_double_shape_typeUt_E",
    "size" : 8,
    "source_file" : "bionic/libm/upstream-freebsd/lib/msun/src/math_private.h"
   },
@@ -6893,8 +6702,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN8log_dataUt_E",
    "name" : "log_data::(unnamed)",
-   "referenced_type" : "_ZTIN8log_dataUt_E",
-   "self_type" : "_ZTIN8log_dataUt_E",
    "size" : 16,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6915,8 +6722,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN9log2_dataUt_E",
    "name" : "log2_data::(unnamed)",
-   "referenced_type" : "_ZTIN9log2_dataUt_E",
-   "self_type" : "_ZTIN9log2_dataUt_E",
    "size" : 16,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   },
@@ -6937,8 +6742,6 @@
    "is_anonymous" : true,
    "linker_set_key" : "_ZTIN9logf_dataUt_E",
    "name" : "logf_data::(unnamed)",
-   "referenced_type" : "_ZTIN9logf_dataUt_E",
-   "self_type" : "_ZTIN9logf_dataUt_E",
    "size" : 16,
    "source_file" : "external/arm-optimized-routines/math/math_config.h"
   }

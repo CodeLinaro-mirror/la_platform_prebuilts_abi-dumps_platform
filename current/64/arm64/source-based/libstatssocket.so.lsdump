@@ -8,16 +8,12 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDi",
    "name" : "char32_t",
-   "referenced_type" : "_ZTIDi",
-   "self_type" : "_ZTIDi",
    "size" : 4
   },
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIDn",
    "name" : "std::nullptr_t",
-   "referenced_type" : "_ZTIDn",
-   "self_type" : "_ZTIDn",
    "size" : 8
   },
   {
@@ -26,8 +22,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDs",
    "name" : "char16_t",
-   "referenced_type" : "_ZTIDs",
-   "self_type" : "_ZTIDs",
    "size" : 2
   },
   {
@@ -36,8 +30,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDu",
    "name" : "char8_t",
-   "referenced_type" : "_ZTIDu",
-   "self_type" : "_ZTIDu",
    "size" : 1
   },
   {
@@ -45,8 +37,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIa",
    "name" : "signed char",
-   "referenced_type" : "_ZTIa",
-   "self_type" : "_ZTIa",
    "size" : 1
   },
   {
@@ -55,8 +45,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -65,32 +53,24 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTId",
    "name" : "double",
-   "referenced_type" : "_ZTId",
-   "self_type" : "_ZTId",
    "size" : 8
   },
   {
    "alignment" : 16,
    "linker_set_key" : "_ZTIe",
    "name" : "long double",
-   "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIe",
    "size" : 16
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIf",
    "name" : "float",
-   "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIf",
    "size" : 4
   },
   {
@@ -99,8 +79,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -108,8 +86,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -118,8 +94,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -127,8 +101,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIl",
    "name" : "long",
-   "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIl",
    "size" : 8
   },
   {
@@ -137,8 +109,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIm",
    "name" : "unsigned long",
-   "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIm",
    "size" : 8
   },
   {
@@ -146,8 +116,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIn",
    "name" : "__int128",
-   "referenced_type" : "_ZTIn",
-   "self_type" : "_ZTIn",
    "size" : 16
   },
   {
@@ -156,8 +124,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIo",
    "name" : "unsigned __int128",
-   "referenced_type" : "_ZTIo",
-   "self_type" : "_ZTIo",
    "size" : 16
   },
   {
@@ -165,8 +131,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIs",
    "name" : "short",
-   "referenced_type" : "_ZTIs",
-   "self_type" : "_ZTIs",
    "size" : 2
   },
   {
@@ -175,15 +139,11 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIt",
    "name" : "unsigned short",
-   "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIt",
    "size" : 2
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
@@ -191,8 +151,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIw",
    "name" : "wchar_t",
-   "referenced_type" : "_ZTIw",
-   "self_type" : "_ZTIw",
    "size" : 4
   },
   {
@@ -200,8 +158,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   },
   {
@@ -210,8 +166,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIy",
    "name" : "unsigned long long",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIy",
    "size" : 8
   }
  ],
@@ -360,8 +314,6 @@
    ],
    "linker_set_key" : "_ZTI13AnnotationIds",
    "name" : "AnnotationIds",
-   "referenced_type" : "_ZTI13AnnotationIds",
-   "self_type" : "_ZTI13AnnotationIds",
    "size" : 1,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_annotations.h",
    "underlying_type" : "_ZTIh"
@@ -389,8 +341,6 @@
    ],
    "linker_set_key" : "_ZTI28AStatsLogRestrictionCategory",
    "name" : "AStatsLogRestrictionCategory",
-   "referenced_type" : "_ZTI28AStatsLogRestrictionCategory",
-   "self_type" : "_ZTI28AStatsLogRestrictionCategory",
    "size" : 4,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_annotations.h",
    "underlying_type" : "_ZTIj"
@@ -712,7 +662,6 @@
    "linker_set_key" : "_ZTIP11AStatsEvent",
    "name" : "AStatsEvent *",
    "referenced_type" : "_ZTI11AStatsEvent",
-   "self_type" : "_ZTIP11AStatsEvent",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -721,7 +670,6 @@
    "linker_set_key" : "_ZTIPKPKc",
    "name" : "const char *const *",
    "referenced_type" : "_ZTIKPKc",
-   "self_type" : "_ZTIPKPKc",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -730,7 +678,6 @@
    "linker_set_key" : "_ZTIPKb",
    "name" : "const bool *",
    "referenced_type" : "_ZTIKb",
-   "self_type" : "_ZTIPKb",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -739,7 +686,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -748,7 +694,6 @@
    "linker_set_key" : "_ZTIPKf",
    "name" : "const float *",
    "referenced_type" : "_ZTIKf",
-   "self_type" : "_ZTIPKf",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -757,7 +702,6 @@
    "linker_set_key" : "_ZTIPKh",
    "name" : "const unsigned char *",
    "referenced_type" : "_ZTIKh",
-   "self_type" : "_ZTIPKh",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -766,7 +710,6 @@
    "linker_set_key" : "_ZTIPKi",
    "name" : "const int *",
    "referenced_type" : "_ZTIKi",
-   "self_type" : "_ZTIPKi",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -775,7 +718,6 @@
    "linker_set_key" : "_ZTIPKj",
    "name" : "const unsigned int *",
    "referenced_type" : "_ZTIKj",
-   "self_type" : "_ZTIPKj",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -784,7 +726,6 @@
    "linker_set_key" : "_ZTIPKl",
    "name" : "const long *",
    "referenced_type" : "_ZTIKl",
-   "self_type" : "_ZTIPKl",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -793,7 +734,6 @@
    "linker_set_key" : "_ZTIPh",
    "name" : "unsigned char *",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIPh",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -802,7 +742,6 @@
    "linker_set_key" : "_ZTIPm",
    "name" : "unsigned long *",
    "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIPm",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -811,7 +750,6 @@
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIPv",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_buffer_writer.h"
   }
@@ -824,7 +762,6 @@
    "linker_set_key" : "_ZTIKPKc",
    "name" : "const char *const",
    "referenced_type" : "_ZTIPKc",
-   "self_type" : "_ZTIKPKc",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -834,7 +771,6 @@
    "linker_set_key" : "_ZTIKb",
    "name" : "const bool",
    "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIKb",
    "size" : 1,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -844,7 +780,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -854,7 +789,6 @@
    "linker_set_key" : "_ZTIKf",
    "name" : "const float",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIKf",
    "size" : 4,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -864,7 +798,6 @@
    "linker_set_key" : "_ZTIKh",
    "name" : "const unsigned char",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIKh",
    "size" : 1,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -874,7 +807,6 @@
    "linker_set_key" : "_ZTIKi",
    "name" : "const int",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIKi",
    "size" : 4,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -884,7 +816,6 @@
    "linker_set_key" : "_ZTIKj",
    "name" : "const unsigned int",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIKj",
    "size" : 4,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   },
@@ -894,7 +825,6 @@
    "linker_set_key" : "_ZTIKl",
    "name" : "const long",
    "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIKl",
    "size" : 8,
    "source_file" : "packages/modules/StatsD/lib/libstatssocket/include/stats_event.h"
   }

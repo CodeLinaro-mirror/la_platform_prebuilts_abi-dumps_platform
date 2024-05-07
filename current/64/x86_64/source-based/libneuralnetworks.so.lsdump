@@ -6,8 +6,6 @@
    "alignment" : 2,
    "linker_set_key" : "_ZTIDF16_",
    "name" : "_Float16",
-   "referenced_type" : "_ZTIDF16_",
-   "self_type" : "_ZTIDF16_",
    "size" : 2
   },
   {
@@ -16,16 +14,12 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDi",
    "name" : "char32_t",
-   "referenced_type" : "_ZTIDi",
-   "self_type" : "_ZTIDi",
    "size" : 4
   },
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTIDn",
    "name" : "std::nullptr_t",
-   "referenced_type" : "_ZTIDn",
-   "self_type" : "_ZTIDn",
    "size" : 8
   },
   {
@@ -34,8 +28,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDs",
    "name" : "char16_t",
-   "referenced_type" : "_ZTIDs",
-   "self_type" : "_ZTIDs",
    "size" : 2
   },
   {
@@ -44,8 +36,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIDu",
    "name" : "char8_t",
-   "referenced_type" : "_ZTIDu",
-   "self_type" : "_ZTIDu",
    "size" : 1
   },
   {
@@ -53,8 +43,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIa",
    "name" : "signed char",
-   "referenced_type" : "_ZTIa",
-   "self_type" : "_ZTIa",
    "size" : 1
   },
   {
@@ -63,8 +51,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -72,32 +58,24 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
    "alignment" : 8,
    "linker_set_key" : "_ZTId",
    "name" : "double",
-   "referenced_type" : "_ZTId",
-   "self_type" : "_ZTId",
    "size" : 8
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIf",
    "name" : "float",
-   "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIf",
    "size" : 4
   },
   {
    "alignment" : 16,
    "linker_set_key" : "_ZTIg",
    "name" : "long double",
-   "referenced_type" : "_ZTIg",
-   "self_type" : "_ZTIg",
    "size" : 16
   },
   {
@@ -106,8 +84,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -115,8 +91,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -125,8 +99,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -134,8 +106,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIl",
    "name" : "long",
-   "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIl",
    "size" : 8
   },
   {
@@ -144,8 +114,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIm",
    "name" : "unsigned long",
-   "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIm",
    "size" : 8
   },
   {
@@ -153,8 +121,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIn",
    "name" : "__int128",
-   "referenced_type" : "_ZTIn",
-   "self_type" : "_ZTIn",
    "size" : 16
   },
   {
@@ -163,8 +129,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIo",
    "name" : "unsigned __int128",
-   "referenced_type" : "_ZTIo",
-   "self_type" : "_ZTIo",
    "size" : 16
   },
   {
@@ -172,8 +136,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIs",
    "name" : "short",
-   "referenced_type" : "_ZTIs",
-   "self_type" : "_ZTIs",
    "size" : 2
   },
   {
@@ -182,23 +144,17 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIt",
    "name" : "unsigned short",
-   "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIt",
    "size" : 2
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
    "is_integral" : true,
    "linker_set_key" : "_ZTIw",
    "name" : "wchar_t",
-   "referenced_type" : "_ZTIw",
-   "self_type" : "_ZTIw",
    "size" : 4
   },
   {
@@ -206,8 +162,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   },
   {
@@ -216,8 +170,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIy",
    "name" : "unsigned long long",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIy",
    "size" : 8
   }
  ],
@@ -228,9 +180,6 @@
   },
   {
    "name" : "ANeuralNetworksBurst_free"
-  },
-  {
-   "name" : "ANeuralNetworksCompilation_addExtensionAttribute"
   },
   {
    "name" : "ANeuralNetworksCompilation_create"
@@ -269,9 +218,6 @@
    "name" : "ANeuralNetworksCompilation_setTimeout"
   },
   {
-   "name" : "ANeuralNetworksDevice_getExtensionSupport"
-  },
-  {
    "name" : "ANeuralNetworksDevice_getFeatureLevel"
   },
   {
@@ -297,9 +243,6 @@
   },
   {
    "name" : "ANeuralNetworksEvent_wait"
-  },
-  {
-   "name" : "ANeuralNetworksExecution_addExtensionAttribute"
   },
   {
    "name" : "ANeuralNetworksExecution_burstCompute"
@@ -404,12 +347,6 @@
    "name" : "ANeuralNetworksModel_free"
   },
   {
-   "name" : "ANeuralNetworksModel_getExtensionOperandType"
-  },
-  {
-   "name" : "ANeuralNetworksModel_getExtensionOperationType"
-  },
-  {
    "name" : "ANeuralNetworksModel_getSupportedOperationsForDevices"
   },
   {
@@ -417,9 +354,6 @@
   },
   {
    "name" : "ANeuralNetworksModel_relaxComputationFloat32toFloat16"
-  },
-  {
-   "name" : "ANeuralNetworksModel_setOperandExtensionData"
   },
   {
    "name" : "ANeuralNetworksModel_setOperandSymmPerChannelQuantParams"
@@ -519,8 +453,6 @@
    ],
    "linker_set_key" : "_ZTI10ResultCode",
    "name" : "ResultCode",
-   "referenced_type" : "_ZTI10ResultCode",
-   "self_type" : "_ZTI10ResultCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -596,8 +528,6 @@
    ],
    "linker_set_key" : "_ZTI11OperandCode",
    "name" : "OperandCode",
-   "referenced_type" : "_ZTI11OperandCode",
-   "self_type" : "_ZTI11OperandCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -617,8 +547,6 @@
    ],
    "linker_set_key" : "_ZTI11PaddingCode",
    "name" : "PaddingCode",
-   "referenced_type" : "_ZTI11PaddingCode",
-   "self_type" : "_ZTI11PaddingCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -646,8 +574,6 @@
    ],
    "linker_set_key" : "_ZTI12DurationCode",
    "name" : "DurationCode",
-   "referenced_type" : "_ZTI12DurationCode",
-   "self_type" : "_ZTI12DurationCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -675,8 +601,6 @@
    ],
    "linker_set_key" : "_ZTI12PriorityCode",
    "name" : "PriorityCode",
-   "referenced_type" : "_ZTI12PriorityCode",
-   "self_type" : "_ZTI12PriorityCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -1112,8 +1036,6 @@
    ],
    "linker_set_key" : "_ZTI13OperationCode",
    "name" : "OperationCode",
-   "referenced_type" : "_ZTI13OperationCode",
-   "self_type" : "_ZTI13OperationCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -1145,8 +1067,6 @@
    ],
    "linker_set_key" : "_ZTI14DeviceTypeCode",
    "name" : "DeviceTypeCode",
-   "referenced_type" : "_ZTI14DeviceTypeCode",
-   "self_type" : "_ZTI14DeviceTypeCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -1170,8 +1090,6 @@
    ],
    "linker_set_key" : "_ZTI14PreferenceCode",
    "name" : "PreferenceCode",
-   "referenced_type" : "_ZTI14PreferenceCode",
-   "self_type" : "_ZTI14PreferenceCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -1215,8 +1133,6 @@
    ],
    "linker_set_key" : "_ZTI16FeatureLevelCode",
    "name" : "FeatureLevelCode",
-   "referenced_type" : "_ZTI16FeatureLevelCode",
-   "self_type" : "_ZTI16FeatureLevelCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -1236,8 +1152,6 @@
    ],
    "linker_set_key" : "_ZTI27$ANEURALNETWORKS_OEM_SCALAR",
    "name" : "(unnamed)",
-   "referenced_type" : "_ZTI27$ANEURALNETWORKS_OEM_SCALAR",
-   "self_type" : "_ZTI27$ANEURALNETWORKS_OEM_SCALAR",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksOEM.h",
    "underlying_type" : "_ZTIj"
@@ -1253,8 +1167,6 @@
    ],
    "linker_set_key" : "_ZTI30$ANEURALNETWORKS_OEM_OPERATION",
    "name" : "(unnamed)",
-   "referenced_type" : "_ZTI30$ANEURALNETWORKS_OEM_OPERATION",
-   "self_type" : "_ZTI30$ANEURALNETWORKS_OEM_OPERATION",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksOEM.h",
    "underlying_type" : "_ZTIj"
@@ -1270,8 +1182,6 @@
    ],
    "linker_set_key" : "_ZTI41$ANEURALNETWORKS_BYTE_SIZE_OF_CACHE_TOKEN",
    "name" : "(unnamed)",
-   "referenced_type" : "_ZTI41$ANEURALNETWORKS_BYTE_SIZE_OF_CACHE_TOKEN",
-   "self_type" : "_ZTI41$ANEURALNETWORKS_BYTE_SIZE_OF_CACHE_TOKEN",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -1287,8 +1197,6 @@
    ],
    "linker_set_key" : "_ZTI54$ANEURALNETWORKS_MAX_SIZE_OF_IMMEDIATELY_COPIED_VALUES",
    "name" : "(unnamed)",
-   "referenced_type" : "_ZTI54$ANEURALNETWORKS_MAX_SIZE_OF_IMMEDIATELY_COPIED_VALUES",
-   "self_type" : "_ZTI54$ANEURALNETWORKS_MAX_SIZE_OF_IMMEDIATELY_COPIED_VALUES",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -1316,8 +1224,6 @@
    ],
    "linker_set_key" : "_ZTI8FuseCode",
    "name" : "FuseCode",
-   "referenced_type" : "_ZTI8FuseCode",
-   "self_type" : "_ZTI8FuseCode",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h",
    "underlying_type" : "_ZTIj"
@@ -1345,8 +1251,6 @@
    ],
    "linker_set_key" : "_ZTIN7android13procpartition9PartitionE",
    "name" : "android::procpartition::Partition",
-   "referenced_type" : "_ZTIN7android13procpartition9PartitionE",
-   "self_type" : "_ZTIN7android13procpartition9PartitionE",
    "size" : 4,
    "source_file" : "frameworks/native/cmds/lshal/libprocpartition/include/procpartition/procpartition.h",
    "underlying_type" : "_ZTIi"
@@ -1381,30 +1285,6 @@
    ],
    "return_type" : "_ZTIv",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
-  },
-  {
-   "function_name" : "ANeuralNetworksCompilation_addExtensionAttribute",
-   "linker_set_key" : "ANeuralNetworksCompilation_addExtensionAttribute",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIP26ANeuralNetworksCompilation"
-    },
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIt"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    },
-    {
-     "referenced_type" : "_ZTIm"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksExtensions.h"
   },
   {
    "function_name" : "ANeuralNetworksCompilation_create",
@@ -1602,24 +1482,6 @@
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
-   "function_name" : "ANeuralNetworksDevice_getExtensionSupport",
-   "linker_set_key" : "ANeuralNetworksDevice_getExtensionSupport",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIPK21ANeuralNetworksDevice"
-    },
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIPb"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksExtensions.h"
-  },
-  {
    "function_name" : "ANeuralNetworksDevice_getFeatureLevel",
    "linker_set_key" : "ANeuralNetworksDevice_getFeatureLevel",
    "parameters" :
@@ -1744,30 +1606,6 @@
    ],
    "return_type" : "_ZTIi",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
-  },
-  {
-   "function_name" : "ANeuralNetworksExecution_addExtensionAttribute",
-   "linker_set_key" : "ANeuralNetworksExecution_addExtensionAttribute",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIP24ANeuralNetworksExecution"
-    },
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIt"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    },
-    {
-     "referenced_type" : "_ZTIm"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksExtensions.h"
   },
   {
    "function_name" : "ANeuralNetworksExecution_burstCompute",
@@ -2349,48 +2187,6 @@
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
-   "function_name" : "ANeuralNetworksModel_getExtensionOperandType",
-   "linker_set_key" : "ANeuralNetworksModel_getExtensionOperandType",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIP20ANeuralNetworksModel"
-    },
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIt"
-    },
-    {
-     "referenced_type" : "_ZTIPi"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksExtensions.h"
-  },
-  {
-   "function_name" : "ANeuralNetworksModel_getExtensionOperationType",
-   "linker_set_key" : "ANeuralNetworksModel_getExtensionOperationType",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIP20ANeuralNetworksModel"
-    },
-    {
-     "referenced_type" : "_ZTIPKc"
-    },
-    {
-     "referenced_type" : "_ZTIt"
-    },
-    {
-     "referenced_type" : "_ZTIPi"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksExtensions.h"
-  },
-  {
    "function_name" : "ANeuralNetworksModel_getSupportedOperationsForDevices",
    "linker_set_key" : "ANeuralNetworksModel_getSupportedOperationsForDevices",
    "parameters" :
@@ -2449,27 +2245,6 @@
    ],
    "return_type" : "_ZTIi",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
-  },
-  {
-   "function_name" : "ANeuralNetworksModel_setOperandExtensionData",
-   "linker_set_key" : "ANeuralNetworksModel_setOperandExtensionData",
-   "parameters" :
-   [
-    {
-     "referenced_type" : "_ZTIP20ANeuralNetworksModel"
-    },
-    {
-     "referenced_type" : "_ZTIi"
-    },
-    {
-     "referenced_type" : "_ZTIPKv"
-    },
-    {
-     "referenced_type" : "_ZTIm"
-    }
-   ],
-   "return_type" : "_ZTIi",
-   "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksExtensions.h"
   },
   {
    "function_name" : "ANeuralNetworksModel_setOperandSymmPerChannelQuantParams",
@@ -2606,7 +2381,6 @@
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 8,
    "source_file" : "frameworks/native/cmds/lshal/libprocpartition/include/procpartition/procpartition.h"
   },
@@ -2615,7 +2389,6 @@
    "linker_set_key" : "_ZTIRNSt3__113basic_ostreamIcNS_11char_traitsIcEEEE",
    "name" : "std::basic_ostream<char, std::char_traits<char>> &",
    "referenced_type" : "_ZTINSt3__113basic_ostreamIcNS_11char_traitsIcEEEE",
-   "self_type" : "_ZTIRNSt3__113basic_ostreamIcNS_11char_traitsIcEEEE",
    "size" : 8,
    "source_file" : "frameworks/native/cmds/lshal/libprocpartition/include/procpartition/procpartition.h"
   }
@@ -2627,7 +2400,6 @@
    "linker_set_key" : "_ZTIP20ANeuralNetworksBurst",
    "name" : "ANeuralNetworksBurst *",
    "referenced_type" : "_ZTI20ANeuralNetworksBurst",
-   "self_type" : "_ZTIP20ANeuralNetworksBurst",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2636,7 +2408,6 @@
    "linker_set_key" : "_ZTIP20ANeuralNetworksEvent",
    "name" : "ANeuralNetworksEvent *",
    "referenced_type" : "_ZTI20ANeuralNetworksEvent",
-   "self_type" : "_ZTIP20ANeuralNetworksEvent",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2645,7 +2416,6 @@
    "linker_set_key" : "_ZTIP20ANeuralNetworksModel",
    "name" : "ANeuralNetworksModel *",
    "referenced_type" : "_ZTI20ANeuralNetworksModel",
-   "self_type" : "_ZTIP20ANeuralNetworksModel",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2654,7 +2424,6 @@
    "linker_set_key" : "_ZTIP21ANeuralNetworksDevice",
    "name" : "ANeuralNetworksDevice *",
    "referenced_type" : "_ZTI21ANeuralNetworksDevice",
-   "self_type" : "_ZTIP21ANeuralNetworksDevice",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2663,7 +2432,6 @@
    "linker_set_key" : "_ZTIP21ANeuralNetworksMemory",
    "name" : "ANeuralNetworksMemory *",
    "referenced_type" : "_ZTI21ANeuralNetworksMemory",
-   "self_type" : "_ZTIP21ANeuralNetworksMemory",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2672,7 +2440,6 @@
    "linker_set_key" : "_ZTIP24ANeuralNetworksExecution",
    "name" : "ANeuralNetworksExecution *",
    "referenced_type" : "_ZTI24ANeuralNetworksExecution",
-   "self_type" : "_ZTIP24ANeuralNetworksExecution",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2681,7 +2448,6 @@
    "linker_set_key" : "_ZTIP25ANeuralNetworksMemoryDesc",
    "name" : "ANeuralNetworksMemoryDesc *",
    "referenced_type" : "_ZTI25ANeuralNetworksMemoryDesc",
-   "self_type" : "_ZTIP25ANeuralNetworksMemoryDesc",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2690,7 +2456,6 @@
    "linker_set_key" : "_ZTIP26ANeuralNetworksCompilation",
    "name" : "ANeuralNetworksCompilation *",
    "referenced_type" : "_ZTI26ANeuralNetworksCompilation",
-   "self_type" : "_ZTIP26ANeuralNetworksCompilation",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2699,7 +2464,6 @@
    "linker_set_key" : "_ZTIPK15AHardwareBuffer",
    "name" : "const AHardwareBuffer *",
    "referenced_type" : "_ZTIK15AHardwareBuffer",
-   "self_type" : "_ZTIPK15AHardwareBuffer",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2708,7 +2472,6 @@
    "linker_set_key" : "_ZTIPK20ANeuralNetworksEvent",
    "name" : "const ANeuralNetworksEvent *",
    "referenced_type" : "_ZTIK20ANeuralNetworksEvent",
-   "self_type" : "_ZTIPK20ANeuralNetworksEvent",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2717,7 +2480,6 @@
    "linker_set_key" : "_ZTIPK20ANeuralNetworksModel",
    "name" : "const ANeuralNetworksModel *",
    "referenced_type" : "_ZTIK20ANeuralNetworksModel",
-   "self_type" : "_ZTIPK20ANeuralNetworksModel",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2726,7 +2488,6 @@
    "linker_set_key" : "_ZTIPK21ANeuralNetworksDevice",
    "name" : "const ANeuralNetworksDevice *",
    "referenced_type" : "_ZTIK21ANeuralNetworksDevice",
-   "self_type" : "_ZTIPK21ANeuralNetworksDevice",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2735,7 +2496,6 @@
    "linker_set_key" : "_ZTIPK21ANeuralNetworksMemory",
    "name" : "const ANeuralNetworksMemory *",
    "referenced_type" : "_ZTIK21ANeuralNetworksMemory",
-   "self_type" : "_ZTIPK21ANeuralNetworksMemory",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2744,7 +2504,6 @@
    "linker_set_key" : "_ZTIPK24ANeuralNetworksExecution",
    "name" : "const ANeuralNetworksExecution *",
    "referenced_type" : "_ZTIK24ANeuralNetworksExecution",
-   "self_type" : "_ZTIPK24ANeuralNetworksExecution",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2753,7 +2512,6 @@
    "linker_set_key" : "_ZTIPK25ANeuralNetworksMemoryDesc",
    "name" : "const ANeuralNetworksMemoryDesc *",
    "referenced_type" : "_ZTIK25ANeuralNetworksMemoryDesc",
-   "self_type" : "_ZTIPK25ANeuralNetworksMemoryDesc",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2762,7 +2520,6 @@
    "linker_set_key" : "_ZTIPK26ANeuralNetworksCompilation",
    "name" : "const ANeuralNetworksCompilation *",
    "referenced_type" : "_ZTIK26ANeuralNetworksCompilation",
-   "self_type" : "_ZTIPK26ANeuralNetworksCompilation",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2771,7 +2528,6 @@
    "linker_set_key" : "_ZTIPK26ANeuralNetworksOperandType",
    "name" : "const ANeuralNetworksOperandType *",
    "referenced_type" : "_ZTIK26ANeuralNetworksOperandType",
-   "self_type" : "_ZTIPK26ANeuralNetworksOperandType",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2780,7 +2536,6 @@
    "linker_set_key" : "_ZTIPK40ANeuralNetworksSymmPerChannelQuantParams",
    "name" : "const ANeuralNetworksSymmPerChannelQuantParams *",
    "referenced_type" : "_ZTIK40ANeuralNetworksSymmPerChannelQuantParams",
-   "self_type" : "_ZTIPK40ANeuralNetworksSymmPerChannelQuantParams",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2789,7 +2544,6 @@
    "linker_set_key" : "_ZTIPKPK20ANeuralNetworksEvent",
    "name" : "const ANeuralNetworksEvent *const *",
    "referenced_type" : "_ZTIKPK20ANeuralNetworksEvent",
-   "self_type" : "_ZTIPKPK20ANeuralNetworksEvent",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2798,7 +2552,6 @@
    "linker_set_key" : "_ZTIPKPK21ANeuralNetworksDevice",
    "name" : "const ANeuralNetworksDevice *const *",
    "referenced_type" : "_ZTIKPK21ANeuralNetworksDevice",
-   "self_type" : "_ZTIPKPK21ANeuralNetworksDevice",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2807,7 +2560,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2816,7 +2568,6 @@
    "linker_set_key" : "_ZTIPKf",
    "name" : "const float *",
    "referenced_type" : "_ZTIKf",
-   "self_type" : "_ZTIPKf",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h"
   },
@@ -2825,7 +2576,6 @@
    "linker_set_key" : "_ZTIPKh",
    "name" : "const unsigned char *",
    "referenced_type" : "_ZTIKh",
-   "self_type" : "_ZTIPKh",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2834,7 +2584,6 @@
    "linker_set_key" : "_ZTIPKj",
    "name" : "const unsigned int *",
    "referenced_type" : "_ZTIKj",
-   "self_type" : "_ZTIPKj",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h"
   },
@@ -2843,7 +2592,6 @@
    "linker_set_key" : "_ZTIPKv",
    "name" : "const void *",
    "referenced_type" : "_ZTIKv",
-   "self_type" : "_ZTIPKv",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2852,7 +2600,6 @@
    "linker_set_key" : "_ZTIPP20ANeuralNetworksBurst",
    "name" : "ANeuralNetworksBurst **",
    "referenced_type" : "_ZTIP20ANeuralNetworksBurst",
-   "self_type" : "_ZTIPP20ANeuralNetworksBurst",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2861,7 +2608,6 @@
    "linker_set_key" : "_ZTIPP20ANeuralNetworksEvent",
    "name" : "ANeuralNetworksEvent **",
    "referenced_type" : "_ZTIP20ANeuralNetworksEvent",
-   "self_type" : "_ZTIPP20ANeuralNetworksEvent",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2870,7 +2616,6 @@
    "linker_set_key" : "_ZTIPP20ANeuralNetworksModel",
    "name" : "ANeuralNetworksModel **",
    "referenced_type" : "_ZTIP20ANeuralNetworksModel",
-   "self_type" : "_ZTIPP20ANeuralNetworksModel",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2879,7 +2624,6 @@
    "linker_set_key" : "_ZTIPP21ANeuralNetworksDevice",
    "name" : "ANeuralNetworksDevice **",
    "referenced_type" : "_ZTIP21ANeuralNetworksDevice",
-   "self_type" : "_ZTIPP21ANeuralNetworksDevice",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2888,7 +2632,6 @@
    "linker_set_key" : "_ZTIPP21ANeuralNetworksMemory",
    "name" : "ANeuralNetworksMemory **",
    "referenced_type" : "_ZTIP21ANeuralNetworksMemory",
-   "self_type" : "_ZTIPP21ANeuralNetworksMemory",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2897,7 +2640,6 @@
    "linker_set_key" : "_ZTIPP24ANeuralNetworksExecution",
    "name" : "ANeuralNetworksExecution **",
    "referenced_type" : "_ZTIP24ANeuralNetworksExecution",
-   "self_type" : "_ZTIPP24ANeuralNetworksExecution",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2906,7 +2648,6 @@
    "linker_set_key" : "_ZTIPP25ANeuralNetworksMemoryDesc",
    "name" : "ANeuralNetworksMemoryDesc **",
    "referenced_type" : "_ZTIP25ANeuralNetworksMemoryDesc",
-   "self_type" : "_ZTIPP25ANeuralNetworksMemoryDesc",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2915,7 +2656,6 @@
    "linker_set_key" : "_ZTIPP26ANeuralNetworksCompilation",
    "name" : "ANeuralNetworksCompilation **",
    "referenced_type" : "_ZTIP26ANeuralNetworksCompilation",
-   "self_type" : "_ZTIPP26ANeuralNetworksCompilation",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2924,7 +2664,6 @@
    "linker_set_key" : "_ZTIPPKc",
    "name" : "const char **",
    "referenced_type" : "_ZTIPKc",
-   "self_type" : "_ZTIPPKc",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2933,7 +2672,6 @@
    "linker_set_key" : "_ZTIPb",
    "name" : "bool *",
    "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIPb",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2942,7 +2680,6 @@
    "linker_set_key" : "_ZTIPi",
    "name" : "int *",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIPi",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2951,7 +2688,6 @@
    "linker_set_key" : "_ZTIPj",
    "name" : "unsigned int *",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIPj",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2960,7 +2696,6 @@
    "linker_set_key" : "_ZTIPl",
    "name" : "long *",
    "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIPl",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2969,7 +2704,6 @@
    "linker_set_key" : "_ZTIPm",
    "name" : "unsigned long *",
    "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIPm",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -2978,7 +2712,6 @@
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIPv",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   }
@@ -2990,7 +2723,6 @@
    "linker_set_key" : "_ZTIK15AHardwareBuffer",
    "name" : "const AHardwareBuffer",
    "referenced_type" : "_ZTI15AHardwareBuffer",
-   "self_type" : "_ZTIK15AHardwareBuffer",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
@@ -2998,7 +2730,6 @@
    "linker_set_key" : "_ZTIK20ANeuralNetworksEvent",
    "name" : "const ANeuralNetworksEvent",
    "referenced_type" : "_ZTI20ANeuralNetworksEvent",
-   "self_type" : "_ZTIK20ANeuralNetworksEvent",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
@@ -3006,7 +2737,6 @@
    "linker_set_key" : "_ZTIK20ANeuralNetworksModel",
    "name" : "const ANeuralNetworksModel",
    "referenced_type" : "_ZTI20ANeuralNetworksModel",
-   "self_type" : "_ZTIK20ANeuralNetworksModel",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
@@ -3014,7 +2744,6 @@
    "linker_set_key" : "_ZTIK21ANeuralNetworksDevice",
    "name" : "const ANeuralNetworksDevice",
    "referenced_type" : "_ZTI21ANeuralNetworksDevice",
-   "self_type" : "_ZTIK21ANeuralNetworksDevice",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
@@ -3022,7 +2751,6 @@
    "linker_set_key" : "_ZTIK21ANeuralNetworksMemory",
    "name" : "const ANeuralNetworksMemory",
    "referenced_type" : "_ZTI21ANeuralNetworksMemory",
-   "self_type" : "_ZTIK21ANeuralNetworksMemory",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
@@ -3030,7 +2758,6 @@
    "linker_set_key" : "_ZTIK24ANeuralNetworksExecution",
    "name" : "const ANeuralNetworksExecution",
    "referenced_type" : "_ZTI24ANeuralNetworksExecution",
-   "self_type" : "_ZTIK24ANeuralNetworksExecution",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
@@ -3038,7 +2765,6 @@
    "linker_set_key" : "_ZTIK25ANeuralNetworksMemoryDesc",
    "name" : "const ANeuralNetworksMemoryDesc",
    "referenced_type" : "_ZTI25ANeuralNetworksMemoryDesc",
-   "self_type" : "_ZTIK25ANeuralNetworksMemoryDesc",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
@@ -3046,7 +2772,6 @@
    "linker_set_key" : "_ZTIK26ANeuralNetworksCompilation",
    "name" : "const ANeuralNetworksCompilation",
    "referenced_type" : "_ZTI26ANeuralNetworksCompilation",
-   "self_type" : "_ZTIK26ANeuralNetworksCompilation",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
   {
@@ -3055,7 +2780,6 @@
    "linker_set_key" : "_ZTIK26ANeuralNetworksOperandType",
    "name" : "const ANeuralNetworksOperandType",
    "referenced_type" : "_ZTI26ANeuralNetworksOperandType",
-   "self_type" : "_ZTIK26ANeuralNetworksOperandType",
    "size" : 24,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -3065,7 +2789,6 @@
    "linker_set_key" : "_ZTIK40ANeuralNetworksSymmPerChannelQuantParams",
    "name" : "const ANeuralNetworksSymmPerChannelQuantParams",
    "referenced_type" : "_ZTI40ANeuralNetworksSymmPerChannelQuantParams",
-   "self_type" : "_ZTIK40ANeuralNetworksSymmPerChannelQuantParams",
    "size" : 16,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -3075,7 +2798,6 @@
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 24,
    "source_file" : "frameworks/native/cmds/lshal/libprocpartition/include/procpartition/procpartition.h"
   },
@@ -3085,7 +2807,6 @@
    "linker_set_key" : "_ZTIKPK20ANeuralNetworksEvent",
    "name" : "const ANeuralNetworksEvent *const",
    "referenced_type" : "_ZTIPK20ANeuralNetworksEvent",
-   "self_type" : "_ZTIKPK20ANeuralNetworksEvent",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -3095,7 +2816,6 @@
    "linker_set_key" : "_ZTIKPK21ANeuralNetworksDevice",
    "name" : "const ANeuralNetworksDevice *const",
    "referenced_type" : "_ZTIPK21ANeuralNetworksDevice",
-   "self_type" : "_ZTIKPK21ANeuralNetworksDevice",
    "size" : 8,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -3105,7 +2825,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -3115,7 +2834,6 @@
    "linker_set_key" : "_ZTIKf",
    "name" : "const float",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIKf",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h"
   },
@@ -3125,7 +2843,6 @@
    "linker_set_key" : "_ZTIKh",
    "name" : "const unsigned char",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIKh",
    "size" : 1,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   },
@@ -3135,7 +2852,6 @@
    "linker_set_key" : "_ZTIKj",
    "name" : "const unsigned int",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIKj",
    "size" : 4,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h"
   },
@@ -3144,7 +2860,6 @@
    "linker_set_key" : "_ZTIKv",
    "name" : "const void",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIKv",
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworks.h"
   }
  ],
@@ -3181,8 +2896,6 @@
    ],
    "linker_set_key" : "_ZTI26ANeuralNetworksOperandType",
    "name" : "ANeuralNetworksOperandType",
-   "referenced_type" : "_ZTI26ANeuralNetworksOperandType",
-   "self_type" : "_ZTI26ANeuralNetworksOperandType",
    "size" : 24,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h"
   },
@@ -3207,8 +2920,6 @@
    ],
    "linker_set_key" : "_ZTI40ANeuralNetworksSymmPerChannelQuantParams",
    "name" : "ANeuralNetworksSymmPerChannelQuantParams",
-   "referenced_type" : "_ZTI40ANeuralNetworksSymmPerChannelQuantParams",
-   "self_type" : "_ZTI40ANeuralNetworksSymmPerChannelQuantParams",
    "size" : 16,
    "source_file" : "packages/modules/NeuralNetworks/runtime/include/NeuralNetworksTypes.h"
   }
