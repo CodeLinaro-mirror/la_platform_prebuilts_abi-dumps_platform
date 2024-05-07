@@ -6,7 +6,6 @@
    "linker_set_key" : "_ZTIA19_c",
    "name" : "char[19]",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIA19_c",
    "size" : 19,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }
@@ -19,8 +18,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -28,16 +25,12 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTId",
    "name" : "double",
-   "referenced_type" : "_ZTId",
-   "self_type" : "_ZTId",
    "size" : 8
   },
   {
@@ -46,8 +39,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -55,8 +46,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -65,8 +54,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -75,23 +62,17 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIt",
    "name" : "unsigned short",
-   "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIt",
    "size" : 2
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   }
  ],
@@ -188,8 +169,6 @@
    ],
    "linker_set_key" : "_ZTIN7android12mediametrics11PrintFormatE",
    "name" : "android::mediametrics::PrintFormat",
-   "referenced_type" : "_ZTIN7android12mediametrics11PrintFormatE",
-   "self_type" : "_ZTIN7android12mediametrics11PrintFormatE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "underlying_type" : "_ZTIj"
@@ -213,8 +192,6 @@
    ],
    "linker_set_key" : "_ZTIN7android12mediametrics4Item22RecursiveWildcardCheckE",
    "name" : "android::mediametrics::Item::RecursiveWildcardCheck",
-   "referenced_type" : "_ZTIN7android12mediametrics4Item22RecursiveWildcardCheckE",
-   "self_type" : "_ZTIN7android12mediametrics4Item22RecursiveWildcardCheckE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "underlying_type" : "_ZTIi"
@@ -250,8 +227,6 @@
    ],
    "linker_set_key" : "_ZTIN7android12mediametrics4TypeE",
    "name" : "android::mediametrics::Type",
-   "referenced_type" : "_ZTIN7android12mediametrics4TypeE",
-   "self_type" : "_ZTIN7android12mediametrics4TypeE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "underlying_type" : "_ZTIj"
@@ -656,7 +631,6 @@
    "linker_set_key" : "_ZTIRKN7android12mediametrics4Item4PropE",
    "name" : "const android::mediametrics::Item::Prop &",
    "referenced_type" : "_ZTIKN7android12mediametrics4Item4PropE",
-   "self_type" : "_ZTIRKN7android12mediametrics4Item4PropE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -665,7 +639,6 @@
    "linker_set_key" : "_ZTIRKN7android12mediametrics4ItemE",
    "name" : "const android::mediametrics::Item &",
    "referenced_type" : "_ZTIKN7android12mediametrics4ItemE",
-   "self_type" : "_ZTIRKN7android12mediametrics4ItemE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -674,7 +647,6 @@
    "linker_set_key" : "_ZTIRKN7android6ParcelE",
    "name" : "const android::Parcel &",
    "referenced_type" : "_ZTIKN7android6ParcelE",
-   "self_type" : "_ZTIRKN7android6ParcelE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -683,16 +655,14 @@
    "linker_set_key" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>> &",
    "referenced_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "self_type" : "_ZTIRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIRKNSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEEiEEEE",
    "name" : "const std::__map_const_iterator<std::__tree_const_iterator<std::__value_type<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, android::mediametrics::Item::Prop>, std::__tree_node<std::__value_type<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, android::mediametrics::Item::Prop>, void *> *, int>> &",
    "referenced_type" : "_ZTIKNSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEEiEEEE",
-   "self_type" : "_ZTIRKNSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEEiEEEE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -701,7 +671,6 @@
    "linker_set_key" : "_ZTIRKNSt3__14pairIxxEE",
    "name" : "const std::pair<long long, long long> &",
    "referenced_type" : "_ZTIKNSt3__14pairIxxEE",
-   "self_type" : "_ZTIRKNSt3__14pairIxxEE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -710,7 +679,6 @@
    "linker_set_key" : "_ZTIRKNSt3__17variantIJNS_9monostateEixdNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIxxEEEEE",
    "name" : "const std::variant<monostate, int, long long, double, basic_string<char>, pair<long long, long long>> &",
    "referenced_type" : "_ZTIKNSt3__17variantIJNS_9monostateEixdNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIxxEEEEE",
-   "self_type" : "_ZTIRKNSt3__17variantIJNS_9monostateEixdNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIxxEEEEE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -719,7 +687,6 @@
    "linker_set_key" : "_ZTIRKNSt3__19monostateE",
    "name" : "const std::monostate &",
    "referenced_type" : "_ZTIKNSt3__19monostateE",
-   "self_type" : "_ZTIRKNSt3__19monostateE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -728,7 +695,6 @@
    "linker_set_key" : "_ZTIRKPKc",
    "name" : "const char *const &",
    "referenced_type" : "_ZTIKPKc",
-   "self_type" : "_ZTIRKPKc",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -737,7 +703,6 @@
    "linker_set_key" : "_ZTIRKd",
    "name" : "const double &",
    "referenced_type" : "_ZTIKd",
-   "self_type" : "_ZTIRKd",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -746,7 +711,6 @@
    "linker_set_key" : "_ZTIRKh",
    "name" : "const unsigned char &",
    "referenced_type" : "_ZTIKh",
-   "self_type" : "_ZTIRKh",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -755,7 +719,6 @@
    "linker_set_key" : "_ZTIRKi",
    "name" : "const int &",
    "referenced_type" : "_ZTIKi",
-   "self_type" : "_ZTIRKi",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -764,7 +727,6 @@
    "linker_set_key" : "_ZTIRKj",
    "name" : "const unsigned int &",
    "referenced_type" : "_ZTIKj",
-   "self_type" : "_ZTIRKj",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -773,7 +735,6 @@
    "linker_set_key" : "_ZTIRKt",
    "name" : "const unsigned short &",
    "referenced_type" : "_ZTIKt",
-   "self_type" : "_ZTIRKt",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -782,7 +743,6 @@
    "linker_set_key" : "_ZTIRKx",
    "name" : "const long long &",
    "referenced_type" : "_ZTIKx",
-   "self_type" : "_ZTIRKx",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -791,7 +751,6 @@
    "linker_set_key" : "_ZTIRN7android12mediametrics12BufferedItemE",
    "name" : "android::mediametrics::BufferedItem &",
    "referenced_type" : "_ZTIN7android12mediametrics12BufferedItemE",
-   "self_type" : "_ZTIRN7android12mediametrics12BufferedItemE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -800,7 +759,6 @@
    "linker_set_key" : "_ZTIRN7android12mediametrics4Item4PropE",
    "name" : "android::mediametrics::Item::Prop &",
    "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
-   "self_type" : "_ZTIRN7android12mediametrics4Item4PropE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -809,7 +767,6 @@
    "linker_set_key" : "_ZTIRN7android12mediametrics4Item8iteratorE",
    "name" : "android::mediametrics::Item::iterator &",
    "referenced_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
-   "self_type" : "_ZTIRN7android12mediametrics4Item8iteratorE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -818,7 +775,6 @@
    "linker_set_key" : "_ZTIRN7android12mediametrics4ItemE",
    "name" : "android::mediametrics::Item &",
    "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
-   "self_type" : "_ZTIRN7android12mediametrics4ItemE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }
@@ -830,7 +786,6 @@
    "linker_set_key" : "_ZTIPKN7android12mediametrics12BufferedItemE",
    "name" : "const android::mediametrics::BufferedItem *",
    "referenced_type" : "_ZTIKN7android12mediametrics12BufferedItemE",
-   "self_type" : "_ZTIPKN7android12mediametrics12BufferedItemE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -839,7 +794,6 @@
    "linker_set_key" : "_ZTIPKN7android12mediametrics4Item4PropE",
    "name" : "const android::mediametrics::Item::Prop *",
    "referenced_type" : "_ZTIKN7android12mediametrics4Item4PropE",
-   "self_type" : "_ZTIPKN7android12mediametrics4Item4PropE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -848,7 +802,6 @@
    "linker_set_key" : "_ZTIPKN7android12mediametrics4Item8iteratorE",
    "name" : "const android::mediametrics::Item::iterator *",
    "referenced_type" : "_ZTIKN7android12mediametrics4Item8iteratorE",
-   "self_type" : "_ZTIPKN7android12mediametrics4Item8iteratorE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -857,7 +810,6 @@
    "linker_set_key" : "_ZTIPKN7android12mediametrics4ItemE",
    "name" : "const android::mediametrics::Item *",
    "referenced_type" : "_ZTIKN7android12mediametrics4ItemE",
-   "self_type" : "_ZTIPKN7android12mediametrics4ItemE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -866,7 +818,6 @@
    "linker_set_key" : "_ZTIPKNSt3__17variantIJNS_9monostateEixdNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIxxEEEEE",
    "name" : "const std::variant<monostate, int, long long, double, basic_string<char>, pair<long long, long long>> *",
    "referenced_type" : "_ZTIKNSt3__17variantIJNS_9monostateEixdNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIxxEEEEE",
-   "self_type" : "_ZTIPKNSt3__17variantIJNS_9monostateEixdNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIxxEEEEE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -875,16 +826,14 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 4,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPN7android12mediametrics12BufferedItemE",
    "name" : "android::mediametrics::BufferedItem *",
    "referenced_type" : "_ZTIN7android12mediametrics12BufferedItemE",
-   "self_type" : "_ZTIPN7android12mediametrics12BufferedItemE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -893,7 +842,6 @@
    "linker_set_key" : "_ZTIPN7android12mediametrics4Item4PropE",
    "name" : "android::mediametrics::Item::Prop *",
    "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
-   "self_type" : "_ZTIPN7android12mediametrics4Item4PropE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -902,7 +850,6 @@
    "linker_set_key" : "_ZTIPN7android12mediametrics4Item8iteratorE",
    "name" : "android::mediametrics::Item::iterator *",
    "referenced_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
-   "self_type" : "_ZTIPN7android12mediametrics4Item8iteratorE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -911,7 +858,6 @@
    "linker_set_key" : "_ZTIPN7android12mediametrics4ItemE",
    "name" : "android::mediametrics::Item *",
    "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
-   "self_type" : "_ZTIPN7android12mediametrics4ItemE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -920,7 +866,6 @@
    "linker_set_key" : "_ZTIPN7android12mediametrics5DeferE",
    "name" : "android::mediametrics::Defer *",
    "referenced_type" : "_ZTIN7android12mediametrics5DeferE",
-   "self_type" : "_ZTIPN7android12mediametrics5DeferE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -929,7 +874,6 @@
    "linker_set_key" : "_ZTIPN7android6ParcelE",
    "name" : "android::Parcel *",
    "referenced_type" : "_ZTIN7android6ParcelE",
-   "self_type" : "_ZTIPN7android6ParcelE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -938,16 +882,14 @@
    "linker_set_key" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "name" : "std::basic_string<char, std::char_traits<char>, std::allocator<char>> *",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "self_type" : "_ZTIPNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 4,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPNSt3__14pairIxxEE",
    "name" : "std::pair<long long, long long> *",
    "referenced_type" : "_ZTINSt3__14pairIxxEE",
-   "self_type" : "_ZTIPNSt3__14pairIxxEE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -956,7 +898,6 @@
    "linker_set_key" : "_ZTIPNSt3__19monostateE",
    "name" : "std::monostate *",
    "referenced_type" : "_ZTINSt3__19monostateE",
-   "self_type" : "_ZTIPNSt3__19monostateE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -965,7 +906,6 @@
    "linker_set_key" : "_ZTIPPKc",
    "name" : "const char **",
    "referenced_type" : "_ZTIPKc",
-   "self_type" : "_ZTIPPKc",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -974,34 +914,30 @@
    "linker_set_key" : "_ZTIPPc",
    "name" : "char **",
    "referenced_type" : "_ZTIPc",
-   "self_type" : "_ZTIPPc",
    "size" : 4,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPc",
    "name" : "char *",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIPc",
    "size" : 4,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPd",
    "name" : "double *",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIPd",
    "size" : 4,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPh",
    "name" : "unsigned char *",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIPh",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1010,25 +946,22 @@
    "linker_set_key" : "_ZTIPi",
    "name" : "int *",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIPi",
    "size" : 4,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPj",
    "name" : "unsigned int *",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIPj",
    "size" : 4,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPt",
    "name" : "unsigned short *",
    "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIPt",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1037,9 +970,8 @@
    "linker_set_key" : "_ZTIPx",
    "name" : "long long *",
    "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIPx",
    "size" : 4,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   }
  ],
  "qualified_types" :
@@ -1050,7 +982,6 @@
    "linker_set_key" : "_ZTIKN7android12mediametrics12BufferedItemE",
    "name" : "const android::mediametrics::BufferedItem",
    "referenced_type" : "_ZTIN7android12mediametrics12BufferedItemE",
-   "self_type" : "_ZTIKN7android12mediametrics12BufferedItemE",
    "size" : 32,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1060,7 +991,6 @@
    "linker_set_key" : "_ZTIKN7android12mediametrics4Item4PropE",
    "name" : "const android::mediametrics::Item::Prop",
    "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
-   "self_type" : "_ZTIKN7android12mediametrics4Item4PropE",
    "size" : 32,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1070,7 +1000,6 @@
    "linker_set_key" : "_ZTIKN7android12mediametrics4Item8iteratorE",
    "name" : "const android::mediametrics::Item::iterator",
    "referenced_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
-   "self_type" : "_ZTIKN7android12mediametrics4Item8iteratorE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1080,7 +1009,6 @@
    "linker_set_key" : "_ZTIKN7android12mediametrics4ItemE",
    "name" : "const android::mediametrics::Item",
    "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
-   "self_type" : "_ZTIKN7android12mediametrics4ItemE",
    "size" : 60,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1090,7 +1018,6 @@
    "linker_set_key" : "_ZTIKN7android12mediametrics4TypeE",
    "name" : "const android::mediametrics::Type",
    "referenced_type" : "_ZTIN7android12mediametrics4TypeE",
-   "self_type" : "_ZTIKN7android12mediametrics4TypeE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1100,7 +1027,6 @@
    "linker_set_key" : "_ZTIKN7android6ParcelE",
    "name" : "const android::Parcel",
    "referenced_type" : "_ZTIN7android6ParcelE",
-   "self_type" : "_ZTIKN7android6ParcelE",
    "size" : 60,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1110,9 +1036,8 @@
    "linker_set_key" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "name" : "const std::basic_string<char, std::char_traits<char>, std::allocator<char>>",
    "referenced_type" : "_ZTINSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
-   "self_type" : "_ZTIKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE",
    "size" : 12,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
@@ -1120,7 +1045,6 @@
    "linker_set_key" : "_ZTIKNSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEEiEEEE",
    "name" : "const std::__map_const_iterator<std::__tree_const_iterator<std::__value_type<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, android::mediametrics::Item::Prop>, std::__tree_node<std::__value_type<std::basic_string<char, std::char_traits<char>, std::allocator<char>>, android::mediametrics::Item::Prop>, void *> *, int>>",
    "referenced_type" : "_ZTINSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEEiEEEE",
-   "self_type" : "_ZTIKNSt3__120__map_const_iteratorINS_21__tree_const_iteratorINS_12__value_typeINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN7android12mediametrics4Item4PropEEEPNS_11__tree_nodeISD_PvEEiEEEE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1130,7 +1054,6 @@
    "linker_set_key" : "_ZTIKNSt3__14pairIxxEE",
    "name" : "const std::pair<long long, long long>",
    "referenced_type" : "_ZTINSt3__14pairIxxEE",
-   "self_type" : "_ZTIKNSt3__14pairIxxEE",
    "size" : 16,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1140,7 +1063,6 @@
    "linker_set_key" : "_ZTIKNSt3__17variantIJNS_9monostateEixdNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIxxEEEEE",
    "name" : "const std::variant<monostate, int, long long, double, basic_string<char>, pair<long long, long long>>",
    "referenced_type" : "_ZTINSt3__17variantIJNS_9monostateEixdNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIxxEEEEE",
-   "self_type" : "_ZTIKNSt3__17variantIJNS_9monostateEixdNS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_4pairIxxEEEEE",
    "size" : 20,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1150,7 +1072,6 @@
    "linker_set_key" : "_ZTIKNSt3__18functionIFvvEEE",
    "name" : "const std::function<void ()>",
    "referenced_type" : "_ZTINSt3__18functionIFvvEEE",
-   "self_type" : "_ZTIKNSt3__18functionIFvvEEE",
    "size" : 24,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1160,7 +1081,6 @@
    "linker_set_key" : "_ZTIKNSt3__19monostateE",
    "name" : "const std::monostate",
    "referenced_type" : "_ZTINSt3__19monostateE",
-   "self_type" : "_ZTIKNSt3__19monostateE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1170,7 +1090,6 @@
    "linker_set_key" : "_ZTIKPKc",
    "name" : "const char *const",
    "referenced_type" : "_ZTIPKc",
-   "self_type" : "_ZTIKPKc",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1180,7 +1099,6 @@
    "linker_set_key" : "_ZTIKb",
    "name" : "const bool",
    "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIKb",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1190,9 +1108,8 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
-   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
+   "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetrics.h"
   },
   {
    "alignment" : 4,
@@ -1200,7 +1117,6 @@
    "linker_set_key" : "_ZTIKd",
    "name" : "const double",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIKd",
    "size" : 8,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1210,7 +1126,6 @@
    "linker_set_key" : "_ZTIKh",
    "name" : "const unsigned char",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIKh",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1220,7 +1135,6 @@
    "linker_set_key" : "_ZTIKi",
    "name" : "const int",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIKi",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1230,7 +1144,6 @@
    "linker_set_key" : "_ZTIKj",
    "name" : "const unsigned int",
    "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIKj",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1240,7 +1153,6 @@
    "linker_set_key" : "_ZTIKt",
    "name" : "const unsigned short",
    "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIKt",
    "size" : 2,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1250,7 +1162,6 @@
    "linker_set_key" : "_ZTIKx",
    "name" : "const long long",
    "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIKx",
    "size" : 8,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }
@@ -1313,8 +1224,6 @@
    "linker_set_key" : "_ZTIN7android12mediametrics12BufferedItemE",
    "name" : "android::mediametrics::BufferedItem",
    "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android12mediametrics12BufferedItemE",
-   "self_type" : "_ZTIN7android12mediametrics12BufferedItemE",
    "size" : 32,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "vtable_components" :
@@ -1347,8 +1256,6 @@
    ],
    "linker_set_key" : "_ZTIN7android12mediametrics13time_string_tE",
    "name" : "android::mediametrics::time_string_t",
-   "referenced_type" : "_ZTIN7android12mediametrics13time_string_tE",
-   "self_type" : "_ZTIN7android12mediametrics13time_string_tE",
    "size" : 19,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1371,8 +1278,6 @@
    "linker_set_key" : "_ZTIN7android12mediametrics4Item4PropE",
    "name" : "android::mediametrics::Item::Prop",
    "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
-   "self_type" : "_ZTIN7android12mediametrics4Item4PropE",
    "size" : 32,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1389,8 +1294,6 @@
    "linker_set_key" : "_ZTIN7android12mediametrics4Item8iteratorE",
    "name" : "android::mediametrics::Item::iterator",
    "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
-   "self_type" : "_ZTIN7android12mediametrics4Item8iteratorE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1449,8 +1352,6 @@
    "linker_set_key" : "_ZTIN7android12mediametrics4ItemE",
    "name" : "android::mediametrics::Item",
    "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
-   "self_type" : "_ZTIN7android12mediametrics4ItemE",
    "size" : 60,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1467,8 +1368,6 @@
    "linker_set_key" : "_ZTIN7android12mediametrics5DeferE",
    "name" : "android::mediametrics::Defer",
    "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android12mediametrics5DeferE",
-   "self_type" : "_ZTIN7android12mediametrics5DeferE",
    "size" : 24,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1476,8 +1375,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
    "name" : "android::mediametrics::BaseItem::get_type_of<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1489,8 +1386,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__14pairIxxEEEE",
    "name" : "android::mediametrics::BaseItem::get_type_of<std::pair<long long, long long>>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__14pairIxxEEEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__14pairIxxEEEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1502,8 +1397,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__19monostateEEE",
    "name" : "android::mediametrics::BaseItem::get_type_of<std::monostate>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__19monostateEEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofINSt3__19monostateEEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1515,8 +1408,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIdEE",
    "name" : "android::mediametrics::BaseItem::get_type_of<double>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIdEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIdEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1528,8 +1419,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIiEE",
    "name" : "android::mediametrics::BaseItem::get_type_of<int>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIiEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIiEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1541,8 +1430,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIxEE",
    "name" : "android::mediametrics::BaseItem::get_type_of<long long>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIxEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem11get_type_ofIxEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1554,8 +1441,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
    "name" : "android::mediametrics::BaseItem::is_item_type<std::basic_string<char, std::char_traits<char>, std::allocator<char>>>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEEEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1567,8 +1452,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__14pairIxxEEEE",
    "name" : "android::mediametrics::BaseItem::is_item_type<std::pair<long long, long long>>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__14pairIxxEEEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__14pairIxxEEEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1580,8 +1463,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__19monostateEEE",
    "name" : "android::mediametrics::BaseItem::is_item_type<std::monostate>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__19monostateEEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeINSt3__19monostateEEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1593,8 +1474,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIdEE",
    "name" : "android::mediametrics::BaseItem::is_item_type<double>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIdEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIdEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1606,8 +1485,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIiEE",
    "name" : "android::mediametrics::BaseItem::is_item_type<int>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIiEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIiEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1619,8 +1496,6 @@
    "alignment" : 1,
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIxEE",
    "name" : "android::mediametrics::BaseItem::is_item_type<long long>",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIxEE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItem12is_item_typeIxEE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h",
    "template_args" :
@@ -1633,8 +1508,6 @@
    "linker_set_key" : "_ZTIN7android12mediametrics8BaseItemE",
    "name" : "android::mediametrics::BaseItem",
    "record_kind" : "class",
-   "referenced_type" : "_ZTIN7android12mediametrics8BaseItemE",
-   "self_type" : "_ZTIN7android12mediametrics8BaseItemE",
    "size" : 1,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }
@@ -1646,7 +1519,6 @@
    "linker_set_key" : "_ZTION7android12mediametrics4Item4PropE",
    "name" : "android::mediametrics::Item::Prop &&",
    "referenced_type" : "_ZTIN7android12mediametrics4Item4PropE",
-   "self_type" : "_ZTION7android12mediametrics4Item4PropE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   },
@@ -1655,7 +1527,6 @@
    "linker_set_key" : "_ZTION7android12mediametrics4ItemE",
    "name" : "android::mediametrics::Item &&",
    "referenced_type" : "_ZTIN7android12mediametrics4ItemE",
-   "self_type" : "_ZTION7android12mediametrics4ItemE",
    "size" : 4,
    "source_file" : "frameworks/av/media/libmediametrics/include/media/MediaMetricsItem.h"
   }

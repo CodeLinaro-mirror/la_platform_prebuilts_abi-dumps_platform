@@ -8,8 +8,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -17,8 +15,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
@@ -27,8 +23,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -36,8 +30,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -46,15 +38,11 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   }
  ],
  "elf_functions" :
@@ -116,8 +104,6 @@
    ],
    "linker_set_key" : "_ZTI41$INCIDENT_REPORT_PRIVACY_POLICY_AUTOMATIC",
    "name" : "(unnamed)",
-   "referenced_type" : "_ZTI41$INCIDENT_REPORT_PRIVACY_POLICY_AUTOMATIC",
-   "self_type" : "_ZTI41$INCIDENT_REPORT_PRIVACY_POLICY_AUTOMATIC",
    "size" : 4,
    "source_file" : "frameworks/base/libs/incident/include/incident/incident_report.h",
    "underlying_type" : "_ZTIj"
@@ -271,7 +257,6 @@
    "linker_set_key" : "_ZTIP19AIncidentReportArgs",
    "name" : "AIncidentReportArgs *",
    "referenced_type" : "_ZTI19AIncidentReportArgs",
-   "self_type" : "_ZTIP19AIncidentReportArgs",
    "size" : 4,
    "source_file" : "frameworks/base/libs/incident/include/incident/incident_report.h"
   },
@@ -280,7 +265,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 4,
    "source_file" : "frameworks/base/libs/incident/include/incident/incident_report.h"
   },
@@ -289,7 +273,6 @@
    "linker_set_key" : "_ZTIPKh",
    "name" : "const unsigned char *",
    "referenced_type" : "_ZTIKh",
-   "self_type" : "_ZTIPKh",
    "size" : 4,
    "source_file" : "frameworks/base/libs/incident/include/incident/incident_report.h"
   }
@@ -302,7 +285,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "frameworks/base/libs/incident/include/incident/incident_report.h"
   },
@@ -312,7 +294,6 @@
    "linker_set_key" : "_ZTIKh",
    "name" : "const unsigned char",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIKh",
    "size" : 1,
    "source_file" : "frameworks/base/libs/incident/include/incident/incident_report.h"
   }

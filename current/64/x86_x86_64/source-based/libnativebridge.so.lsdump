@@ -7,8 +7,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIa",
    "name" : "signed char",
-   "referenced_type" : "_ZTIa",
-   "self_type" : "_ZTIa",
    "size" : 1
   },
   {
@@ -17,8 +15,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -26,24 +22,18 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTId",
    "name" : "double",
-   "referenced_type" : "_ZTId",
-   "self_type" : "_ZTId",
    "size" : 8
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIf",
    "name" : "float",
-   "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIf",
    "size" : 4
   },
   {
@@ -52,8 +42,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -61,8 +49,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -71,8 +57,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -80,8 +64,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIs",
    "name" : "short",
-   "referenced_type" : "_ZTIs",
-   "self_type" : "_ZTIs",
    "size" : 2
   },
   {
@@ -90,23 +72,17 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIt",
    "name" : "unsigned short",
-   "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIt",
    "size" : 2
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   },
   {
@@ -115,8 +91,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIy",
    "name" : "unsigned long long",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIy",
    "size" : 8
   }
  ],
@@ -167,8 +141,6 @@
    ],
    "linker_set_key" : "_ZTI14jobjectRefType",
    "name" : "jobjectRefType",
-   "referenced_type" : "_ZTI14jobjectRefType",
-   "self_type" : "_ZTI14jobjectRefType",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h",
    "underlying_type" : "_ZTIj"
@@ -188,8 +160,6 @@
    ],
    "linker_set_key" : "_ZTIN7android11JNICallTypeE",
    "name" : "android::JNICallType",
-   "referenced_type" : "_ZTIN7android11JNICallTypeE",
-   "self_type" : "_ZTIN7android11JNICallTypeE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h",
    "underlying_type" : "_ZTIj"
@@ -210,9 +180,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIF14jobjectRefTypeP7_JNIEnvP8_jobjectE",
    "return_type" : "_ZTI14jobjectRefType",
-   "self_type" : "_ZTIF14jobjectRefTypeP7_JNIEnvP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -228,9 +196,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP10_jintArrayP7_JNIEnviE",
    "return_type" : "_ZTIP10_jintArray",
-   "self_type" : "_ZTIFP10_jintArrayP7_JNIEnviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -252,9 +218,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFP10_jmethodIDP7_JNIEnvP7_jclassPKcS6_E",
    "return_type" : "_ZTIP10_jmethodID",
-   "self_type" : "_ZTIFP10_jmethodIDP7_JNIEnvP7_jclassPKcS6_E",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -270,9 +234,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFP10_jmethodIDP7_JNIEnvP8_jobjectE",
    "return_type" : "_ZTIP10_jmethodID",
-   "self_type" : "_ZTIFP10_jmethodIDP7_JNIEnvP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -288,9 +250,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP11_jbyteArrayP7_JNIEnviE",
    "return_type" : "_ZTIP11_jbyteArray",
-   "self_type" : "_ZTIFP11_jbyteArrayP7_JNIEnviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -306,9 +266,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP11_jcharArrayP7_JNIEnviE",
    "return_type" : "_ZTIP11_jcharArray",
-   "self_type" : "_ZTIFP11_jcharArrayP7_JNIEnviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -324,9 +282,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP11_jlongArrayP7_JNIEnviE",
    "return_type" : "_ZTIP11_jlongArray",
-   "self_type" : "_ZTIFP11_jlongArrayP7_JNIEnviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -339,9 +295,7 @@
      "referenced_type" : "_ZTIP7_JNIEnv"
     }
    ],
-   "referenced_type" : "_ZTIFP11_jthrowableP7_JNIEnvE",
    "return_type" : "_ZTIP11_jthrowable",
-   "self_type" : "_ZTIFP11_jthrowableP7_JNIEnvE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -357,9 +311,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP12_jfloatArrayP7_JNIEnviE",
    "return_type" : "_ZTIP12_jfloatArray",
-   "self_type" : "_ZTIFP12_jfloatArrayP7_JNIEnviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -375,9 +327,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP12_jshortArrayP7_JNIEnviE",
    "return_type" : "_ZTIP12_jshortArray",
-   "self_type" : "_ZTIFP12_jshortArrayP7_JNIEnviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -393,9 +343,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP13_jdoubleArrayP7_JNIEnviE",
    "return_type" : "_ZTIP13_jdoubleArray",
-   "self_type" : "_ZTIFP13_jdoubleArrayP7_JNIEnviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -417,9 +365,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFP13_jobjectArrayP7_JNIEnviP7_jclassP8_jobjectE",
    "return_type" : "_ZTIP13_jobjectArray",
-   "self_type" : "_ZTIFP13_jobjectArrayP7_JNIEnviP7_jclassP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -435,9 +381,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP14_jbooleanArrayP7_JNIEnviE",
    "return_type" : "_ZTIP14_jbooleanArray",
-   "self_type" : "_ZTIFP14_jbooleanArrayP7_JNIEnviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -453,9 +397,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFP7_jclassP7_JNIEnvP8_jobjectE",
    "return_type" : "_ZTIP7_jclass",
-   "self_type" : "_ZTIFP7_jclassP7_JNIEnvP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -471,9 +413,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFP7_jclassP7_JNIEnvPKcE",
    "return_type" : "_ZTIP7_jclass",
-   "self_type" : "_ZTIFP7_jclassP7_JNIEnvPKcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -498,9 +438,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP7_jclassP7_JNIEnvPKcP8_jobjectPKaiE",
    "return_type" : "_ZTIP7_jclass",
-   "self_type" : "_ZTIFP7_jclassP7_JNIEnvPKcP8_jobjectPKaiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -516,9 +454,7 @@
      "referenced_type" : "_ZTIP7_jclass"
     }
    ],
-   "referenced_type" : "_ZTIFP7_jclassP7_JNIEnvS0_E",
    "return_type" : "_ZTIP7_jclass",
-   "self_type" : "_ZTIFP7_jclassP7_JNIEnvS0_E",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -537,9 +473,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP13_jobjectArrayiE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvP13_jobjectArrayiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -555,9 +489,7 @@
      "referenced_type" : "_ZTIP7_jclass"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -579,9 +511,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -603,9 +533,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -627,9 +555,7 @@
      "referenced_type" : "_ZTIh"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDhE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -648,9 +574,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -669,9 +593,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -693,9 +615,7 @@
      "referenced_type" : "_ZTIh"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDhE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -714,9 +634,7 @@
      "referenced_type" : "_ZTIx"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvPvxE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvPvxE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -732,9 +650,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_E",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_E",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -756,9 +672,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -780,9 +694,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPcE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -801,9 +713,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P10_jmethodIDzE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -828,9 +738,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -855,9 +763,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -879,9 +785,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -900,9 +804,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P9_jfieldIDE",
    "return_type" : "_ZTIP8_jobject",
-   "self_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -918,9 +820,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jstringP7_JNIEnvPKcE",
    "return_type" : "_ZTIP8_jstring",
-   "self_type" : "_ZTIFP8_jstringP7_JNIEnvPKcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -939,9 +839,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFP8_jstringP7_JNIEnvPKtiE",
    "return_type" : "_ZTIP8_jstring",
-   "self_type" : "_ZTIFP8_jstringP7_JNIEnvPKtiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -963,9 +861,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFP9_jfieldIDP7_JNIEnvP7_jclassPKcS6_E",
    "return_type" : "_ZTIP9_jfieldID",
-   "self_type" : "_ZTIFP9_jfieldIDP7_JNIEnvP7_jclassPKcS6_E",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -981,9 +877,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFP9_jfieldIDP7_JNIEnvP8_jobjectE",
    "return_type" : "_ZTIP9_jfieldID",
-   "self_type" : "_ZTIFP9_jfieldIDP7_JNIEnvP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -996,9 +890,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFPFbiP7siginfoPvEiE",
    "return_type" : "_ZTIPFbiP7siginfoPvE",
-   "self_type" : "_ZTIFPFbiP7siginfoPvEiE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1011,9 +903,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFPKN7android25NativeBridgeRuntimeValuesEPKcE",
    "return_type" : "_ZTIPKN7android25NativeBridgeRuntimeValuesE",
-   "self_type" : "_ZTIFPKN7android25NativeBridgeRuntimeValuesEPKcE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1029,9 +919,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFPKcP7_JNIEnvP10_jmethodIDE",
    "return_type" : "_ZTIPKc",
-   "self_type" : "_ZTIFPKcP7_JNIEnvP10_jmethodIDE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1050,18 +938,14 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPKcP7_JNIEnvP8_jstringPhE",
    "return_type" : "_ZTIPKc",
-   "self_type" : "_ZTIFPKcP7_JNIEnvP8_jstringPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIFPKcvE",
    "name" : "const char *()",
-   "referenced_type" : "_ZTIFPKcvE",
    "return_type" : "_ZTIPKc",
-   "self_type" : "_ZTIFPKcvE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1080,9 +964,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPKtP7_JNIEnvP8_jstringPhE",
    "return_type" : "_ZTIPKt",
-   "self_type" : "_ZTIFPKtP7_JNIEnvP8_jstringPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1095,9 +977,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFPN7android25native_bridge_namespace_tEPKcE",
    "return_type" : "_ZTIPN7android25native_bridge_namespace_tE",
-   "self_type" : "_ZTIFPN7android25native_bridge_namespace_tEPKcE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1125,18 +1005,14 @@
      "referenced_type" : "_ZTIPN7android25native_bridge_namespace_tE"
     }
    ],
-   "referenced_type" : "_ZTIFPN7android25native_bridge_namespace_tEPKcS3_S3_yS3_S1_E",
    "return_type" : "_ZTIPN7android25native_bridge_namespace_tE",
-   "self_type" : "_ZTIFPN7android25native_bridge_namespace_tEPKcS3_S3_yS3_S1_E",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIFPN7android25native_bridge_namespace_tEvE",
    "name" : "android::native_bridge_namespace_t *()",
-   "referenced_type" : "_ZTIFPN7android25native_bridge_namespace_tEvE",
    "return_type" : "_ZTIPN7android25native_bridge_namespace_tE",
-   "self_type" : "_ZTIFPN7android25native_bridge_namespace_tEvE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1155,9 +1031,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPaP7_JNIEnvP11_jbyteArrayPhE",
    "return_type" : "_ZTIPa",
-   "self_type" : "_ZTIFPaP7_JNIEnvP11_jbyteArrayPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1176,9 +1050,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPdP7_JNIEnvP13_jdoubleArrayPhE",
    "return_type" : "_ZTIPd",
-   "self_type" : "_ZTIFPdP7_JNIEnvP13_jdoubleArrayPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1197,9 +1069,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPfP7_JNIEnvP12_jfloatArrayPhE",
    "return_type" : "_ZTIPf",
-   "self_type" : "_ZTIFPfP7_JNIEnvP12_jfloatArrayPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1218,9 +1088,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPhP7_JNIEnvP14_jbooleanArrayS_E",
    "return_type" : "_ZTIPh",
-   "self_type" : "_ZTIFPhP7_JNIEnvP14_jbooleanArrayS_E",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1239,9 +1107,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPiP7_JNIEnvP10_jintArrayPhE",
    "return_type" : "_ZTIPi",
-   "self_type" : "_ZTIFPiP7_JNIEnvP10_jintArrayPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1260,9 +1126,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPsP7_JNIEnvP12_jshortArrayPhE",
    "return_type" : "_ZTIPs",
-   "self_type" : "_ZTIFPsP7_JNIEnvP12_jshortArrayPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1281,9 +1145,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPtP7_JNIEnvP11_jcharArrayPhE",
    "return_type" : "_ZTIPt",
-   "self_type" : "_ZTIFPtP7_JNIEnvP11_jcharArrayPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1302,9 +1164,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPvP7_JNIEnvP7_jarrayPhE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvP7_JNIEnvP7_jarrayPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1320,9 +1180,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFPvP7_JNIEnvP8_jobjectE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvP7_JNIEnvP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1338,9 +1196,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFPvPKciE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvPKciE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1359,9 +1215,29 @@
      "referenced_type" : "_ZTIPN7android25native_bridge_namespace_tE"
     }
    ],
-   "referenced_type" : "_ZTIFPvPKciPN7android25native_bridge_namespace_tEE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvPKciPN7android25native_bridge_namespace_tEE",
+   "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIFPvPKvPKcjN7android11JNICallTypeEE",
+   "name" : "void *(const void *, const char *, unsigned int, android::JNICallType)",
+   "parameters" :
+   [
+    {
+     "referenced_type" : "_ZTIPKv"
+    },
+    {
+     "referenced_type" : "_ZTIPKc"
+    },
+    {
+     "referenced_type" : "_ZTIj"
+    },
+    {
+     "referenced_type" : "_ZTIN7android11JNICallTypeE"
+    }
+   ],
+   "return_type" : "_ZTIPv",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1383,9 +1259,7 @@
      "referenced_type" : "_ZTIj"
     }
    ],
-   "referenced_type" : "_ZTIFPvS_PKcS1_jE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvS_PKcS1_jE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1410,9 +1284,7 @@
      "referenced_type" : "_ZTIN7android11JNICallTypeE"
     }
    ],
-   "referenced_type" : "_ZTIFPvS_PKcS1_jN7android11JNICallTypeEE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvS_PKcS1_jN7android11JNICallTypeEE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1431,9 +1303,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFPxP7_JNIEnvP11_jlongArrayPhE",
    "return_type" : "_ZTIPx",
-   "self_type" : "_ZTIFPxP7_JNIEnvP11_jlongArrayPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1455,9 +1325,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1479,9 +1347,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1500,9 +1366,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1521,9 +1385,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP7_jclassP9_jfieldIDE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP7_jclassP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1545,9 +1407,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1569,9 +1429,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1590,9 +1448,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1617,9 +1473,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1644,9 +1498,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1668,9 +1520,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1689,9 +1539,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "return_type" : "_ZTIa",
-   "self_type" : "_ZTIFaP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1710,9 +1558,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFbPKN7android28NativeBridgeRuntimeCallbacksEPKcS4_E",
    "return_type" : "_ZTIb",
-   "self_type" : "_ZTIFbPKN7android28NativeBridgeRuntimeCallbacksEPKcS4_E",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1725,9 +1571,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFbPKcE",
    "return_type" : "_ZTIb",
-   "self_type" : "_ZTIFbPKcE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1743,9 +1587,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFbPKcS0_E",
    "return_type" : "_ZTIb",
-   "self_type" : "_ZTIFbPKcS0_E",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1764,9 +1606,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFbPN7android25native_bridge_namespace_tES1_PKcE",
    "return_type" : "_ZTIb",
-   "self_type" : "_ZTIFbPN7android25native_bridge_namespace_tES1_PKcE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1785,9 +1625,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "referenced_type" : "_ZTIFbiP7siginfoPvE",
    "return_type" : "_ZTIb",
-   "self_type" : "_ZTIFbiP7siginfoPvE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1800,9 +1638,7 @@
      "referenced_type" : "_ZTIj"
     }
    ],
-   "referenced_type" : "_ZTIFbjE",
    "return_type" : "_ZTIb",
-   "self_type" : "_ZTIFbjE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -1824,9 +1660,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1848,9 +1682,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1869,9 +1701,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1890,9 +1720,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP7_jclassP9_jfieldIDE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP7_jclassP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1914,9 +1742,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1938,9 +1764,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1959,9 +1783,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -1986,9 +1808,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2013,9 +1833,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2037,9 +1855,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2058,9 +1874,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "return_type" : "_ZTId",
-   "self_type" : "_ZTIFdP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2082,9 +1896,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2106,9 +1918,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2127,9 +1937,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2148,9 +1956,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP7_jclassP9_jfieldIDE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP7_jclassP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2172,9 +1978,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2196,9 +2000,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2217,9 +2019,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2244,9 +2044,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2271,9 +2069,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2295,9 +2091,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2316,9 +2110,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "return_type" : "_ZTIf",
-   "self_type" : "_ZTIFfP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2331,9 +2123,7 @@
      "referenced_type" : "_ZTIP7_JNIEnv"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2355,9 +2145,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2379,9 +2167,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2400,9 +2186,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2421,9 +2205,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassP9_jfieldIDE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP7_jclassP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2442,9 +2224,7 @@
      "referenced_type" : "_ZTIP7_jclass"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassS2_E",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP7_jclassS2_E",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2466,9 +2246,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2490,9 +2268,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2511,9 +2287,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2532,9 +2306,7 @@
      "referenced_type" : "_ZTIP7_jclass"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2559,9 +2331,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2586,9 +2356,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2610,9 +2378,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2631,9 +2397,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2652,9 +2416,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectS2_E",
    "return_type" : "_ZTIh",
-   "self_type" : "_ZTIFhP7_JNIEnvP8_jobjectS2_E",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2667,9 +2429,7 @@
      "referenced_type" : "_ZTIP7_JNIEnv"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2685,9 +2445,7 @@
      "referenced_type" : "_ZTIP11_jthrowable"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP11_jthrowableE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP11_jthrowableE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2703,9 +2461,7 @@
      "referenced_type" : "_ZTIP7_jarray"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP7_jarrayE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP7_jarrayE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2721,9 +2477,7 @@
      "referenced_type" : "_ZTIP7_jclass"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP7_jclassE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2745,9 +2499,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2769,9 +2521,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2790,9 +2540,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2811,9 +2559,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassP9_jfieldIDE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP7_jclassP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2835,9 +2581,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassPK15JNINativeMethodiE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP7_jclassPK15JNINativeMethodiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2856,9 +2600,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassPKcE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP7_jclassPKcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2874,9 +2616,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2898,9 +2638,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2922,9 +2660,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2943,9 +2679,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2970,9 +2704,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -2997,9 +2729,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3021,9 +2751,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3042,9 +2770,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3060,9 +2786,7 @@
      "referenced_type" : "_ZTIP8_jstring"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvP8_jstringE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvP8_jstringE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3078,9 +2802,7 @@
      "referenced_type" : "_ZTIPP7_JavaVM"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnvPP7_JavaVME",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnvPP7_JavaVME",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3096,9 +2818,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JNIEnviE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JNIEnviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3111,9 +2831,7 @@
      "referenced_type" : "_ZTIP7_JavaVM"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JavaVME",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JavaVME",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3132,9 +2850,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JavaVMPP7_JNIEnvPvE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JavaVMPP7_JNIEnvPvE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3153,9 +2869,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFiP7_JavaVMPPviE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiP7_JavaVMPPviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3168,9 +2882,7 @@
      "referenced_type" : "_ZTIPv"
     }
    ],
-   "referenced_type" : "_ZTIFiPvE",
    "return_type" : "_ZTIi",
-   "self_type" : "_ZTIFiPvE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -3186,9 +2898,7 @@
      "referenced_type" : "_ZTIP7_jclass"
     }
    ],
-   "referenced_type" : "_ZTIFjP7_JNIEnvP7_jclassE",
    "return_type" : "_ZTIj",
-   "self_type" : "_ZTIFjP7_JNIEnvP7_jclassE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -3210,9 +2920,7 @@
      "referenced_type" : "_ZTIj"
     }
    ],
-   "referenced_type" : "_ZTIFjP7_JNIEnvP7_jclassP15JNINativeMethodjE",
    "return_type" : "_ZTIj",
-   "self_type" : "_ZTIFjP7_JNIEnvP7_jclassP15JNINativeMethodjE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -3234,9 +2942,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3258,9 +2964,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3279,9 +2983,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3300,9 +3002,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP7_jclassP9_jfieldIDE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP7_jclassP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3324,9 +3024,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3348,9 +3046,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3369,9 +3065,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3396,9 +3090,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3423,9 +3115,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3447,9 +3137,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3468,9 +3156,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "return_type" : "_ZTIs",
-   "self_type" : "_ZTIFsP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3492,9 +3178,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3516,9 +3200,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3537,9 +3219,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3558,9 +3238,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP7_jclassP9_jfieldIDE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP7_jclassP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3582,9 +3260,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3606,9 +3282,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3627,9 +3301,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3654,9 +3326,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3681,9 +3351,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3705,9 +3373,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3726,9 +3392,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "return_type" : "_ZTIt",
-   "self_type" : "_ZTIFtP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3741,9 +3405,7 @@
      "referenced_type" : "_ZTIP7_JNIEnv"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3765,9 +3427,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP10_jintArrayPiiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP10_jintArrayPiiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3792,9 +3452,7 @@
      "referenced_type" : "_ZTIPKi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP10_jintArrayiiPKiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP10_jintArrayiiPKiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3819,9 +3477,7 @@
      "referenced_type" : "_ZTIPi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP10_jintArrayiiPiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP10_jintArrayiiPiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3843,9 +3499,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP11_jbyteArrayPaiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP11_jbyteArrayPaiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3870,9 +3524,7 @@
      "referenced_type" : "_ZTIPKa"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP11_jbyteArrayiiPKaE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP11_jbyteArrayiiPKaE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3897,9 +3549,7 @@
      "referenced_type" : "_ZTIPa"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP11_jbyteArrayiiPaE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP11_jbyteArrayiiPaE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3921,9 +3571,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP11_jcharArrayPtiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP11_jcharArrayPtiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3948,9 +3596,7 @@
      "referenced_type" : "_ZTIPKt"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP11_jcharArrayiiPKtE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP11_jcharArrayiiPKtE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3975,9 +3621,7 @@
      "referenced_type" : "_ZTIPt"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP11_jcharArrayiiPtE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP11_jcharArrayiiPtE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -3999,9 +3643,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP11_jlongArrayPxiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP11_jlongArrayPxiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4026,9 +3668,7 @@
      "referenced_type" : "_ZTIPKx"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP11_jlongArrayiiPKxE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP11_jlongArrayiiPKxE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4053,9 +3693,7 @@
      "referenced_type" : "_ZTIPx"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP11_jlongArrayiiPxE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP11_jlongArrayiiPxE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4077,9 +3715,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP12_jfloatArrayPfiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP12_jfloatArrayPfiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4104,9 +3740,7 @@
      "referenced_type" : "_ZTIPKf"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP12_jfloatArrayiiPKfE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP12_jfloatArrayiiPKfE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4131,9 +3765,7 @@
      "referenced_type" : "_ZTIPf"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP12_jfloatArrayiiPfE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP12_jfloatArrayiiPfE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4155,9 +3787,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP12_jshortArrayPsiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP12_jshortArrayPsiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4182,9 +3812,7 @@
      "referenced_type" : "_ZTIPKs"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP12_jshortArrayiiPKsE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP12_jshortArrayiiPKsE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4209,9 +3837,7 @@
      "referenced_type" : "_ZTIPs"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP12_jshortArrayiiPsE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP12_jshortArrayiiPsE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4233,9 +3859,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP13_jdoubleArrayPdiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP13_jdoubleArrayPdiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4260,9 +3884,7 @@
      "referenced_type" : "_ZTIPKd"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP13_jdoubleArrayiiPKdE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP13_jdoubleArrayiiPKdE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4287,9 +3909,7 @@
      "referenced_type" : "_ZTIPd"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP13_jdoubleArrayiiPdE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP13_jdoubleArrayiiPdE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4311,9 +3931,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP13_jobjectArrayiP8_jobjectE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP13_jobjectArrayiP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4335,9 +3953,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP14_jbooleanArrayPhiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP14_jbooleanArrayPhiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4362,9 +3978,7 @@
      "referenced_type" : "_ZTIPKh"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP14_jbooleanArrayiiPKhE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP14_jbooleanArrayiiPKhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4389,9 +4003,7 @@
      "referenced_type" : "_ZTIPh"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP14_jbooleanArrayiiPhE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP14_jbooleanArrayiiPhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4413,9 +4025,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jarrayPviE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jarrayPviE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4437,9 +4047,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4461,9 +4069,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4482,9 +4088,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4506,9 +4110,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDP8_jobjectE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4530,9 +4132,7 @@
      "referenced_type" : "_ZTIa"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDaE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDaE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4554,9 +4154,7 @@
      "referenced_type" : "_ZTId"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDdE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDdE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4578,9 +4176,7 @@
      "referenced_type" : "_ZTIf"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDfE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDfE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4602,9 +4198,7 @@
      "referenced_type" : "_ZTIh"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDhE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4626,9 +4220,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4650,9 +4242,7 @@
      "referenced_type" : "_ZTIs"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDsE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDsE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4674,9 +4264,7 @@
      "referenced_type" : "_ZTIt"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDtE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDtE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4698,9 +4286,7 @@
      "referenced_type" : "_ZTIx"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDxE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDxE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4716,9 +4302,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4740,9 +4324,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4764,9 +4346,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4785,9 +4365,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4812,9 +4390,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4839,9 +4415,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4863,9 +4437,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4887,9 +4459,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDS2_E",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDS2_E",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4911,9 +4481,7 @@
      "referenced_type" : "_ZTIa"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDaE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDaE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4935,9 +4503,7 @@
      "referenced_type" : "_ZTId"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDdE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDdE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4959,9 +4525,7 @@
      "referenced_type" : "_ZTIf"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDfE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDfE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -4983,9 +4547,7 @@
      "referenced_type" : "_ZTIh"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDhE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDhE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5007,9 +4569,7 @@
      "referenced_type" : "_ZTIi"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDiE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDiE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5031,9 +4591,7 @@
      "referenced_type" : "_ZTIs"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDsE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDsE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5055,9 +4613,7 @@
      "referenced_type" : "_ZTIt"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDtE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDtE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5079,9 +4635,7 @@
      "referenced_type" : "_ZTIx"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDxE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDxE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5100,9 +4654,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jstringPKcE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jstringPKcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5121,9 +4673,7 @@
      "referenced_type" : "_ZTIPKt"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jstringPKtE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jstringPKtE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5148,9 +4698,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jstringiiPcE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jstringiiPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5175,9 +4723,7 @@
      "referenced_type" : "_ZTIPt"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvP8_jstringiiPtE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvP8_jstringiiPtE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5193,18 +4739,14 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFvP7_JNIEnvPKcE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvP7_JNIEnvPKcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIFvvE",
    "name" : "void ()",
-   "referenced_type" : "_ZTIFvvE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvvE",
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -5226,9 +4768,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5250,9 +4790,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5271,9 +4809,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5292,9 +4828,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP7_jclassP9_jfieldIDE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP7_jclassP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5310,9 +4844,7 @@
      "referenced_type" : "_ZTIP8_jobject"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP8_jobjectE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5334,9 +4866,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5358,9 +4888,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5379,9 +4907,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5406,9 +4932,7 @@
      "referenced_type" : "_ZTIPK6jvalue"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5433,9 +4957,7 @@
      "referenced_type" : "_ZTIPc"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5457,9 +4979,7 @@
      "referenced_type" : "_ZTIP10_jmethodID"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
   {
@@ -5478,9 +4998,7 @@
      "referenced_type" : "_ZTIP9_jfieldID"
     }
    ],
-   "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "return_type" : "_ZTIx",
-   "self_type" : "_ZTIFxP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "source_file" : "libnativehelper/include_jni/jni.h"
   }
  ],
@@ -5562,7 +5080,6 @@
    "linker_set_key" : "_ZTIP10_jintArray",
    "name" : "_jintArray *",
    "referenced_type" : "_ZTI10_jintArray",
-   "self_type" : "_ZTIP10_jintArray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5571,7 +5088,6 @@
    "linker_set_key" : "_ZTIP10_jmethodID",
    "name" : "_jmethodID *",
    "referenced_type" : "_ZTI10_jmethodID",
-   "self_type" : "_ZTIP10_jmethodID",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5580,7 +5096,6 @@
    "linker_set_key" : "_ZTIP11_jbyteArray",
    "name" : "_jbyteArray *",
    "referenced_type" : "_ZTI11_jbyteArray",
-   "self_type" : "_ZTIP11_jbyteArray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5589,7 +5104,6 @@
    "linker_set_key" : "_ZTIP11_jcharArray",
    "name" : "_jcharArray *",
    "referenced_type" : "_ZTI11_jcharArray",
-   "self_type" : "_ZTIP11_jcharArray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5598,7 +5112,6 @@
    "linker_set_key" : "_ZTIP11_jlongArray",
    "name" : "_jlongArray *",
    "referenced_type" : "_ZTI11_jlongArray",
-   "self_type" : "_ZTIP11_jlongArray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5607,7 +5120,6 @@
    "linker_set_key" : "_ZTIP11_jthrowable",
    "name" : "_jthrowable *",
    "referenced_type" : "_ZTI11_jthrowable",
-   "self_type" : "_ZTIP11_jthrowable",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5616,7 +5128,6 @@
    "linker_set_key" : "_ZTIP12JavaVMOption",
    "name" : "JavaVMOption *",
    "referenced_type" : "_ZTI12JavaVMOption",
-   "self_type" : "_ZTIP12JavaVMOption",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5625,7 +5136,6 @@
    "linker_set_key" : "_ZTIP12_jfloatArray",
    "name" : "_jfloatArray *",
    "referenced_type" : "_ZTI12_jfloatArray",
-   "self_type" : "_ZTIP12_jfloatArray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5634,7 +5144,6 @@
    "linker_set_key" : "_ZTIP12_jshortArray",
    "name" : "_jshortArray *",
    "referenced_type" : "_ZTI12_jshortArray",
-   "self_type" : "_ZTIP12_jshortArray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5643,7 +5152,6 @@
    "linker_set_key" : "_ZTIP13_jdoubleArray",
    "name" : "_jdoubleArray *",
    "referenced_type" : "_ZTI13_jdoubleArray",
-   "self_type" : "_ZTIP13_jdoubleArray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5652,7 +5160,6 @@
    "linker_set_key" : "_ZTIP13_jobjectArray",
    "name" : "_jobjectArray *",
    "referenced_type" : "_ZTI13_jobjectArray",
-   "self_type" : "_ZTIP13_jobjectArray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5661,7 +5168,6 @@
    "linker_set_key" : "_ZTIP14_jbooleanArray",
    "name" : "_jbooleanArray *",
    "referenced_type" : "_ZTI14_jbooleanArray",
-   "self_type" : "_ZTIP14_jbooleanArray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5670,7 +5176,6 @@
    "linker_set_key" : "_ZTIP15JNINativeMethod",
    "name" : "JNINativeMethod *",
    "referenced_type" : "_ZTI15JNINativeMethod",
-   "self_type" : "_ZTIP15JNINativeMethod",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -5679,7 +5184,6 @@
    "linker_set_key" : "_ZTIP7_JNIEnv",
    "name" : "_JNIEnv *",
    "referenced_type" : "_ZTI7_JNIEnv",
-   "self_type" : "_ZTIP7_JNIEnv",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5688,7 +5192,6 @@
    "linker_set_key" : "_ZTIP7_JavaVM",
    "name" : "_JavaVM *",
    "referenced_type" : "_ZTI7_JavaVM",
-   "self_type" : "_ZTIP7_JavaVM",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5697,7 +5200,6 @@
    "linker_set_key" : "_ZTIP7_jarray",
    "name" : "_jarray *",
    "referenced_type" : "_ZTI7_jarray",
-   "self_type" : "_ZTIP7_jarray",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5706,7 +5208,6 @@
    "linker_set_key" : "_ZTIP7_jclass",
    "name" : "_jclass *",
    "referenced_type" : "_ZTI7_jclass",
-   "self_type" : "_ZTIP7_jclass",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5715,7 +5216,6 @@
    "linker_set_key" : "_ZTIP7siginfo",
    "name" : "siginfo *",
    "referenced_type" : "_ZTI7siginfo",
-   "self_type" : "_ZTIP7siginfo",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -5724,7 +5224,6 @@
    "linker_set_key" : "_ZTIP8_jobject",
    "name" : "_jobject *",
    "referenced_type" : "_ZTI8_jobject",
-   "self_type" : "_ZTIP8_jobject",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5733,7 +5232,6 @@
    "linker_set_key" : "_ZTIP8_jstring",
    "name" : "_jstring *",
    "referenced_type" : "_ZTI8_jstring",
-   "self_type" : "_ZTIP8_jstring",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5742,7 +5240,6 @@
    "linker_set_key" : "_ZTIP9_jfieldID",
    "name" : "_jfieldID *",
    "referenced_type" : "_ZTI9_jfieldID",
-   "self_type" : "_ZTIP9_jfieldID",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5751,7 +5248,6 @@
    "linker_set_key" : "_ZTIPF14jobjectRefTypeP7_JNIEnvP8_jobjectE",
    "name" : "jobjectRefType (*)(_JNIEnv *, _jobject *)",
    "referenced_type" : "_ZTIF14jobjectRefTypeP7_JNIEnvP8_jobjectE",
-   "self_type" : "_ZTIPF14jobjectRefTypeP7_JNIEnvP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5760,7 +5256,6 @@
    "linker_set_key" : "_ZTIPFP10_jintArrayP7_JNIEnviE",
    "name" : "_jintArray *(*)(_JNIEnv *, int)",
    "referenced_type" : "_ZTIFP10_jintArrayP7_JNIEnviE",
-   "self_type" : "_ZTIPFP10_jintArrayP7_JNIEnviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5769,7 +5264,6 @@
    "linker_set_key" : "_ZTIPFP10_jmethodIDP7_JNIEnvP7_jclassPKcS6_E",
    "name" : "_jmethodID *(*)(_JNIEnv *, _jclass *, const char *, const char *)",
    "referenced_type" : "_ZTIFP10_jmethodIDP7_JNIEnvP7_jclassPKcS6_E",
-   "self_type" : "_ZTIPFP10_jmethodIDP7_JNIEnvP7_jclassPKcS6_E",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5778,7 +5272,6 @@
    "linker_set_key" : "_ZTIPFP10_jmethodIDP7_JNIEnvP8_jobjectE",
    "name" : "_jmethodID *(*)(_JNIEnv *, _jobject *)",
    "referenced_type" : "_ZTIFP10_jmethodIDP7_JNIEnvP8_jobjectE",
-   "self_type" : "_ZTIPFP10_jmethodIDP7_JNIEnvP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5787,7 +5280,6 @@
    "linker_set_key" : "_ZTIPFP11_jbyteArrayP7_JNIEnviE",
    "name" : "_jbyteArray *(*)(_JNIEnv *, int)",
    "referenced_type" : "_ZTIFP11_jbyteArrayP7_JNIEnviE",
-   "self_type" : "_ZTIPFP11_jbyteArrayP7_JNIEnviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5796,7 +5288,6 @@
    "linker_set_key" : "_ZTIPFP11_jcharArrayP7_JNIEnviE",
    "name" : "_jcharArray *(*)(_JNIEnv *, int)",
    "referenced_type" : "_ZTIFP11_jcharArrayP7_JNIEnviE",
-   "self_type" : "_ZTIPFP11_jcharArrayP7_JNIEnviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5805,7 +5296,6 @@
    "linker_set_key" : "_ZTIPFP11_jlongArrayP7_JNIEnviE",
    "name" : "_jlongArray *(*)(_JNIEnv *, int)",
    "referenced_type" : "_ZTIFP11_jlongArrayP7_JNIEnviE",
-   "self_type" : "_ZTIPFP11_jlongArrayP7_JNIEnviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5814,7 +5304,6 @@
    "linker_set_key" : "_ZTIPFP11_jthrowableP7_JNIEnvE",
    "name" : "_jthrowable *(*)(_JNIEnv *)",
    "referenced_type" : "_ZTIFP11_jthrowableP7_JNIEnvE",
-   "self_type" : "_ZTIPFP11_jthrowableP7_JNIEnvE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5823,7 +5312,6 @@
    "linker_set_key" : "_ZTIPFP12_jfloatArrayP7_JNIEnviE",
    "name" : "_jfloatArray *(*)(_JNIEnv *, int)",
    "referenced_type" : "_ZTIFP12_jfloatArrayP7_JNIEnviE",
-   "self_type" : "_ZTIPFP12_jfloatArrayP7_JNIEnviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5832,7 +5320,6 @@
    "linker_set_key" : "_ZTIPFP12_jshortArrayP7_JNIEnviE",
    "name" : "_jshortArray *(*)(_JNIEnv *, int)",
    "referenced_type" : "_ZTIFP12_jshortArrayP7_JNIEnviE",
-   "self_type" : "_ZTIPFP12_jshortArrayP7_JNIEnviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5841,7 +5328,6 @@
    "linker_set_key" : "_ZTIPFP13_jdoubleArrayP7_JNIEnviE",
    "name" : "_jdoubleArray *(*)(_JNIEnv *, int)",
    "referenced_type" : "_ZTIFP13_jdoubleArrayP7_JNIEnviE",
-   "self_type" : "_ZTIPFP13_jdoubleArrayP7_JNIEnviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5850,7 +5336,6 @@
    "linker_set_key" : "_ZTIPFP13_jobjectArrayP7_JNIEnviP7_jclassP8_jobjectE",
    "name" : "_jobjectArray *(*)(_JNIEnv *, int, _jclass *, _jobject *)",
    "referenced_type" : "_ZTIFP13_jobjectArrayP7_JNIEnviP7_jclassP8_jobjectE",
-   "self_type" : "_ZTIPFP13_jobjectArrayP7_JNIEnviP7_jclassP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5859,7 +5344,6 @@
    "linker_set_key" : "_ZTIPFP14_jbooleanArrayP7_JNIEnviE",
    "name" : "_jbooleanArray *(*)(_JNIEnv *, int)",
    "referenced_type" : "_ZTIFP14_jbooleanArrayP7_JNIEnviE",
-   "self_type" : "_ZTIPFP14_jbooleanArrayP7_JNIEnviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5868,7 +5352,6 @@
    "linker_set_key" : "_ZTIPFP7_jclassP7_JNIEnvP8_jobjectE",
    "name" : "_jclass *(*)(_JNIEnv *, _jobject *)",
    "referenced_type" : "_ZTIFP7_jclassP7_JNIEnvP8_jobjectE",
-   "self_type" : "_ZTIPFP7_jclassP7_JNIEnvP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5877,7 +5360,6 @@
    "linker_set_key" : "_ZTIPFP7_jclassP7_JNIEnvPKcE",
    "name" : "_jclass *(*)(_JNIEnv *, const char *)",
    "referenced_type" : "_ZTIFP7_jclassP7_JNIEnvPKcE",
-   "self_type" : "_ZTIPFP7_jclassP7_JNIEnvPKcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5886,7 +5368,6 @@
    "linker_set_key" : "_ZTIPFP7_jclassP7_JNIEnvPKcP8_jobjectPKaiE",
    "name" : "_jclass *(*)(_JNIEnv *, const char *, _jobject *, const signed char *, int)",
    "referenced_type" : "_ZTIFP7_jclassP7_JNIEnvPKcP8_jobjectPKaiE",
-   "self_type" : "_ZTIPFP7_jclassP7_JNIEnvPKcP8_jobjectPKaiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5895,7 +5376,6 @@
    "linker_set_key" : "_ZTIPFP7_jclassP7_JNIEnvS0_E",
    "name" : "_jclass *(*)(_JNIEnv *, _jclass *)",
    "referenced_type" : "_ZTIFP7_jclassP7_JNIEnvS0_E",
-   "self_type" : "_ZTIPFP7_jclassP7_JNIEnvS0_E",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5904,7 +5384,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvP13_jobjectArrayiE",
    "name" : "_jobject *(*)(_JNIEnv *, _jobjectArray *, int)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP13_jobjectArrayiE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvP13_jobjectArrayiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5913,7 +5392,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassE",
    "name" : "_jobject *(*)(_JNIEnv *, _jclass *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5922,7 +5400,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "_jobject *(*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5931,7 +5408,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "_jobject *(*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5940,7 +5416,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDhE",
    "name" : "_jobject *(*)(_JNIEnv *, _jclass *, _jmethodID *, unsigned char)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDhE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5949,7 +5424,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "_jobject *(*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5958,7 +5432,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDE",
    "name" : "_jobject *(*)(_JNIEnv *, _jclass *, _jfieldID *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5967,7 +5440,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDhE",
    "name" : "_jobject *(*)(_JNIEnv *, _jclass *, _jfieldID *, unsigned char)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDhE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvP7_jclassP9_jfieldIDhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5976,7 +5448,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvPvxE",
    "name" : "_jobject *(*)(_JNIEnv *, void *, long long)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvPvxE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvPvxE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5985,7 +5456,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvS0_E",
    "name" : "_jobject *(*)(_JNIEnv *, _jobject *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_E",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvS0_E",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -5994,7 +5464,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPK6jvalueE",
    "name" : "_jobject *(*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6003,7 +5472,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPcE",
    "name" : "_jobject *(*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPcE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6012,7 +5480,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P10_jmethodIDzE",
    "name" : "_jobject *(*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P10_jmethodIDzE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6021,7 +5488,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "_jobject *(*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6030,7 +5496,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPcE",
    "name" : "_jobject *(*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6039,7 +5504,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDzE",
    "name" : "_jobject *(*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6048,7 +5512,6 @@
    "linker_set_key" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P9_jfieldIDE",
    "name" : "_jobject *(*)(_JNIEnv *, _jobject *, _jfieldID *)",
    "referenced_type" : "_ZTIFP8_jobjectP7_JNIEnvS0_P9_jfieldIDE",
-   "self_type" : "_ZTIPFP8_jobjectP7_JNIEnvS0_P9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6057,7 +5520,6 @@
    "linker_set_key" : "_ZTIPFP8_jstringP7_JNIEnvPKcE",
    "name" : "_jstring *(*)(_JNIEnv *, const char *)",
    "referenced_type" : "_ZTIFP8_jstringP7_JNIEnvPKcE",
-   "self_type" : "_ZTIPFP8_jstringP7_JNIEnvPKcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6066,7 +5528,6 @@
    "linker_set_key" : "_ZTIPFP8_jstringP7_JNIEnvPKtiE",
    "name" : "_jstring *(*)(_JNIEnv *, const unsigned short *, int)",
    "referenced_type" : "_ZTIFP8_jstringP7_JNIEnvPKtiE",
-   "self_type" : "_ZTIPFP8_jstringP7_JNIEnvPKtiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6075,7 +5536,6 @@
    "linker_set_key" : "_ZTIPFP9_jfieldIDP7_JNIEnvP7_jclassPKcS6_E",
    "name" : "_jfieldID *(*)(_JNIEnv *, _jclass *, const char *, const char *)",
    "referenced_type" : "_ZTIFP9_jfieldIDP7_JNIEnvP7_jclassPKcS6_E",
-   "self_type" : "_ZTIPFP9_jfieldIDP7_JNIEnvP7_jclassPKcS6_E",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6084,7 +5544,6 @@
    "linker_set_key" : "_ZTIPFP9_jfieldIDP7_JNIEnvP8_jobjectE",
    "name" : "_jfieldID *(*)(_JNIEnv *, _jobject *)",
    "referenced_type" : "_ZTIFP9_jfieldIDP7_JNIEnvP8_jobjectE",
-   "self_type" : "_ZTIPFP9_jfieldIDP7_JNIEnvP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6093,7 +5552,6 @@
    "linker_set_key" : "_ZTIPFPFbiP7siginfoPvEiE",
    "name" : "bool (*(*)(int))(int, siginfo *, void *)",
    "referenced_type" : "_ZTIFPFbiP7siginfoPvEiE",
-   "self_type" : "_ZTIPFPFbiP7siginfoPvEiE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6102,7 +5560,6 @@
    "linker_set_key" : "_ZTIPFPKN7android25NativeBridgeRuntimeValuesEPKcE",
    "name" : "const android::NativeBridgeRuntimeValues *(*)(const char *)",
    "referenced_type" : "_ZTIFPKN7android25NativeBridgeRuntimeValuesEPKcE",
-   "self_type" : "_ZTIPFPKN7android25NativeBridgeRuntimeValuesEPKcE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6111,7 +5568,6 @@
    "linker_set_key" : "_ZTIPFPKcP7_JNIEnvP10_jmethodIDE",
    "name" : "const char *(*)(_JNIEnv *, _jmethodID *)",
    "referenced_type" : "_ZTIFPKcP7_JNIEnvP10_jmethodIDE",
-   "self_type" : "_ZTIPFPKcP7_JNIEnvP10_jmethodIDE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6120,7 +5576,6 @@
    "linker_set_key" : "_ZTIPFPKcP7_JNIEnvP8_jstringPhE",
    "name" : "const char *(*)(_JNIEnv *, _jstring *, unsigned char *)",
    "referenced_type" : "_ZTIFPKcP7_JNIEnvP8_jstringPhE",
-   "self_type" : "_ZTIPFPKcP7_JNIEnvP8_jstringPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6129,7 +5584,6 @@
    "linker_set_key" : "_ZTIPFPKcvE",
    "name" : "const char *(*)()",
    "referenced_type" : "_ZTIFPKcvE",
-   "self_type" : "_ZTIPFPKcvE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6138,7 +5592,6 @@
    "linker_set_key" : "_ZTIPFPKtP7_JNIEnvP8_jstringPhE",
    "name" : "const unsigned short *(*)(_JNIEnv *, _jstring *, unsigned char *)",
    "referenced_type" : "_ZTIFPKtP7_JNIEnvP8_jstringPhE",
-   "self_type" : "_ZTIPFPKtP7_JNIEnvP8_jstringPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6147,7 +5600,6 @@
    "linker_set_key" : "_ZTIPFPN7android25native_bridge_namespace_tEPKcE",
    "name" : "android::native_bridge_namespace_t *(*)(const char *)",
    "referenced_type" : "_ZTIFPN7android25native_bridge_namespace_tEPKcE",
-   "self_type" : "_ZTIPFPN7android25native_bridge_namespace_tEPKcE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6156,7 +5608,6 @@
    "linker_set_key" : "_ZTIPFPN7android25native_bridge_namespace_tEPKcS3_S3_yS3_S1_E",
    "name" : "android::native_bridge_namespace_t *(*)(const char *, const char *, const char *, unsigned long long, const char *, android::native_bridge_namespace_t *)",
    "referenced_type" : "_ZTIFPN7android25native_bridge_namespace_tEPKcS3_S3_yS3_S1_E",
-   "self_type" : "_ZTIPFPN7android25native_bridge_namespace_tEPKcS3_S3_yS3_S1_E",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6165,7 +5616,6 @@
    "linker_set_key" : "_ZTIPFPN7android25native_bridge_namespace_tEvE",
    "name" : "android::native_bridge_namespace_t *(*)()",
    "referenced_type" : "_ZTIFPN7android25native_bridge_namespace_tEvE",
-   "self_type" : "_ZTIPFPN7android25native_bridge_namespace_tEvE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6174,7 +5624,6 @@
    "linker_set_key" : "_ZTIPFPaP7_JNIEnvP11_jbyteArrayPhE",
    "name" : "signed char *(*)(_JNIEnv *, _jbyteArray *, unsigned char *)",
    "referenced_type" : "_ZTIFPaP7_JNIEnvP11_jbyteArrayPhE",
-   "self_type" : "_ZTIPFPaP7_JNIEnvP11_jbyteArrayPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6183,7 +5632,6 @@
    "linker_set_key" : "_ZTIPFPdP7_JNIEnvP13_jdoubleArrayPhE",
    "name" : "double *(*)(_JNIEnv *, _jdoubleArray *, unsigned char *)",
    "referenced_type" : "_ZTIFPdP7_JNIEnvP13_jdoubleArrayPhE",
-   "self_type" : "_ZTIPFPdP7_JNIEnvP13_jdoubleArrayPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6192,7 +5640,6 @@
    "linker_set_key" : "_ZTIPFPfP7_JNIEnvP12_jfloatArrayPhE",
    "name" : "float *(*)(_JNIEnv *, _jfloatArray *, unsigned char *)",
    "referenced_type" : "_ZTIFPfP7_JNIEnvP12_jfloatArrayPhE",
-   "self_type" : "_ZTIPFPfP7_JNIEnvP12_jfloatArrayPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6201,7 +5648,6 @@
    "linker_set_key" : "_ZTIPFPhP7_JNIEnvP14_jbooleanArrayS_E",
    "name" : "unsigned char *(*)(_JNIEnv *, _jbooleanArray *, unsigned char *)",
    "referenced_type" : "_ZTIFPhP7_JNIEnvP14_jbooleanArrayS_E",
-   "self_type" : "_ZTIPFPhP7_JNIEnvP14_jbooleanArrayS_E",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6210,7 +5656,6 @@
    "linker_set_key" : "_ZTIPFPiP7_JNIEnvP10_jintArrayPhE",
    "name" : "int *(*)(_JNIEnv *, _jintArray *, unsigned char *)",
    "referenced_type" : "_ZTIFPiP7_JNIEnvP10_jintArrayPhE",
-   "self_type" : "_ZTIPFPiP7_JNIEnvP10_jintArrayPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6219,7 +5664,6 @@
    "linker_set_key" : "_ZTIPFPsP7_JNIEnvP12_jshortArrayPhE",
    "name" : "short *(*)(_JNIEnv *, _jshortArray *, unsigned char *)",
    "referenced_type" : "_ZTIFPsP7_JNIEnvP12_jshortArrayPhE",
-   "self_type" : "_ZTIPFPsP7_JNIEnvP12_jshortArrayPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6228,7 +5672,6 @@
    "linker_set_key" : "_ZTIPFPtP7_JNIEnvP11_jcharArrayPhE",
    "name" : "unsigned short *(*)(_JNIEnv *, _jcharArray *, unsigned char *)",
    "referenced_type" : "_ZTIFPtP7_JNIEnvP11_jcharArrayPhE",
-   "self_type" : "_ZTIPFPtP7_JNIEnvP11_jcharArrayPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6237,7 +5680,6 @@
    "linker_set_key" : "_ZTIPFPvP7_JNIEnvP7_jarrayPhE",
    "name" : "void *(*)(_JNIEnv *, _jarray *, unsigned char *)",
    "referenced_type" : "_ZTIFPvP7_JNIEnvP7_jarrayPhE",
-   "self_type" : "_ZTIPFPvP7_JNIEnvP7_jarrayPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6246,7 +5688,6 @@
    "linker_set_key" : "_ZTIPFPvP7_JNIEnvP8_jobjectE",
    "name" : "void *(*)(_JNIEnv *, _jobject *)",
    "referenced_type" : "_ZTIFPvP7_JNIEnvP8_jobjectE",
-   "self_type" : "_ZTIPFPvP7_JNIEnvP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6255,7 +5696,6 @@
    "linker_set_key" : "_ZTIPFPvPKciE",
    "name" : "void *(*)(const char *, int)",
    "referenced_type" : "_ZTIFPvPKciE",
-   "self_type" : "_ZTIPFPvPKciE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6264,7 +5704,14 @@
    "linker_set_key" : "_ZTIPFPvPKciPN7android25native_bridge_namespace_tEE",
    "name" : "void *(*)(const char *, int, android::native_bridge_namespace_t *)",
    "referenced_type" : "_ZTIFPvPKciPN7android25native_bridge_namespace_tEE",
-   "self_type" : "_ZTIPFPvPKciPN7android25native_bridge_namespace_tEE",
+   "size" : 4,
+   "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPFPvPKvPKcjN7android11JNICallTypeEE",
+   "name" : "void *(*)(const void *, const char *, unsigned int, android::JNICallType)",
+   "referenced_type" : "_ZTIFPvPKvPKcjN7android11JNICallTypeEE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6273,7 +5720,6 @@
    "linker_set_key" : "_ZTIPFPvS_PKcS1_jE",
    "name" : "void *(*)(void *, const char *, const char *, unsigned int)",
    "referenced_type" : "_ZTIFPvS_PKcS1_jE",
-   "self_type" : "_ZTIPFPvS_PKcS1_jE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6282,7 +5728,6 @@
    "linker_set_key" : "_ZTIPFPvS_PKcS1_jN7android11JNICallTypeEE",
    "name" : "void *(*)(void *, const char *, const char *, unsigned int, android::JNICallType)",
    "referenced_type" : "_ZTIFPvS_PKcS1_jN7android11JNICallTypeEE",
-   "self_type" : "_ZTIPFPvS_PKcS1_jN7android11JNICallTypeEE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6291,7 +5736,6 @@
    "linker_set_key" : "_ZTIPFPxP7_JNIEnvP11_jlongArrayPhE",
    "name" : "long long *(*)(_JNIEnv *, _jlongArray *, unsigned char *)",
    "referenced_type" : "_ZTIFPxP7_JNIEnvP11_jlongArrayPhE",
-   "self_type" : "_ZTIPFPxP7_JNIEnvP11_jlongArrayPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6300,7 +5744,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "signed char (*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6309,7 +5752,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "signed char (*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6318,7 +5760,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "signed char (*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6327,7 +5768,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP7_jclassP9_jfieldIDE",
    "name" : "signed char (*)(_JNIEnv *, _jclass *, _jfieldID *)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP7_jclassP9_jfieldIDE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP7_jclassP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6336,7 +5776,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "name" : "signed char (*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6345,7 +5784,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "name" : "signed char (*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6354,7 +5792,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "name" : "signed char (*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP10_jmethodIDzE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6363,7 +5800,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "signed char (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6372,7 +5808,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "name" : "signed char (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6381,7 +5816,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "name" : "signed char (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6390,7 +5824,6 @@
    "linker_set_key" : "_ZTIPFaP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "name" : "signed char (*)(_JNIEnv *, _jobject *, _jfieldID *)",
    "referenced_type" : "_ZTIFaP7_JNIEnvP8_jobjectP9_jfieldIDE",
-   "self_type" : "_ZTIPFaP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6399,7 +5832,6 @@
    "linker_set_key" : "_ZTIPFbPKN7android28NativeBridgeRuntimeCallbacksEPKcS4_E",
    "name" : "bool (*)(const android::NativeBridgeRuntimeCallbacks *, const char *, const char *)",
    "referenced_type" : "_ZTIFbPKN7android28NativeBridgeRuntimeCallbacksEPKcS4_E",
-   "self_type" : "_ZTIPFbPKN7android28NativeBridgeRuntimeCallbacksEPKcS4_E",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6408,7 +5840,6 @@
    "linker_set_key" : "_ZTIPFbPKcE",
    "name" : "bool (*)(const char *)",
    "referenced_type" : "_ZTIFbPKcE",
-   "self_type" : "_ZTIPFbPKcE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6417,7 +5848,6 @@
    "linker_set_key" : "_ZTIPFbPKcS0_E",
    "name" : "bool (*)(const char *, const char *)",
    "referenced_type" : "_ZTIFbPKcS0_E",
-   "self_type" : "_ZTIPFbPKcS0_E",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6426,7 +5856,6 @@
    "linker_set_key" : "_ZTIPFbPN7android25native_bridge_namespace_tES1_PKcE",
    "name" : "bool (*)(android::native_bridge_namespace_t *, android::native_bridge_namespace_t *, const char *)",
    "referenced_type" : "_ZTIFbPN7android25native_bridge_namespace_tES1_PKcE",
-   "self_type" : "_ZTIPFbPN7android25native_bridge_namespace_tES1_PKcE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6435,7 +5864,6 @@
    "linker_set_key" : "_ZTIPFbiP7siginfoPvE",
    "name" : "bool (*)(int, siginfo *, void *)",
    "referenced_type" : "_ZTIFbiP7siginfoPvE",
-   "self_type" : "_ZTIPFbiP7siginfoPvE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6444,7 +5872,6 @@
    "linker_set_key" : "_ZTIPFbjE",
    "name" : "bool (*)(unsigned int)",
    "referenced_type" : "_ZTIFbjE",
-   "self_type" : "_ZTIPFbjE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -6453,7 +5880,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "double (*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6462,7 +5888,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "double (*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6471,7 +5896,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "double (*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6480,7 +5904,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP7_jclassP9_jfieldIDE",
    "name" : "double (*)(_JNIEnv *, _jclass *, _jfieldID *)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP7_jclassP9_jfieldIDE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP7_jclassP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6489,7 +5912,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "name" : "double (*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6498,7 +5920,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "name" : "double (*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6507,7 +5928,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "name" : "double (*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP10_jmethodIDzE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6516,7 +5936,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "double (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6525,7 +5944,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "name" : "double (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6534,7 +5952,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "name" : "double (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6543,7 +5960,6 @@
    "linker_set_key" : "_ZTIPFdP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "name" : "double (*)(_JNIEnv *, _jobject *, _jfieldID *)",
    "referenced_type" : "_ZTIFdP7_JNIEnvP8_jobjectP9_jfieldIDE",
-   "self_type" : "_ZTIPFdP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6552,7 +5968,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "float (*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6561,7 +5976,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "float (*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6570,7 +5984,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "float (*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6579,7 +5992,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP7_jclassP9_jfieldIDE",
    "name" : "float (*)(_JNIEnv *, _jclass *, _jfieldID *)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP7_jclassP9_jfieldIDE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP7_jclassP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6588,7 +6000,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "name" : "float (*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6597,7 +6008,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "name" : "float (*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6606,7 +6016,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "name" : "float (*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP10_jmethodIDzE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6615,7 +6024,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "float (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6624,7 +6032,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "name" : "float (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6633,7 +6040,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "name" : "float (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6642,7 +6048,6 @@
    "linker_set_key" : "_ZTIPFfP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "name" : "float (*)(_JNIEnv *, _jobject *, _jfieldID *)",
    "referenced_type" : "_ZTIFfP7_JNIEnvP8_jobjectP9_jfieldIDE",
-   "self_type" : "_ZTIPFfP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6651,7 +6056,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvE",
    "name" : "unsigned char (*)(_JNIEnv *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvE",
-   "self_type" : "_ZTIPFhP7_JNIEnvE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6660,7 +6064,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "unsigned char (*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6669,7 +6072,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "unsigned char (*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6678,7 +6080,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "unsigned char (*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6687,7 +6088,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP7_jclassP9_jfieldIDE",
    "name" : "unsigned char (*)(_JNIEnv *, _jclass *, _jfieldID *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassP9_jfieldIDE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP7_jclassP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6696,7 +6096,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP7_jclassS2_E",
    "name" : "unsigned char (*)(_JNIEnv *, _jclass *, _jclass *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP7_jclassS2_E",
-   "self_type" : "_ZTIPFhP7_JNIEnvP7_jclassS2_E",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6705,7 +6104,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "name" : "unsigned char (*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6714,7 +6112,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "name" : "unsigned char (*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6723,7 +6120,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "name" : "unsigned char (*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP10_jmethodIDzE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6732,7 +6128,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP8_jobjectP7_jclassE",
    "name" : "unsigned char (*)(_JNIEnv *, _jobject *, _jclass *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP8_jobjectP7_jclassE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6741,7 +6136,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "unsigned char (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6750,7 +6144,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "name" : "unsigned char (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6759,7 +6152,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "name" : "unsigned char (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6768,7 +6160,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "name" : "unsigned char (*)(_JNIEnv *, _jobject *, _jfieldID *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectP9_jfieldIDE",
-   "self_type" : "_ZTIPFhP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6777,7 +6168,6 @@
    "linker_set_key" : "_ZTIPFhP7_JNIEnvP8_jobjectS2_E",
    "name" : "unsigned char (*)(_JNIEnv *, _jobject *, _jobject *)",
    "referenced_type" : "_ZTIFhP7_JNIEnvP8_jobjectS2_E",
-   "self_type" : "_ZTIPFhP7_JNIEnvP8_jobjectS2_E",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6786,7 +6176,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvE",
    "name" : "int (*)(_JNIEnv *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvE",
-   "self_type" : "_ZTIPFiP7_JNIEnvE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6795,7 +6184,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP11_jthrowableE",
    "name" : "int (*)(_JNIEnv *, _jthrowable *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP11_jthrowableE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP11_jthrowableE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6804,7 +6192,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP7_jarrayE",
    "name" : "int (*)(_JNIEnv *, _jarray *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP7_jarrayE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP7_jarrayE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6813,7 +6200,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP7_jclassE",
    "name" : "int (*)(_JNIEnv *, _jclass *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP7_jclassE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6822,7 +6208,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "int (*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6831,7 +6216,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "int (*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6840,7 +6224,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "int (*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6849,7 +6232,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP7_jclassP9_jfieldIDE",
    "name" : "int (*)(_JNIEnv *, _jclass *, _jfieldID *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassP9_jfieldIDE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP7_jclassP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6858,7 +6240,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP7_jclassPK15JNINativeMethodiE",
    "name" : "int (*)(_JNIEnv *, _jclass *, const JNINativeMethod *, int)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassPK15JNINativeMethodiE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP7_jclassPK15JNINativeMethodiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6867,7 +6248,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP7_jclassPKcE",
    "name" : "int (*)(_JNIEnv *, _jclass *, const char *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP7_jclassPKcE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP7_jclassPKcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6876,7 +6256,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP8_jobjectE",
    "name" : "int (*)(_JNIEnv *, _jobject *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6885,7 +6264,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "name" : "int (*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6894,7 +6272,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "name" : "int (*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6903,7 +6280,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "name" : "int (*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP10_jmethodIDzE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6912,7 +6288,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "int (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6921,7 +6296,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "name" : "int (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6930,7 +6304,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "name" : "int (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6939,7 +6312,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "name" : "int (*)(_JNIEnv *, _jobject *, _jfieldID *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP8_jobjectP9_jfieldIDE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6948,7 +6320,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvP8_jstringE",
    "name" : "int (*)(_JNIEnv *, _jstring *)",
    "referenced_type" : "_ZTIFiP7_JNIEnvP8_jstringE",
-   "self_type" : "_ZTIPFiP7_JNIEnvP8_jstringE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6957,7 +6328,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnvPP7_JavaVME",
    "name" : "int (*)(_JNIEnv *, _JavaVM **)",
    "referenced_type" : "_ZTIFiP7_JNIEnvPP7_JavaVME",
-   "self_type" : "_ZTIPFiP7_JNIEnvPP7_JavaVME",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6966,7 +6336,6 @@
    "linker_set_key" : "_ZTIPFiP7_JNIEnviE",
    "name" : "int (*)(_JNIEnv *, int)",
    "referenced_type" : "_ZTIFiP7_JNIEnviE",
-   "self_type" : "_ZTIPFiP7_JNIEnviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6975,7 +6344,6 @@
    "linker_set_key" : "_ZTIPFiP7_JavaVME",
    "name" : "int (*)(_JavaVM *)",
    "referenced_type" : "_ZTIFiP7_JavaVME",
-   "self_type" : "_ZTIPFiP7_JavaVME",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6984,7 +6352,6 @@
    "linker_set_key" : "_ZTIPFiP7_JavaVMPP7_JNIEnvPvE",
    "name" : "int (*)(_JavaVM *, _JNIEnv **, void *)",
    "referenced_type" : "_ZTIFiP7_JavaVMPP7_JNIEnvPvE",
-   "self_type" : "_ZTIPFiP7_JavaVMPP7_JNIEnvPvE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -6993,7 +6360,6 @@
    "linker_set_key" : "_ZTIPFiP7_JavaVMPPviE",
    "name" : "int (*)(_JavaVM *, void **, int)",
    "referenced_type" : "_ZTIFiP7_JavaVMPPviE",
-   "self_type" : "_ZTIPFiP7_JavaVMPPviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7002,7 +6368,6 @@
    "linker_set_key" : "_ZTIPFiPvE",
    "name" : "int (*)(void *)",
    "referenced_type" : "_ZTIFiPvE",
-   "self_type" : "_ZTIPFiPvE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -7011,7 +6376,6 @@
    "linker_set_key" : "_ZTIPFjP7_JNIEnvP7_jclassE",
    "name" : "unsigned int (*)(_JNIEnv *, _jclass *)",
    "referenced_type" : "_ZTIFjP7_JNIEnvP7_jclassE",
-   "self_type" : "_ZTIPFjP7_JNIEnvP7_jclassE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -7020,7 +6384,6 @@
    "linker_set_key" : "_ZTIPFjP7_JNIEnvP7_jclassP15JNINativeMethodjE",
    "name" : "unsigned int (*)(_JNIEnv *, _jclass *, JNINativeMethod *, unsigned int)",
    "referenced_type" : "_ZTIFjP7_JNIEnvP7_jclassP15JNINativeMethodjE",
-   "self_type" : "_ZTIPFjP7_JNIEnvP7_jclassP15JNINativeMethodjE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -7029,7 +6392,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "short (*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7038,7 +6400,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "short (*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7047,7 +6408,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "short (*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7056,7 +6416,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP7_jclassP9_jfieldIDE",
    "name" : "short (*)(_JNIEnv *, _jclass *, _jfieldID *)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP7_jclassP9_jfieldIDE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP7_jclassP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7065,7 +6424,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "name" : "short (*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7074,7 +6432,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "name" : "short (*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7083,7 +6440,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "name" : "short (*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP10_jmethodIDzE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7092,7 +6448,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "short (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7101,7 +6456,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "name" : "short (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7110,7 +6464,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "name" : "short (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7119,7 +6472,6 @@
    "linker_set_key" : "_ZTIPFsP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "name" : "short (*)(_JNIEnv *, _jobject *, _jfieldID *)",
    "referenced_type" : "_ZTIFsP7_JNIEnvP8_jobjectP9_jfieldIDE",
-   "self_type" : "_ZTIPFsP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7128,7 +6480,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "unsigned short (*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7137,7 +6488,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "unsigned short (*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7146,7 +6496,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "unsigned short (*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7155,7 +6504,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP7_jclassP9_jfieldIDE",
    "name" : "unsigned short (*)(_JNIEnv *, _jclass *, _jfieldID *)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP7_jclassP9_jfieldIDE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP7_jclassP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7164,7 +6512,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "name" : "unsigned short (*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7173,7 +6520,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "name" : "unsigned short (*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7182,7 +6528,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "name" : "unsigned short (*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP10_jmethodIDzE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7191,7 +6536,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "unsigned short (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7200,7 +6544,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "name" : "unsigned short (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7209,7 +6552,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "name" : "unsigned short (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7218,7 +6560,6 @@
    "linker_set_key" : "_ZTIPFtP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "name" : "unsigned short (*)(_JNIEnv *, _jobject *, _jfieldID *)",
    "referenced_type" : "_ZTIFtP7_JNIEnvP8_jobjectP9_jfieldIDE",
-   "self_type" : "_ZTIPFtP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7227,7 +6568,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvE",
    "name" : "void (*)(_JNIEnv *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvE",
-   "self_type" : "_ZTIPFvP7_JNIEnvE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7236,7 +6576,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP10_jintArrayPiiE",
    "name" : "void (*)(_JNIEnv *, _jintArray *, int *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP10_jintArrayPiiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP10_jintArrayPiiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7245,7 +6584,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP10_jintArrayiiPKiE",
    "name" : "void (*)(_JNIEnv *, _jintArray *, int, int, const int *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP10_jintArrayiiPKiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP10_jintArrayiiPKiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7254,7 +6592,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP10_jintArrayiiPiE",
    "name" : "void (*)(_JNIEnv *, _jintArray *, int, int, int *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP10_jintArrayiiPiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP10_jintArrayiiPiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7263,7 +6600,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP11_jbyteArrayPaiE",
    "name" : "void (*)(_JNIEnv *, _jbyteArray *, signed char *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP11_jbyteArrayPaiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP11_jbyteArrayPaiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7272,7 +6608,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP11_jbyteArrayiiPKaE",
    "name" : "void (*)(_JNIEnv *, _jbyteArray *, int, int, const signed char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP11_jbyteArrayiiPKaE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP11_jbyteArrayiiPKaE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7281,7 +6616,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP11_jbyteArrayiiPaE",
    "name" : "void (*)(_JNIEnv *, _jbyteArray *, int, int, signed char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP11_jbyteArrayiiPaE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP11_jbyteArrayiiPaE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7290,7 +6624,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP11_jcharArrayPtiE",
    "name" : "void (*)(_JNIEnv *, _jcharArray *, unsigned short *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP11_jcharArrayPtiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP11_jcharArrayPtiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7299,7 +6632,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP11_jcharArrayiiPKtE",
    "name" : "void (*)(_JNIEnv *, _jcharArray *, int, int, const unsigned short *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP11_jcharArrayiiPKtE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP11_jcharArrayiiPKtE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7308,7 +6640,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP11_jcharArrayiiPtE",
    "name" : "void (*)(_JNIEnv *, _jcharArray *, int, int, unsigned short *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP11_jcharArrayiiPtE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP11_jcharArrayiiPtE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7317,7 +6648,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP11_jlongArrayPxiE",
    "name" : "void (*)(_JNIEnv *, _jlongArray *, long long *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP11_jlongArrayPxiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP11_jlongArrayPxiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7326,7 +6656,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP11_jlongArrayiiPKxE",
    "name" : "void (*)(_JNIEnv *, _jlongArray *, int, int, const long long *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP11_jlongArrayiiPKxE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP11_jlongArrayiiPKxE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7335,7 +6664,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP11_jlongArrayiiPxE",
    "name" : "void (*)(_JNIEnv *, _jlongArray *, int, int, long long *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP11_jlongArrayiiPxE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP11_jlongArrayiiPxE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7344,7 +6672,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP12_jfloatArrayPfiE",
    "name" : "void (*)(_JNIEnv *, _jfloatArray *, float *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP12_jfloatArrayPfiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP12_jfloatArrayPfiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7353,7 +6680,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP12_jfloatArrayiiPKfE",
    "name" : "void (*)(_JNIEnv *, _jfloatArray *, int, int, const float *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP12_jfloatArrayiiPKfE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP12_jfloatArrayiiPKfE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7362,7 +6688,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP12_jfloatArrayiiPfE",
    "name" : "void (*)(_JNIEnv *, _jfloatArray *, int, int, float *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP12_jfloatArrayiiPfE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP12_jfloatArrayiiPfE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7371,7 +6696,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP12_jshortArrayPsiE",
    "name" : "void (*)(_JNIEnv *, _jshortArray *, short *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP12_jshortArrayPsiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP12_jshortArrayPsiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7380,7 +6704,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP12_jshortArrayiiPKsE",
    "name" : "void (*)(_JNIEnv *, _jshortArray *, int, int, const short *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP12_jshortArrayiiPKsE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP12_jshortArrayiiPKsE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7389,7 +6712,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP12_jshortArrayiiPsE",
    "name" : "void (*)(_JNIEnv *, _jshortArray *, int, int, short *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP12_jshortArrayiiPsE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP12_jshortArrayiiPsE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7398,7 +6720,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP13_jdoubleArrayPdiE",
    "name" : "void (*)(_JNIEnv *, _jdoubleArray *, double *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP13_jdoubleArrayPdiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP13_jdoubleArrayPdiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7407,7 +6728,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP13_jdoubleArrayiiPKdE",
    "name" : "void (*)(_JNIEnv *, _jdoubleArray *, int, int, const double *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP13_jdoubleArrayiiPKdE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP13_jdoubleArrayiiPKdE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7416,7 +6736,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP13_jdoubleArrayiiPdE",
    "name" : "void (*)(_JNIEnv *, _jdoubleArray *, int, int, double *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP13_jdoubleArrayiiPdE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP13_jdoubleArrayiiPdE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7425,7 +6744,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP13_jobjectArrayiP8_jobjectE",
    "name" : "void (*)(_JNIEnv *, _jobjectArray *, int, _jobject *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP13_jobjectArrayiP8_jobjectE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP13_jobjectArrayiP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7434,7 +6752,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP14_jbooleanArrayPhiE",
    "name" : "void (*)(_JNIEnv *, _jbooleanArray *, unsigned char *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP14_jbooleanArrayPhiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP14_jbooleanArrayPhiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7443,7 +6760,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP14_jbooleanArrayiiPKhE",
    "name" : "void (*)(_JNIEnv *, _jbooleanArray *, int, int, const unsigned char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP14_jbooleanArrayiiPKhE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP14_jbooleanArrayiiPKhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7452,7 +6768,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP14_jbooleanArrayiiPhE",
    "name" : "void (*)(_JNIEnv *, _jbooleanArray *, int, int, unsigned char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP14_jbooleanArrayiiPhE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP14_jbooleanArrayiiPhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7461,7 +6776,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jarrayPviE",
    "name" : "void (*)(_JNIEnv *, _jarray *, void *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jarrayPviE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jarrayPviE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7470,7 +6784,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7479,7 +6792,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7488,7 +6800,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7497,7 +6808,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDP8_jobjectE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jfieldID *, _jobject *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDP8_jobjectE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7506,7 +6816,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDaE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jfieldID *, signed char)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDaE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDaE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7515,7 +6824,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDdE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jfieldID *, double)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDdE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDdE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7524,7 +6832,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDfE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jfieldID *, float)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDfE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDfE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7533,7 +6840,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDhE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jfieldID *, unsigned char)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDhE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7542,7 +6848,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDiE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jfieldID *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7551,7 +6856,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDsE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jfieldID *, short)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDsE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDsE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7560,7 +6864,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDtE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jfieldID *, unsigned short)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDtE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDtE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7569,7 +6872,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDxE",
    "name" : "void (*)(_JNIEnv *, _jclass *, _jfieldID *, long long)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP7_jclassP9_jfieldIDxE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP7_jclassP9_jfieldIDxE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7578,7 +6880,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectE",
    "name" : "void (*)(_JNIEnv *, _jobject *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7587,7 +6888,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7596,7 +6896,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7605,7 +6904,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP10_jmethodIDzE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7614,7 +6912,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7623,7 +6920,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7632,7 +6928,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7641,7 +6936,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDS2_E",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jfieldID *, _jobject *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDS2_E",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDS2_E",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7650,7 +6944,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDaE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jfieldID *, signed char)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDaE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDaE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7659,7 +6952,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDdE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jfieldID *, double)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDdE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDdE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7668,7 +6960,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDfE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jfieldID *, float)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDfE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDfE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7677,7 +6968,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDhE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jfieldID *, unsigned char)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDhE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDhE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7686,7 +6976,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDiE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jfieldID *, int)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDiE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDiE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7695,7 +6984,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDsE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jfieldID *, short)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDsE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDsE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7704,7 +6992,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDtE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jfieldID *, unsigned short)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDtE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDtE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7713,7 +7000,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDxE",
    "name" : "void (*)(_JNIEnv *, _jobject *, _jfieldID *, long long)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jobjectP9_jfieldIDxE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jobjectP9_jfieldIDxE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7722,7 +7008,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jstringPKcE",
    "name" : "void (*)(_JNIEnv *, _jstring *, const char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jstringPKcE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jstringPKcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7731,7 +7016,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jstringPKtE",
    "name" : "void (*)(_JNIEnv *, _jstring *, const unsigned short *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jstringPKtE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jstringPKtE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7740,7 +7024,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jstringiiPcE",
    "name" : "void (*)(_JNIEnv *, _jstring *, int, int, char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jstringiiPcE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jstringiiPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7749,7 +7032,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvP8_jstringiiPtE",
    "name" : "void (*)(_JNIEnv *, _jstring *, int, int, unsigned short *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvP8_jstringiiPtE",
-   "self_type" : "_ZTIPFvP7_JNIEnvP8_jstringiiPtE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7758,7 +7040,6 @@
    "linker_set_key" : "_ZTIPFvP7_JNIEnvPKcE",
    "name" : "void (*)(_JNIEnv *, const char *)",
    "referenced_type" : "_ZTIFvP7_JNIEnvPKcE",
-   "self_type" : "_ZTIPFvP7_JNIEnvPKcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7767,7 +7048,6 @@
    "linker_set_key" : "_ZTIPFvvE",
    "name" : "void (*)()",
    "referenced_type" : "_ZTIFvvE",
-   "self_type" : "_ZTIPFvvE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -7776,7 +7056,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "long long (*)(_JNIEnv *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7785,7 +7064,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "name" : "long long (*)(_JNIEnv *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7794,7 +7072,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "name" : "long long (*)(_JNIEnv *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7803,7 +7080,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP7_jclassP9_jfieldIDE",
    "name" : "long long (*)(_JNIEnv *, _jclass *, _jfieldID *)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP7_jclassP9_jfieldIDE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP7_jclassP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7812,7 +7088,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP8_jobjectE",
    "name" : "long long (*)(_JNIEnv *, _jobject *)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP8_jobjectE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7821,7 +7096,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "name" : "long long (*)(_JNIEnv *, _jobject *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP8_jobjectP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7830,7 +7104,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "name" : "long long (*)(_JNIEnv *, _jobject *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP8_jobjectP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7839,7 +7112,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "name" : "long long (*)(_JNIEnv *, _jobject *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP10_jmethodIDzE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP8_jobjectP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7848,7 +7120,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "name" : "long long (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, const jvalue *)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPK6jvalueE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7857,7 +7128,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "name" : "long long (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, char *)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDPcE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7866,7 +7136,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "name" : "long long (*)(_JNIEnv *, _jobject *, _jclass *, _jmethodID *, ...)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP8_jobjectP7_jclassP10_jmethodIDzE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7875,7 +7144,6 @@
    "linker_set_key" : "_ZTIPFxP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "name" : "long long (*)(_JNIEnv *, _jobject *, _jfieldID *)",
    "referenced_type" : "_ZTIFxP7_JNIEnvP8_jobjectP9_jfieldIDE",
-   "self_type" : "_ZTIPFxP7_JNIEnvP8_jobjectP9_jfieldIDE",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7884,7 +7152,6 @@
    "linker_set_key" : "_ZTIPK15JNINativeMethod",
    "name" : "const JNINativeMethod *",
    "referenced_type" : "_ZTIK15JNINativeMethod",
-   "self_type" : "_ZTIPK15JNINativeMethod",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7893,7 +7160,6 @@
    "linker_set_key" : "_ZTIPK18JNIInvokeInterface",
    "name" : "const JNIInvokeInterface *",
    "referenced_type" : "_ZTIK18JNIInvokeInterface",
-   "self_type" : "_ZTIPK18JNIInvokeInterface",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7902,7 +7168,6 @@
    "linker_set_key" : "_ZTIPK18JNINativeInterface",
    "name" : "const JNINativeInterface *",
    "referenced_type" : "_ZTIK18JNINativeInterface",
-   "self_type" : "_ZTIPK18JNINativeInterface",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7911,7 +7176,6 @@
    "linker_set_key" : "_ZTIPK6jvalue",
    "name" : "const jvalue *",
    "referenced_type" : "_ZTIK6jvalue",
-   "self_type" : "_ZTIPK6jvalue",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7920,7 +7184,6 @@
    "linker_set_key" : "_ZTIPKN7android28NativeBridgeRuntimeCallbacksE",
    "name" : "const android::NativeBridgeRuntimeCallbacks *",
    "referenced_type" : "_ZTIKN7android28NativeBridgeRuntimeCallbacksE",
-   "self_type" : "_ZTIPKN7android28NativeBridgeRuntimeCallbacksE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -7929,7 +7192,6 @@
    "linker_set_key" : "_ZTIPKa",
    "name" : "const signed char *",
    "referenced_type" : "_ZTIKa",
-   "self_type" : "_ZTIPKa",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7938,7 +7200,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7947,7 +7208,6 @@
    "linker_set_key" : "_ZTIPKd",
    "name" : "const double *",
    "referenced_type" : "_ZTIKd",
-   "self_type" : "_ZTIPKd",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7956,7 +7216,6 @@
    "linker_set_key" : "_ZTIPKf",
    "name" : "const float *",
    "referenced_type" : "_ZTIKf",
-   "self_type" : "_ZTIPKf",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7965,7 +7224,6 @@
    "linker_set_key" : "_ZTIPKh",
    "name" : "const unsigned char *",
    "referenced_type" : "_ZTIKh",
-   "self_type" : "_ZTIPKh",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7974,7 +7232,6 @@
    "linker_set_key" : "_ZTIPKi",
    "name" : "const int *",
    "referenced_type" : "_ZTIKi",
-   "self_type" : "_ZTIPKi",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7983,7 +7240,6 @@
    "linker_set_key" : "_ZTIPKs",
    "name" : "const short *",
    "referenced_type" : "_ZTIKs",
-   "self_type" : "_ZTIPKs",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -7992,16 +7248,22 @@
    "linker_set_key" : "_ZTIPKt",
    "name" : "const unsigned short *",
    "referenced_type" : "_ZTIKt",
-   "self_type" : "_ZTIPKt",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
+  },
+  {
+   "alignment" : 4,
+   "linker_set_key" : "_ZTIPKv",
+   "name" : "const void *",
+   "referenced_type" : "_ZTIKv",
+   "size" : 4,
+   "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIPKx",
    "name" : "const long long *",
    "referenced_type" : "_ZTIKx",
-   "self_type" : "_ZTIPKx",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8010,7 +7272,6 @@
    "linker_set_key" : "_ZTIPN7android25native_bridge_namespace_tE",
    "name" : "android::native_bridge_namespace_t *",
    "referenced_type" : "_ZTIN7android25native_bridge_namespace_tE",
-   "self_type" : "_ZTIPN7android25native_bridge_namespace_tE",
    "size" : 4,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -8019,7 +7280,6 @@
    "linker_set_key" : "_ZTIPP7_JNIEnv",
    "name" : "_JNIEnv **",
    "referenced_type" : "_ZTIP7_JNIEnv",
-   "self_type" : "_ZTIPP7_JNIEnv",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8028,7 +7288,6 @@
    "linker_set_key" : "_ZTIPP7_JavaVM",
    "name" : "_JavaVM **",
    "referenced_type" : "_ZTIP7_JavaVM",
-   "self_type" : "_ZTIPP7_JavaVM",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8037,7 +7296,6 @@
    "linker_set_key" : "_ZTIPPv",
    "name" : "void **",
    "referenced_type" : "_ZTIPv",
-   "self_type" : "_ZTIPPv",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8046,7 +7304,6 @@
    "linker_set_key" : "_ZTIPa",
    "name" : "signed char *",
    "referenced_type" : "_ZTIa",
-   "self_type" : "_ZTIPa",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8055,7 +7312,6 @@
    "linker_set_key" : "_ZTIPc",
    "name" : "char *",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIPc",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8064,7 +7320,6 @@
    "linker_set_key" : "_ZTIPd",
    "name" : "double *",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIPd",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8073,7 +7328,6 @@
    "linker_set_key" : "_ZTIPf",
    "name" : "float *",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIPf",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8082,7 +7336,6 @@
    "linker_set_key" : "_ZTIPh",
    "name" : "unsigned char *",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIPh",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8091,7 +7344,6 @@
    "linker_set_key" : "_ZTIPi",
    "name" : "int *",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIPi",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8100,7 +7352,6 @@
    "linker_set_key" : "_ZTIPs",
    "name" : "short *",
    "referenced_type" : "_ZTIs",
-   "self_type" : "_ZTIPs",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8109,7 +7360,6 @@
    "linker_set_key" : "_ZTIPt",
    "name" : "unsigned short *",
    "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIPt",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8118,7 +7368,6 @@
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIPv",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8127,7 +7376,6 @@
    "linker_set_key" : "_ZTIPx",
    "name" : "long long *",
    "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIPx",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   }
@@ -8140,7 +7388,6 @@
    "linker_set_key" : "_ZTIK15JNINativeMethod",
    "name" : "const JNINativeMethod",
    "referenced_type" : "_ZTI15JNINativeMethod",
-   "self_type" : "_ZTIK15JNINativeMethod",
    "size" : 12,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8150,7 +7397,6 @@
    "linker_set_key" : "_ZTIK18JNIInvokeInterface",
    "name" : "const JNIInvokeInterface",
    "referenced_type" : "_ZTI18JNIInvokeInterface",
-   "self_type" : "_ZTIK18JNIInvokeInterface",
    "size" : 32,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8160,7 +7406,6 @@
    "linker_set_key" : "_ZTIK18JNINativeInterface",
    "name" : "const JNINativeInterface",
    "referenced_type" : "_ZTI18JNINativeInterface",
-   "self_type" : "_ZTIK18JNINativeInterface",
    "size" : 932,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8170,7 +7415,6 @@
    "linker_set_key" : "_ZTIK6jvalue",
    "name" : "const jvalue",
    "referenced_type" : "_ZTI6jvalue",
-   "self_type" : "_ZTIK6jvalue",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8180,7 +7424,6 @@
    "linker_set_key" : "_ZTIKN7android28NativeBridgeRuntimeCallbacksE",
    "name" : "const android::NativeBridgeRuntimeCallbacks",
    "referenced_type" : "_ZTIN7android28NativeBridgeRuntimeCallbacksE",
-   "self_type" : "_ZTIKN7android28NativeBridgeRuntimeCallbacksE",
    "size" : 12,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
@@ -8190,7 +7433,6 @@
    "linker_set_key" : "_ZTIKa",
    "name" : "const signed char",
    "referenced_type" : "_ZTIa",
-   "self_type" : "_ZTIKa",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8200,7 +7442,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8210,7 +7451,6 @@
    "linker_set_key" : "_ZTIKd",
    "name" : "const double",
    "referenced_type" : "_ZTId",
-   "self_type" : "_ZTIKd",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8220,7 +7460,6 @@
    "linker_set_key" : "_ZTIKf",
    "name" : "const float",
    "referenced_type" : "_ZTIf",
-   "self_type" : "_ZTIKf",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8230,7 +7469,6 @@
    "linker_set_key" : "_ZTIKh",
    "name" : "const unsigned char",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIKh",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8240,7 +7478,6 @@
    "linker_set_key" : "_ZTIKi",
    "name" : "const int",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIKi",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8250,7 +7487,6 @@
    "linker_set_key" : "_ZTIKs",
    "name" : "const short",
    "referenced_type" : "_ZTIs",
-   "self_type" : "_ZTIKs",
    "size" : 2,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8260,9 +7496,15 @@
    "linker_set_key" : "_ZTIKt",
    "name" : "const unsigned short",
    "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIKt",
    "size" : 2,
    "source_file" : "libnativehelper/include_jni/jni.h"
+  },
+  {
+   "is_const" : true,
+   "linker_set_key" : "_ZTIKv",
+   "name" : "const void",
+   "referenced_type" : "_ZTIv",
+   "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
    "alignment" : 4,
@@ -8270,7 +7512,6 @@
    "linker_set_key" : "_ZTIKx",
    "name" : "const long long",
    "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIKx",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   }
@@ -8288,8 +7529,6 @@
    "linker_set_key" : "_ZTI10_jintArray",
    "name" : "_jintArray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI10_jintArray",
-   "self_type" : "_ZTI10_jintArray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8304,8 +7543,6 @@
    "linker_set_key" : "_ZTI11_jbyteArray",
    "name" : "_jbyteArray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI11_jbyteArray",
-   "self_type" : "_ZTI11_jbyteArray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8320,8 +7557,6 @@
    "linker_set_key" : "_ZTI11_jcharArray",
    "name" : "_jcharArray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI11_jcharArray",
-   "self_type" : "_ZTI11_jcharArray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8336,8 +7571,6 @@
    "linker_set_key" : "_ZTI11_jlongArray",
    "name" : "_jlongArray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI11_jlongArray",
-   "self_type" : "_ZTI11_jlongArray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8352,8 +7585,6 @@
    "linker_set_key" : "_ZTI11_jthrowable",
    "name" : "_jthrowable",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI11_jthrowable",
-   "self_type" : "_ZTI11_jthrowable",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8373,8 +7604,6 @@
    ],
    "linker_set_key" : "_ZTI12JavaVMOption",
    "name" : "JavaVMOption",
-   "referenced_type" : "_ZTI12JavaVMOption",
-   "self_type" : "_ZTI12JavaVMOption",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8389,8 +7618,6 @@
    "linker_set_key" : "_ZTI12_jfloatArray",
    "name" : "_jfloatArray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI12_jfloatArray",
-   "self_type" : "_ZTI12_jfloatArray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8405,8 +7632,6 @@
    "linker_set_key" : "_ZTI12_jshortArray",
    "name" : "_jshortArray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI12_jshortArray",
-   "self_type" : "_ZTI12_jshortArray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8421,8 +7646,6 @@
    "linker_set_key" : "_ZTI13_jdoubleArray",
    "name" : "_jdoubleArray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI13_jdoubleArray",
-   "self_type" : "_ZTI13_jdoubleArray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8437,8 +7660,6 @@
    "linker_set_key" : "_ZTI13_jobjectArray",
    "name" : "_jobjectArray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI13_jobjectArray",
-   "self_type" : "_ZTI13_jobjectArray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8468,8 +7689,6 @@
    ],
    "linker_set_key" : "_ZTI14JavaVMInitArgs",
    "name" : "JavaVMInitArgs",
-   "referenced_type" : "_ZTI14JavaVMInitArgs",
-   "self_type" : "_ZTI14JavaVMInitArgs",
    "size" : 16,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8484,8 +7703,6 @@
    "linker_set_key" : "_ZTI14_jbooleanArray",
    "name" : "_jbooleanArray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI14_jbooleanArray",
-   "self_type" : "_ZTI14_jbooleanArray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8510,8 +7727,6 @@
    ],
    "linker_set_key" : "_ZTI15JNINativeMethod",
    "name" : "JNINativeMethod",
-   "referenced_type" : "_ZTI15JNINativeMethod",
-   "self_type" : "_ZTI15JNINativeMethod",
    "size" : 12,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8536,8 +7751,6 @@
    ],
    "linker_set_key" : "_ZTI16JavaVMAttachArgs",
    "name" : "JavaVMAttachArgs",
-   "referenced_type" : "_ZTI16JavaVMAttachArgs",
-   "self_type" : "_ZTI16JavaVMAttachArgs",
    "size" : 12,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -8587,8 +7800,6 @@
    ],
    "linker_set_key" : "_ZTI18JNIInvokeInterface",
    "name" : "JNIInvokeInterface",
-   "referenced_type" : "_ZTI18JNIInvokeInterface",
-   "self_type" : "_ZTI18JNIInvokeInterface",
    "size" : 32,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -9763,8 +8974,6 @@
    ],
    "linker_set_key" : "_ZTI18JNINativeInterface",
    "name" : "JNINativeInterface",
-   "referenced_type" : "_ZTI18JNINativeInterface",
-   "self_type" : "_ZTI18JNINativeInterface",
    "size" : 932,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -9812,8 +9021,6 @@
    "linker_set_key" : "_ZTI6jvalue",
    "name" : "jvalue",
    "record_kind" : "union",
-   "referenced_type" : "_ZTI6jvalue",
-   "self_type" : "_ZTI6jvalue",
    "size" : 8,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -9828,8 +9035,6 @@
    ],
    "linker_set_key" : "_ZTI7_JNIEnv",
    "name" : "_JNIEnv",
-   "referenced_type" : "_ZTI7_JNIEnv",
-   "self_type" : "_ZTI7_JNIEnv",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -9844,8 +9049,6 @@
    ],
    "linker_set_key" : "_ZTI7_JavaVM",
    "name" : "_JavaVM",
-   "referenced_type" : "_ZTI7_JavaVM",
-   "self_type" : "_ZTI7_JavaVM",
    "size" : 4,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -9860,8 +9063,6 @@
    "linker_set_key" : "_ZTI7_jarray",
    "name" : "_jarray",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI7_jarray",
-   "self_type" : "_ZTI7_jarray",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -9876,8 +9077,6 @@
    "linker_set_key" : "_ZTI7_jclass",
    "name" : "_jclass",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI7_jclass",
-   "self_type" : "_ZTI7_jclass",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -9886,8 +9085,6 @@
    "linker_set_key" : "_ZTI8_jobject",
    "name" : "_jobject",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI8_jobject",
-   "self_type" : "_ZTI8_jobject",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -9902,8 +9099,6 @@
    "linker_set_key" : "_ZTI8_jstring",
    "name" : "_jstring",
    "record_kind" : "class",
-   "referenced_type" : "_ZTI8_jstring",
-   "self_type" : "_ZTI8_jstring",
    "size" : 1,
    "source_file" : "libnativehelper/include_jni/jni.h"
   },
@@ -10004,13 +9199,16 @@
      "field_name" : "getTrampolineWithJNICallType",
      "field_offset" : 576,
      "referenced_type" : "_ZTIPFPvS_PKcS1_jN7android11JNICallTypeEE"
+    },
+    {
+     "field_name" : "getTrampolineForFunctionPointer",
+     "field_offset" : 608,
+     "referenced_type" : "_ZTIPFPvPKvPKcjN7android11JNICallTypeEE"
     }
    ],
    "linker_set_key" : "_ZTIN7android21NativeBridgeCallbacksE",
    "name" : "android::NativeBridgeCallbacks",
-   "referenced_type" : "_ZTIN7android21NativeBridgeCallbacksE",
-   "self_type" : "_ZTIN7android21NativeBridgeCallbacksE",
-   "size" : 76,
+   "size" : 80,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   },
   {
@@ -10034,8 +9232,6 @@
    ],
    "linker_set_key" : "_ZTIN7android28NativeBridgeRuntimeCallbacksE",
    "name" : "android::NativeBridgeRuntimeCallbacks",
-   "referenced_type" : "_ZTIN7android28NativeBridgeRuntimeCallbacksE",
-   "self_type" : "_ZTIN7android28NativeBridgeRuntimeCallbacksE",
    "size" : 12,
    "source_file" : "art/libnativebridge/include/nativebridge/native_bridge.h"
   }

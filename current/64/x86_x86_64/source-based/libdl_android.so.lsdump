@@ -6,7 +6,6 @@
    "linker_set_key" : "_ZTIA10_i",
    "name" : "int[10]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA10_i",
    "size" : 40,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -15,7 +14,6 @@
    "linker_set_key" : "_ZTIA16_h",
    "name" : "unsigned char[16]",
    "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIA16_h",
    "size" : 16,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -24,7 +22,6 @@
    "linker_set_key" : "_ZTIA1_i",
    "name" : "int[1]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA1_i",
    "size" : 4,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -33,7 +30,6 @@
    "linker_set_key" : "_ZTIA2_i",
    "name" : "int[2]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA2_i",
    "size" : 8,
    "source_file" : "bionic/libc/kernel/uapi/asm-generic/posix_types.h"
   },
@@ -42,7 +38,6 @@
    "linker_set_key" : "_ZTIA32_m",
    "name" : "unsigned long[32]",
    "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIA32_m",
    "size" : 128,
    "source_file" : "bionic/libc/kernel/uapi/linux/posix_types.h"
   },
@@ -51,7 +46,6 @@
    "linker_set_key" : "_ZTIA8_i",
    "name" : "int[8]",
    "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIA8_i",
    "size" : 32,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   }
@@ -64,8 +58,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIb",
    "name" : "bool",
-   "referenced_type" : "_ZTIb",
-   "self_type" : "_ZTIb",
    "size" : 1
   },
   {
@@ -73,16 +65,12 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIc",
    "name" : "char",
-   "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIc",
    "size" : 1
   },
   {
    "alignment" : 4,
    "linker_set_key" : "_ZTIe",
    "name" : "long double",
-   "referenced_type" : "_ZTIe",
-   "self_type" : "_ZTIe",
    "size" : 8
   },
   {
@@ -91,8 +79,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIh",
    "name" : "unsigned char",
-   "referenced_type" : "_ZTIh",
-   "self_type" : "_ZTIh",
    "size" : 1
   },
   {
@@ -100,8 +86,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIi",
    "name" : "int",
-   "referenced_type" : "_ZTIi",
-   "self_type" : "_ZTIi",
    "size" : 4
   },
   {
@@ -110,8 +94,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIj",
    "name" : "unsigned int",
-   "referenced_type" : "_ZTIj",
-   "self_type" : "_ZTIj",
    "size" : 4
   },
   {
@@ -119,8 +101,6 @@
    "is_integral" : true,
    "linker_set_key" : "_ZTIl",
    "name" : "long",
-   "referenced_type" : "_ZTIl",
-   "self_type" : "_ZTIl",
    "size" : 4
   },
   {
@@ -129,8 +109,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIm",
    "name" : "unsigned long",
-   "referenced_type" : "_ZTIm",
-   "self_type" : "_ZTIm",
    "size" : 4
   },
   {
@@ -139,23 +117,17 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIt",
    "name" : "unsigned short",
-   "referenced_type" : "_ZTIt",
-   "self_type" : "_ZTIt",
    "size" : 2
   },
   {
    "linker_set_key" : "_ZTIv",
-   "name" : "void",
-   "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIv"
+   "name" : "void"
   },
   {
    "alignment" : 4,
    "is_integral" : true,
    "linker_set_key" : "_ZTIx",
    "name" : "long long",
-   "referenced_type" : "_ZTIx",
-   "self_type" : "_ZTIx",
    "size" : 8
   },
   {
@@ -164,8 +136,6 @@
    "is_unsigned" : true,
    "linker_set_key" : "_ZTIy",
    "name" : "unsigned long long",
-   "referenced_type" : "_ZTIy",
-   "self_type" : "_ZTIy",
    "size" : 8
   }
  ],
@@ -230,8 +200,6 @@
    ],
    "linker_set_key" : "_ZTI16HeapTaggingLevel",
    "name" : "HeapTaggingLevel",
-   "referenced_type" : "_ZTI16HeapTaggingLevel",
-   "self_type" : "_ZTI16HeapTaggingLevel",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h",
    "underlying_type" : "_ZTIj"
@@ -283,8 +251,6 @@
    ],
    "linker_set_key" : "_ZTI25$ANDROID_DLEXT_FORCE_LOAD",
    "name" : "(unnamed)",
-   "referenced_type" : "_ZTI25$ANDROID_DLEXT_FORCE_LOAD",
-   "self_type" : "_ZTI25$ANDROID_DLEXT_FORCE_LOAD",
    "size" : 4,
    "source_file" : "bionic/libc/include/android/dlext.h",
    "underlying_type" : "_ZTIj"
@@ -308,8 +274,6 @@
    ],
    "linker_set_key" : "_ZTIN7r_debug7$RT_ADDE",
    "name" : "r_debug::(unnamed)",
-   "referenced_type" : "_ZTIN7r_debug7$RT_ADDE",
-   "self_type" : "_ZTIN7r_debug7$RT_ADDE",
    "size" : 4,
    "source_file" : "bionic/libc/include/link.h",
    "underlying_type" : "_ZTIj"
@@ -333,9 +297,7 @@
      "referenced_type" : "_ZTIPKv"
     }
    ],
-   "referenced_type" : "_ZTIFPvS_jPKvE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvS_jPKvE",
    "source_file" : "bionic/libc/include/malloc.h"
   },
   {
@@ -351,9 +313,7 @@
      "referenced_type" : "_ZTIPKv"
     }
    ],
-   "referenced_type" : "_ZTIFPvjPKvE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvjPKvE",
    "source_file" : "bionic/libc/include/malloc.h"
   },
   {
@@ -372,9 +332,7 @@
      "referenced_type" : "_ZTIPKv"
     }
    ],
-   "referenced_type" : "_ZTIFPvjjPKvE",
    "return_type" : "_ZTIPv",
-   "self_type" : "_ZTIFPvjjPKvE",
    "source_file" : "bionic/libc/include/malloc.h"
   },
   {
@@ -390,9 +348,7 @@
      "referenced_type" : "_ZTIPKc"
     }
    ],
-   "referenced_type" : "_ZTIFvPvPKcE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvPvPKcE",
    "source_file" : "bionic/libdl/libdl_android.cpp"
   },
   {
@@ -408,9 +364,7 @@
      "referenced_type" : "_ZTIPKv"
     }
    ],
-   "referenced_type" : "_ZTIFvPvPKvE",
    "return_type" : "_ZTIv",
-   "self_type" : "_ZTIFvPvPKvE",
    "source_file" : "bionic/libc/include/malloc.h"
   }
  ],
@@ -552,7 +506,6 @@
    "linker_set_key" : "_ZTIP19android_namespace_t",
    "name" : "android_namespace_t *",
    "referenced_type" : "_ZTI19android_namespace_t",
-   "self_type" : "_ZTIP19android_namespace_t",
    "size" : 4,
    "source_file" : "bionic/libc/include/android/dlext.h"
   },
@@ -561,7 +514,6 @@
    "linker_set_key" : "_ZTIP7__sFILE",
    "name" : "__sFILE *",
    "referenced_type" : "_ZTI7__sFILE",
-   "self_type" : "_ZTIP7__sFILE",
    "size" : 4,
    "source_file" : "bionic/libc/include/stdio.h"
   },
@@ -570,7 +522,6 @@
    "linker_set_key" : "_ZTIP8link_map",
    "name" : "link_map *",
    "referenced_type" : "_ZTI8link_map",
-   "self_type" : "_ZTIP8link_map",
    "size" : 4,
    "source_file" : "bionic/libc/include/link.h"
   },
@@ -579,7 +530,6 @@
    "linker_set_key" : "_ZTIP9Elf32_Dyn",
    "name" : "Elf32_Dyn *",
    "referenced_type" : "_ZTI9Elf32_Dyn",
-   "self_type" : "_ZTIP9Elf32_Dyn",
    "size" : 4,
    "source_file" : "bionic/libc/include/link.h"
   },
@@ -588,7 +538,6 @@
    "linker_set_key" : "_ZTIPFPvS_jPKvE",
    "name" : "void *(*)(void *, unsigned int, const void *)",
    "referenced_type" : "_ZTIFPvS_jPKvE",
-   "self_type" : "_ZTIPFPvS_jPKvE",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -597,7 +546,6 @@
    "linker_set_key" : "_ZTIPFPvjPKvE",
    "name" : "void *(*)(unsigned int, const void *)",
    "referenced_type" : "_ZTIFPvjPKvE",
-   "self_type" : "_ZTIPFPvjPKvE",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -606,7 +554,6 @@
    "linker_set_key" : "_ZTIPFPvjjPKvE",
    "name" : "void *(*)(unsigned int, unsigned int, const void *)",
    "referenced_type" : "_ZTIFPvjjPKvE",
-   "self_type" : "_ZTIPFPvjjPKvE",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -615,7 +562,6 @@
    "linker_set_key" : "_ZTIPFvPvPKcE",
    "name" : "void (*)(void *, const char *)",
    "referenced_type" : "_ZTIFvPvPKcE",
-   "self_type" : "_ZTIPFvPvPKcE",
    "size" : 4,
    "source_file" : "bionic/libdl/libdl_android.cpp"
   },
@@ -624,7 +570,6 @@
    "linker_set_key" : "_ZTIPFvPvPKvE",
    "name" : "void (*)(void *, const void *)",
    "referenced_type" : "_ZTIFvPvPKvE",
-   "self_type" : "_ZTIPFvPvPKvE",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -633,7 +578,6 @@
    "linker_set_key" : "_ZTIPK10elf32_phdr",
    "name" : "const elf32_phdr *",
    "referenced_type" : "_ZTIK10elf32_phdr",
-   "self_type" : "_ZTIPK10elf32_phdr",
    "size" : 4,
    "source_file" : "bionic/libc/include/link.h"
   },
@@ -642,7 +586,6 @@
    "linker_set_key" : "_ZTIPKc",
    "name" : "const char *",
    "referenced_type" : "_ZTIKc",
-   "self_type" : "_ZTIPKc",
    "size" : 4,
    "source_file" : "bionic/libc/include/dlfcn.h"
   },
@@ -651,7 +594,6 @@
    "linker_set_key" : "_ZTIPKv",
    "name" : "const void *",
    "referenced_type" : "_ZTIKv",
-   "self_type" : "_ZTIPKv",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -660,7 +602,6 @@
    "linker_set_key" : "_ZTIPc",
    "name" : "char *",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIPc",
    "size" : 4,
    "source_file" : "bionic/libc/include/link.h"
   },
@@ -669,7 +610,6 @@
    "linker_set_key" : "_ZTIPv",
    "name" : "void *",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIPv",
    "size" : 4,
    "source_file" : "bionic/libc/include/dlfcn.h"
   }
@@ -682,7 +622,6 @@
    "linker_set_key" : "_ZTIK10elf32_phdr",
    "name" : "const elf32_phdr",
    "referenced_type" : "_ZTI10elf32_phdr",
-   "self_type" : "_ZTIK10elf32_phdr",
    "size" : 32,
    "source_file" : "bionic/libc/include/link.h"
   },
@@ -692,7 +631,6 @@
    "linker_set_key" : "_ZTIKc",
    "name" : "const char",
    "referenced_type" : "_ZTIc",
-   "self_type" : "_ZTIKc",
    "size" : 1,
    "source_file" : "bionic/libc/include/dlfcn.h"
   },
@@ -701,7 +639,6 @@
    "linker_set_key" : "_ZTIKv",
    "name" : "const void",
    "referenced_type" : "_ZTIv",
-   "self_type" : "_ZTIKv",
    "source_file" : "bionic/libc/include/malloc.h"
   },
   {
@@ -710,7 +647,6 @@
    "linker_set_key" : "_ZTIVPFPvS_jPKvE",
    "name" : "void *(*volatile)(void *, unsigned int, const void *)",
    "referenced_type" : "_ZTIPFPvS_jPKvE",
-   "self_type" : "_ZTIVPFPvS_jPKvE",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -720,7 +656,6 @@
    "linker_set_key" : "_ZTIVPFPvjPKvE",
    "name" : "void *(*volatile)(unsigned int, const void *)",
    "referenced_type" : "_ZTIPFPvjPKvE",
-   "self_type" : "_ZTIVPFPvjPKvE",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -730,7 +665,6 @@
    "linker_set_key" : "_ZTIVPFPvjjPKvE",
    "name" : "void *(*volatile)(unsigned int, unsigned int, const void *)",
    "referenced_type" : "_ZTIPFPvjjPKvE",
-   "self_type" : "_ZTIVPFPvjjPKvE",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -740,7 +674,6 @@
    "linker_set_key" : "_ZTIVPFvPvPKvE",
    "name" : "void (*volatile)(void *, const void *)",
    "referenced_type" : "_ZTIPFvPvPKvE",
-   "self_type" : "_ZTIVPFvPvPKvE",
    "size" : 4,
    "source_file" : "bionic/libc/include/malloc.h"
   }
@@ -768,8 +701,6 @@
    ],
    "linker_set_key" : "_ZTI10Elf32_Chdr",
    "name" : "Elf32_Chdr",
-   "referenced_type" : "_ZTI10Elf32_Chdr",
-   "self_type" : "_ZTI10Elf32_Chdr",
    "size" : 12,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -804,8 +735,6 @@
    ],
    "linker_set_key" : "_ZTI10Elf32_Move",
    "name" : "Elf32_Move",
-   "referenced_type" : "_ZTI10Elf32_Move",
-   "self_type" : "_ZTI10Elf32_Move",
    "size" : 20,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -835,8 +764,6 @@
    ],
    "linker_set_key" : "_ZTI10Elf64_Chdr",
    "name" : "Elf64_Chdr",
-   "referenced_type" : "_ZTI10Elf64_Chdr",
-   "self_type" : "_ZTI10Elf64_Chdr",
    "size" : 24,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -871,8 +798,6 @@
    ],
    "linker_set_key" : "_ZTI10Elf64_Move",
    "name" : "Elf64_Move",
-   "referenced_type" : "_ZTI10Elf64_Move",
-   "self_type" : "_ZTI10Elf64_Move",
    "size" : 28,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -897,8 +822,6 @@
    ],
    "linker_set_key" : "_ZTI10elf32_note",
    "name" : "elf32_note",
-   "referenced_type" : "_ZTI10elf32_note",
-   "self_type" : "_ZTI10elf32_note",
    "size" : 12,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -948,8 +871,6 @@
    ],
    "linker_set_key" : "_ZTI10elf32_phdr",
    "name" : "elf32_phdr",
-   "referenced_type" : "_ZTI10elf32_phdr",
-   "self_type" : "_ZTI10elf32_phdr",
    "size" : 32,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -974,8 +895,6 @@
    ],
    "linker_set_key" : "_ZTI10elf32_rela",
    "name" : "elf32_rela",
-   "referenced_type" : "_ZTI10elf32_rela",
-   "self_type" : "_ZTI10elf32_rela",
    "size" : 12,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -1035,8 +954,6 @@
    ],
    "linker_set_key" : "_ZTI10elf32_shdr",
    "name" : "elf32_shdr",
-   "referenced_type" : "_ZTI10elf32_shdr",
-   "self_type" : "_ZTI10elf32_shdr",
    "size" : 40,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -1061,8 +978,6 @@
    ],
    "linker_set_key" : "_ZTI10elf64_note",
    "name" : "elf64_note",
-   "referenced_type" : "_ZTI10elf64_note",
-   "self_type" : "_ZTI10elf64_note",
    "size" : 12,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -1112,8 +1027,6 @@
    ],
    "linker_set_key" : "_ZTI10elf64_phdr",
    "name" : "elf64_phdr",
-   "referenced_type" : "_ZTI10elf64_phdr",
-   "self_type" : "_ZTI10elf64_phdr",
    "size" : 56,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -1138,8 +1051,6 @@
    ],
    "linker_set_key" : "_ZTI10elf64_rela",
    "name" : "elf64_rela",
-   "referenced_type" : "_ZTI10elf64_rela",
-   "self_type" : "_ZTI10elf64_rela",
    "size" : 24,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -1199,8 +1110,6 @@
    ],
    "linker_set_key" : "_ZTI10elf64_shdr",
    "name" : "elf64_shdr",
-   "referenced_type" : "_ZTI10elf64_shdr",
-   "self_type" : "_ZTI10elf64_shdr",
    "size" : 64,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -1220,8 +1129,6 @@
    ],
    "linker_set_key" : "_ZTI11max_align_t",
    "name" : "max_align_t",
-   "referenced_type" : "_ZTI11max_align_t",
-   "self_type" : "_ZTI11max_align_t",
    "size" : 16,
    "source_file" : "prebuilts/clang-tools/linux-x86/clang-headers/__stddef_max_align_t.h"
   },
@@ -1266,8 +1173,6 @@
    ],
    "linker_set_key" : "_ZTI12Elf32_Verdef",
    "name" : "Elf32_Verdef",
-   "referenced_type" : "_ZTI12Elf32_Verdef",
-   "self_type" : "_ZTI12Elf32_Verdef",
    "size" : 20,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1287,8 +1192,6 @@
    ],
    "linker_set_key" : "_ZTI12Elf32_auxv_t",
    "name" : "Elf32_auxv_t",
-   "referenced_type" : "_ZTI12Elf32_auxv_t",
-   "self_type" : "_ZTI12Elf32_auxv_t",
    "size" : 8,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1333,8 +1236,6 @@
    ],
    "linker_set_key" : "_ZTI12Elf64_Verdef",
    "name" : "Elf64_Verdef",
-   "referenced_type" : "_ZTI12Elf64_Verdef",
-   "self_type" : "_ZTI12Elf64_Verdef",
    "size" : 20,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1354,8 +1255,6 @@
    ],
    "linker_set_key" : "_ZTI12Elf64_auxv_t",
    "name" : "Elf64_auxv_t",
-   "referenced_type" : "_ZTI12Elf64_auxv_t",
-   "self_type" : "_ZTI12Elf64_auxv_t",
    "size" : 16,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1405,8 +1304,6 @@
    ],
    "linker_set_key" : "_ZTI12dl_phdr_info",
    "name" : "dl_phdr_info",
-   "referenced_type" : "_ZTI12dl_phdr_info",
-   "self_type" : "_ZTI12dl_phdr_info",
    "size" : 40,
    "source_file" : "bionic/libc/include/link.h"
   },
@@ -1426,8 +1323,6 @@
    ],
    "linker_set_key" : "_ZTI13Elf32_Syminfo",
    "name" : "Elf32_Syminfo",
-   "referenced_type" : "_ZTI13Elf32_Syminfo",
-   "self_type" : "_ZTI13Elf32_Syminfo",
    "size" : 4,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1447,8 +1342,6 @@
    ],
    "linker_set_key" : "_ZTI13Elf32_Verdaux",
    "name" : "Elf32_Verdaux",
-   "referenced_type" : "_ZTI13Elf32_Verdaux",
-   "self_type" : "_ZTI13Elf32_Verdaux",
    "size" : 8,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1483,8 +1376,6 @@
    ],
    "linker_set_key" : "_ZTI13Elf32_Vernaux",
    "name" : "Elf32_Vernaux",
-   "referenced_type" : "_ZTI13Elf32_Vernaux",
-   "self_type" : "_ZTI13Elf32_Vernaux",
    "size" : 16,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1519,8 +1410,6 @@
    ],
    "linker_set_key" : "_ZTI13Elf32_Verneed",
    "name" : "Elf32_Verneed",
-   "referenced_type" : "_ZTI13Elf32_Verneed",
-   "self_type" : "_ZTI13Elf32_Verneed",
    "size" : 16,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1540,8 +1429,6 @@
    ],
    "linker_set_key" : "_ZTI13Elf64_Syminfo",
    "name" : "Elf64_Syminfo",
-   "referenced_type" : "_ZTI13Elf64_Syminfo",
-   "self_type" : "_ZTI13Elf64_Syminfo",
    "size" : 4,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1561,8 +1448,6 @@
    ],
    "linker_set_key" : "_ZTI13Elf64_Verdaux",
    "name" : "Elf64_Verdaux",
-   "referenced_type" : "_ZTI13Elf64_Verdaux",
-   "self_type" : "_ZTI13Elf64_Verdaux",
    "size" : 8,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1597,8 +1482,6 @@
    ],
    "linker_set_key" : "_ZTI13Elf64_Vernaux",
    "name" : "Elf64_Vernaux",
-   "referenced_type" : "_ZTI13Elf64_Vernaux",
-   "self_type" : "_ZTI13Elf64_Vernaux",
    "size" : 16,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1633,8 +1516,6 @@
    ],
    "linker_set_key" : "_ZTI13Elf64_Verneed",
    "name" : "Elf64_Verneed",
-   "referenced_type" : "_ZTI13Elf64_Verneed",
-   "self_type" : "_ZTI13Elf64_Verneed",
    "size" : 16,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -1674,8 +1555,6 @@
    ],
    "linker_set_key" : "_ZTI14pthread_attr_t",
    "name" : "pthread_attr_t",
-   "referenced_type" : "_ZTI14pthread_attr_t",
-   "self_type" : "_ZTI14pthread_attr_t",
    "size" : 24,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -1690,8 +1569,6 @@
    ],
    "linker_set_key" : "_ZTI14pthread_cond_t",
    "name" : "pthread_cond_t",
-   "referenced_type" : "_ZTI14pthread_cond_t",
-   "self_type" : "_ZTI14pthread_cond_t",
    "size" : 4,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -1706,8 +1583,6 @@
    ],
    "linker_set_key" : "_ZTI15__kernel_fd_set",
    "name" : "__kernel_fd_set",
-   "referenced_type" : "_ZTI15__kernel_fd_set",
-   "self_type" : "_ZTI15__kernel_fd_set",
    "size" : 128,
    "source_file" : "bionic/libc/kernel/uapi/linux/posix_types.h"
   },
@@ -1722,8 +1597,6 @@
    ],
    "linker_set_key" : "_ZTI15__kernel_fsid_t",
    "name" : "__kernel_fsid_t",
-   "referenced_type" : "_ZTI15__kernel_fsid_t",
-   "self_type" : "_ZTI15__kernel_fsid_t",
    "size" : 8,
    "source_file" : "bionic/libc/kernel/uapi/asm-generic/posix_types.h"
   },
@@ -1738,8 +1611,6 @@
    ],
    "linker_set_key" : "_ZTI15pthread_mutex_t",
    "name" : "pthread_mutex_t",
-   "referenced_type" : "_ZTI15pthread_mutex_t",
-   "self_type" : "_ZTI15pthread_mutex_t",
    "size" : 4,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -1754,8 +1625,6 @@
    ],
    "linker_set_key" : "_ZTI16pthread_rwlock_t",
    "name" : "pthread_rwlock_t",
-   "referenced_type" : "_ZTI16pthread_rwlock_t",
-   "self_type" : "_ZTI16pthread_rwlock_t",
    "size" : 40,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -1800,8 +1669,6 @@
    ],
    "linker_set_key" : "_ZTI17android_dlextinfo",
    "name" : "android_dlextinfo",
-   "referenced_type" : "_ZTI17android_dlextinfo",
-   "self_type" : "_ZTI17android_dlextinfo",
    "size" : 36,
    "source_file" : "bionic/libc/include/android/dlext.h"
   },
@@ -1816,8 +1683,6 @@
    ],
    "linker_set_key" : "_ZTI17pthread_barrier_t",
    "name" : "pthread_barrier_t",
-   "referenced_type" : "_ZTI17pthread_barrier_t",
-   "self_type" : "_ZTI17pthread_barrier_t",
    "size" : 32,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -1832,8 +1697,6 @@
    ],
    "linker_set_key" : "_ZTI18pthread_spinlock_t",
    "name" : "pthread_spinlock_t",
-   "referenced_type" : "_ZTI18pthread_spinlock_t",
-   "self_type" : "_ZTI18pthread_spinlock_t",
    "size" : 8,
    "source_file" : "bionic/libc/include/bits/pthread_types.h"
   },
@@ -1853,8 +1716,6 @@
    ],
    "linker_set_key" : "_ZTI5div_t",
    "name" : "div_t",
-   "referenced_type" : "_ZTI5div_t",
-   "self_type" : "_ZTI5div_t",
    "size" : 8,
    "source_file" : "bionic/libc/include/stdlib.h"
   },
@@ -1874,8 +1735,6 @@
    ],
    "linker_set_key" : "_ZTI6ldiv_t",
    "name" : "ldiv_t",
-   "referenced_type" : "_ZTI6ldiv_t",
-   "self_type" : "_ZTI6ldiv_t",
    "size" : 8,
    "source_file" : "bionic/libc/include/stdlib.h"
   },
@@ -1905,8 +1764,6 @@
    ],
    "linker_set_key" : "_ZTI7Dl_info",
    "name" : "Dl_info",
-   "referenced_type" : "_ZTI7Dl_info",
-   "self_type" : "_ZTI7Dl_info",
    "size" : 16,
    "source_file" : "bionic/libc/include/dlfcn.h"
   },
@@ -1926,8 +1783,6 @@
    ],
    "linker_set_key" : "_ZTI7lldiv_t",
    "name" : "lldiv_t",
-   "referenced_type" : "_ZTI7lldiv_t",
-   "self_type" : "_ZTI7lldiv_t",
    "size" : 16,
    "source_file" : "bionic/libc/include/stdlib.h"
   },
@@ -1962,8 +1817,6 @@
    ],
    "linker_set_key" : "_ZTI7r_debug",
    "name" : "r_debug",
-   "referenced_type" : "_ZTI7r_debug",
-   "self_type" : "_ZTI7r_debug",
    "size" : 20,
    "source_file" : "bionic/libc/include/link.h"
   },
@@ -1998,8 +1851,6 @@
    ],
    "linker_set_key" : "_ZTI8link_map",
    "name" : "link_map",
-   "referenced_type" : "_ZTI8link_map",
-   "self_type" : "_ZTI8link_map",
    "size" : 20,
    "source_file" : "bionic/libc/include/link.h"
   },
@@ -2059,8 +1910,6 @@
    ],
    "linker_set_key" : "_ZTI8mallinfo",
    "name" : "mallinfo",
-   "referenced_type" : "_ZTI8mallinfo",
-   "self_type" : "_ZTI8mallinfo",
    "size" : 40,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -2080,8 +1929,6 @@
    ],
    "linker_set_key" : "_ZTI9Elf32_Dyn",
    "name" : "Elf32_Dyn",
-   "referenced_type" : "_ZTI9Elf32_Dyn",
-   "self_type" : "_ZTI9Elf32_Dyn",
    "size" : 8,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -2116,8 +1963,6 @@
    ],
    "linker_set_key" : "_ZTI9Elf32_Lib",
    "name" : "Elf32_Lib",
-   "referenced_type" : "_ZTI9Elf32_Lib",
-   "self_type" : "_ZTI9Elf32_Lib",
    "size" : 20,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -2137,8 +1982,6 @@
    ],
    "linker_set_key" : "_ZTI9Elf64_Dyn",
    "name" : "Elf64_Dyn",
-   "referenced_type" : "_ZTI9Elf64_Dyn",
-   "self_type" : "_ZTI9Elf64_Dyn",
    "size" : 16,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -2173,8 +2016,6 @@
    ],
    "linker_set_key" : "_ZTI9Elf64_Lib",
    "name" : "Elf64_Lib",
-   "referenced_type" : "_ZTI9Elf64_Lib",
-   "self_type" : "_ZTI9Elf64_Lib",
    "size" : 20,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -2254,8 +2095,6 @@
    ],
    "linker_set_key" : "_ZTI9elf32_hdr",
    "name" : "elf32_hdr",
-   "referenced_type" : "_ZTI9elf32_hdr",
-   "self_type" : "_ZTI9elf32_hdr",
    "size" : 52,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -2275,8 +2114,6 @@
    ],
    "linker_set_key" : "_ZTI9elf32_rel",
    "name" : "elf32_rel",
-   "referenced_type" : "_ZTI9elf32_rel",
-   "self_type" : "_ZTI9elf32_rel",
    "size" : 8,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -2316,8 +2153,6 @@
    ],
    "linker_set_key" : "_ZTI9elf32_sym",
    "name" : "elf32_sym",
-   "referenced_type" : "_ZTI9elf32_sym",
-   "self_type" : "_ZTI9elf32_sym",
    "size" : 16,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -2397,8 +2232,6 @@
    ],
    "linker_set_key" : "_ZTI9elf64_hdr",
    "name" : "elf64_hdr",
-   "referenced_type" : "_ZTI9elf64_hdr",
-   "self_type" : "_ZTI9elf64_hdr",
    "size" : 64,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -2418,8 +2251,6 @@
    ],
    "linker_set_key" : "_ZTI9elf64_rel",
    "name" : "elf64_rel",
-   "referenced_type" : "_ZTI9elf64_rel",
-   "self_type" : "_ZTI9elf64_rel",
    "size" : 16,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -2459,8 +2290,6 @@
    ],
    "linker_set_key" : "_ZTI9elf64_sym",
    "name" : "elf64_sym",
-   "referenced_type" : "_ZTI9elf64_sym",
-   "self_type" : "_ZTI9elf64_sym",
    "size" : 24,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -2520,8 +2349,6 @@
    ],
    "linker_set_key" : "_ZTI9mallinfo2",
    "name" : "mallinfo2",
-   "referenced_type" : "_ZTI9mallinfo2",
-   "self_type" : "_ZTI9mallinfo2",
    "size" : 40,
    "source_file" : "bionic/libc/include/malloc.h"
   },
@@ -2538,8 +2365,6 @@
    "linker_set_key" : "_ZTIN12Elf32_auxv_tUt_E",
    "name" : "Elf32_auxv_t::(unnamed)",
    "record_kind" : "union",
-   "referenced_type" : "_ZTIN12Elf32_auxv_tUt_E",
-   "self_type" : "_ZTIN12Elf32_auxv_tUt_E",
    "size" : 4,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -2556,8 +2381,6 @@
    "linker_set_key" : "_ZTIN12Elf64_auxv_tUt_E",
    "name" : "Elf64_auxv_t::(unnamed)",
    "record_kind" : "union",
-   "referenced_type" : "_ZTIN12Elf64_auxv_tUt_E",
-   "self_type" : "_ZTIN12Elf64_auxv_tUt_E",
    "size" : 8,
    "source_file" : "bionic/libc/include/elf.h"
   },
@@ -2578,8 +2401,6 @@
    "linker_set_key" : "_ZTIN9Elf32_DynUt_E",
    "name" : "Elf32_Dyn::(unnamed)",
    "record_kind" : "union",
-   "referenced_type" : "_ZTIN9Elf32_DynUt_E",
-   "self_type" : "_ZTIN9Elf32_DynUt_E",
    "size" : 4,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   },
@@ -2600,8 +2421,6 @@
    "linker_set_key" : "_ZTIN9Elf64_DynUt_E",
    "name" : "Elf64_Dyn::(unnamed)",
    "record_kind" : "union",
-   "referenced_type" : "_ZTIN9Elf64_DynUt_E",
-   "self_type" : "_ZTIN9Elf64_DynUt_E",
    "size" : 8,
    "source_file" : "bionic/libc/kernel/uapi/linux/elf.h"
   }
